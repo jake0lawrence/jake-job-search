@@ -1,3 +1,5 @@
+# Create a simple index page to test
+cat > content/index.md << 'EOF'
 ---
 title: Welcome
 date: 2025-01-08
@@ -22,3 +24,4 @@ I'm looking for product management roles at growth-stage tech companies where I 
 ## Status
 
 Site is live and automatically deployed via Quartz! 🎉
+EOF
