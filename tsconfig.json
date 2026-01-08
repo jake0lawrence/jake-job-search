@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "lib": ["esnext", "DOM", "DOM.Iterable"],
+    "lib": ["ES2020", "DOM"],
     "experimentalDecorators": true,
     "module": "esnext",
-    "target": "esnext",
+    "target": "ES2020",
     "moduleResolution": "node",
     "strict": true,
     "incremental": true,
@@ -17,6 +17,6 @@
     "jsx": "react-jsx",
     "jsxImportSource": "preact"
   },
-  "include": ["**/*.ts", "**/*.tsx", "./package.json"],
-  "exclude": ["build/**/*.d.ts"]
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["build/**/*.d.ts", "node_modules"]
 }
