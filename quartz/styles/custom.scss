@@ -1,3 +1,119 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// Jake's Job Search - Warm Teal Theme
+// Ported from Obsidian Publish theme v2.1
+
+// ============================================
+// ENHANCED PAGE TITLE
+// ============================================
+h1.article-title {
+  padding-bottom: 0.4em;
+  border-bottom: 3px solid var(--secondary);
+  margin-bottom: 1em;
+}
+
+// ============================================
+// TABLE STYLING
+// ============================================
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+  
+  thead {
+    th {
+      background-color: var(--secondary) !important;
+      color: white !important;
+      font-weight: 600 !important;
+      padding: 8px 12px;
+      text-align: left;
+    }
+  }
+  
+  tbody {
+    tr {
+      &:nth-child(even) {
+        background-color: var(--lightgray);
+      }
+      
+      &:hover {
+        background-color: var(--highlight);
+      }
+    }
+    
+    td {
+      padding: 8px 12px;
+      border-bottom: 1px solid var(--gray);
+    }
+  }
+}
+
+// ============================================
+// BLOCKQUOTES - Teal Left Border
+// ============================================
+blockquote {
+  border-left: 4px solid var(--secondary) !important;
+  background-color: var(--highlight) !important;
+  padding: 0.75em 1em !important;
+  margin: 1em 0 !important;
+  border-radius: 0 4px 4px 0 !important;
+}
+
+// ============================================
+// H3 HEADINGS - Teal Accent
+// ============================================
+h3 {
+  color: var(--secondary);
+}
+
+// ============================================
+// SMOOTH LINK TRANSITIONS
+// ============================================
+a {
+  transition: color 0.15s ease, opacity 0.15s ease;
+  
+  &:hover {
+    opacity: 0.85;
+  }
+}
+
+// ============================================
+// INLINE CODE
+// ============================================
+:not(pre) > code {
+  background-color: var(--lightgray);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+// ============================================
+// GRAPH VIEW CUSTOMIZATION
+// ============================================
+.graph {
+  .node {
+    fill: var(--secondary);
+  }
+  
+  .link {
+    stroke: var(--gray);
+  }
+}
+
+// ============================================
+// TAG STYLING
+// ============================================
+.tag {
+  background-color: transparent;
+  border: 1px solid var(--gray);
+  color: var(--darkgray);
+  padding: 0.2em 0.6em;
+  border-radius: 4px;
+  font-size: 0.85em;
+  
+  &:hover {
+    background-color: var(--highlight);
+    border-color: var(--secondary);
+  }
+}
