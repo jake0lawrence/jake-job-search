@@ -32,30 +32,33 @@ The biggest thing: if you see a job posting or know someone at a company I'd be 
 
 This vault contains everything about my job search, organized so I (and you) can find things:
 
-| Section | What's There |
-|---------|--------------|
+| Section                     | What's There                                                 |
+| --------------------------- | ------------------------------------------------------------ |
 | **[[what-im-looking-for]]** | The types of roles I'm targeting, explained in plain English |
-| **[[target-companies]]** | Specific companies I'm interested in |
-| **[[what-ive-done]]** | My career highlights and key projects |
-| **[[my-superpowers]]** | Skills and expertise, with real examples |
-| **[[resume-variants]]** | Different versions of my resume for different role types |
-| **[[application-tracker]]** | Where I've applied and current status |
+| **[[target-companies]]**    | Specific companies I'm interested in                         |
+| **[[what-ive-done]]**       | My career highlights and key projects                        |
+| **[[my-superpowers]]**      | Skills and expertise, with real examples                     |
+| **[[resume-variants]]**     | Different versions of my resume for different role types     |
+| **[[application-tracker]]** | Where I've applied and current status                        |
 
 ---
 
 ## Find What You Need
 
 **If you're trying to help me find a job:**
+
 - [[how-you-can-help|How You Can Help]] — Specific ways to support my search
 - [[target-companies|Target Companies]] — Companies I'm interested in
 - [[what-im-looking-for|What I'm Looking For]] — Role criteria to match
 
 **If you want to understand my background:**
+
 - [[my-superpowers|My Superpowers]] — Key strengths and capabilities
 - [[what-ive-done|What I've Done]] — Career highlights and accomplishments
 - [[projects|Projects Portfolio]] — Case studies with measurable results
 
 **If you're evaluating me for a role:**
+
 - [[Targets/Roles/GovTech & Public Sector|GovTech Experience]]
 - [[Targets/Roles/Implementation & Professional Services|Implementation Background]]
 - [[Targets/Roles/Enablement & Adoption|Enablement Expertise]]
@@ -65,13 +68,13 @@ This vault contains everything about my job search, organized so I (and you) can
 
 ## Quick Stats
 
-| Metric | Value |
-|--------|-------|
-| Years of experience | 8+ (5+ in current field) |
-| Implementations delivered | 100+ |
-| People trained | 650+ |
-| On-time delivery rate | 92% |
-| Education | Master of Public Administration (MPA) |
+| Metric                    | Value                                 |
+| ------------------------- | ------------------------------------- |
+| Years of experience       | 8+ (5+ in current field)              |
+| Implementations delivered | 100+                                  |
+| People trained            | 650+                                  |
+| On-time delivery rate     | 92%                                   |
+| Education                 | Master of Public Administration (MPA) |
 
 ---
 
@@ -99,4 +102,4 @@ If you spot something, just text/call/email me. Seriously. Even if you're not su
 
 ---
 
-*Last updated: January 2025*
+_Last updated: January 2025_

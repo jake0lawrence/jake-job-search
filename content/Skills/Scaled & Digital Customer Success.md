@@ -5,7 +5,16 @@ proficiency: advanced
 years_experience: 3+
 actively_using: true
 last_used: 2025-01
-aliases: [Digital CS, Scaled CS, 1:Many, Pooled CS, Tech-Touch, Digital-Led Customer Success, High-Volume CS]
+aliases:
+  [
+    Digital CS,
+    Scaled CS,
+    1:Many,
+    Pooled CS,
+    Tech-Touch,
+    Digital-Led Customer Success,
+    High-Volume CS,
+  ]
 ---
 
 # Scaled & Digital Customer Success
@@ -16,18 +25,19 @@ Managing large customer portfolios through scalable, technology-enabled engageme
 
 ## Proficiency Breakdown
 
-| Dimension | Level | Notes |
-|-----------|-------|-------|
-| Theoretical knowledge | ⭐⭐⭐⭐⭐ | Scaled CS frameworks |
-| Practical application | ⭐⭐⭐⭐☆ | Built scaled programs |
-| Teaching ability | ⭐⭐⭐⭐☆ | Created playbooks |
-| Industry currency | ⭐⭐⭐⭐⭐ | Growing CS model |
+| Dimension             | Level      | Notes                 |
+| --------------------- | ---------- | --------------------- |
+| Theoretical knowledge | ⭐⭐⭐⭐⭐ | Scaled CS frameworks  |
+| Practical application | ⭐⭐⭐⭐☆  | Built scaled programs |
+| Teaching ability      | ⭐⭐⭐⭐☆  | Created playbooks     |
+| Industry currency     | ⭐⭐⭐⭐⭐ | Growing CS model      |
 
 **Self-assessment:** Advanced. Managed pooled portfolio model supporting ~100 accounts/year through onboarding, adoption, and value realization. Built 1:many programs achieving 87% adoption with 4.8/5 satisfaction.
 
 ## Evidence & Proof Points
 
 ### Specific Accomplishments
+
 - Managed pooled portfolio model engaging up to 20 customers concurrently
 - Supported ~100 accounts/year through onboarding, adoption, and value realization
 - Built 1:many programs (webinars, playbooks, self-serve guides) adopted across 87% of portfolio
@@ -35,12 +45,13 @@ Managing large customer portfolios through scalable, technology-enabled engageme
 - Balanced automation with personalized touchpoints to maximize impact at scale
 
 ### Quantifiable Results
-| Metric | Value | Context |
-|--------|-------|---------|
-| Concurrent accounts | 20 | Actively engaged |
-| Annual accounts | ~100 | Through pooled model |
-| Program adoption | 87% | 1:many content |
-| Satisfaction | 4.8/5 | Webinars and training |
+
+| Metric              | Value | Context               |
+| ------------------- | ----- | --------------------- |
+| Concurrent accounts | 20    | Actively engaged      |
+| Annual accounts     | ~100  | Through pooled model  |
+| Program adoption    | 87%   | 1:many content        |
+| Satisfaction        | 4.8/5 | Webinars and training |
 
 ## Resume Presence
 
@@ -49,6 +60,7 @@ Managing large customer portfolios through scalable, technology-enabled engageme
 **Variants:** Airtable, Jasper, Intercom
 
 **How I typically phrase this skill:**
+
 > "Managed pooled portfolio model, actively engaging up to 20 customers concurrently and supporting ~100 accounts/year through onboarding, adoption, and value realization"
 
 **Variations by context:**
@@ -61,10 +73,12 @@ Managing large customer portfolios through scalable, technology-enabled engageme
 ## Demonstrated in Projects
 
 **Primary evidence:**
+
 - [[Pooled Portfolio Model]] — Managed up to 20 customers concurrently, supporting ~100 accounts/year
 - [[First 30 Days Adoption Program]] — Built 1:many programs achieving 87% adoption with 4.8/5 satisfaction
 
 **Supporting evidence:**
+
 - [[Training & Enablement Program]]
 - [[Customer Health Dashboard System]]
 
@@ -73,14 +87,17 @@ Managing large customer portfolios through scalable, technology-enabled engageme
 ## Related Skills
 
 ### Parent/Umbrella
+
 - [[Customer Success Strategy]]
 
 ### Sibling Skills (often paired with)
+
 - [[Customer Health Monitoring]]
 - [[Playbook Development]]
 - [[Training & Enablement]]
 
 ### Sub-skills/Specializations
+
 - Pooled portfolio management
 - Health-based automation
 - Webinar delivery
@@ -97,11 +114,13 @@ Managing large customer portfolios through scalable, technology-enabled engageme
 ## Interview Notes
 
 **Common questions about this skill:**
+
 1. "How do you prioritize across a large portfolio?"
 2. "What's your approach to 1:many engagement?"
 3. "How do you maintain quality at scale?"
 
 **Your STAR story:**
+
 - **Situation:** Growing customer base but CS headcount flat; needed to scale without sacrificing quality
 - **Task:** Design engagement model supporting 100 accounts/year with existing team
 - **Action:** Built health-based prioritization, created 1:many content library, established office hours model, automated low-value touchpoints

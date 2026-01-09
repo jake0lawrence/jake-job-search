@@ -8,16 +8,17 @@
 
 This is a **Quartz-powered site** with full Git-based auto-deployment.
 
-| Property | Value |
-|----------|-------|
-| Live URL | `https://jake0lawrence.github.io/jake-job-search/` |
-| Deploy Trigger | Push to `main` branch |
-| Build Time | ~2 minutes |
-| Theme | "Warm Teal" v3.0 (Quartz) |
+| Property       | Value                                              |
+| -------------- | -------------------------------------------------- |
+| Live URL       | `https://jake0lawrence.github.io/jake-job-search/` |
+| Deploy Trigger | Push to `main` branch                              |
+| Build Time     | ~2 minutes                                         |
+| Theme          | "Warm Teal" v3.0 (Quartz)                          |
 
 ---
 
 ## Workflow
+
 ```
 Edit file in content/ → git push → Auto-deploys
 ```
@@ -27,6 +28,7 @@ No manual publish step needed!
 ---
 
 ## Repository Structure
+
 ```
 jake-job-search/
 ├── .github/
@@ -64,12 +66,14 @@ jake-job-search/
 ### Making Content Changes
 
 1. **Edit any file in `content/`**
+
 ```bash
    # Example: Update application tracker
    vim content/application-tracker.md
 ```
 
 2. **Commit and push**
+
 ```bash
    git add content/application-tracker.md
    git commit -m "Updated application status for Company X"
@@ -81,6 +85,7 @@ jake-job-search/
 ### Frontmatter Schema
 
 All content files should have:
+
 ```yaml
 ---
 title: Human-Readable Page Title
@@ -93,18 +98,19 @@ tags:
 
 ### Markdown Conventions
 
-| Element | Usage | Styling |
-|---------|-------|---------|
-| H1 (`#`) | Page title (one per file) | Teal underline |
-| H2 (`##`) | Major sections | Normal |
-| H3 (`###`) | Subsections | Teal color |
-| Tables | Data (companies, tracker) | Teal headers |
-| Blockquotes | Callouts, emphasis | Teal left border |
-| `[[Links]]` | Internal links | Auto-resolved |
+| Element     | Usage                     | Styling          |
+| ----------- | ------------------------- | ---------------- |
+| H1 (`#`)    | Page title (one per file) | Teal underline   |
+| H2 (`##`)   | Major sections            | Normal           |
+| H3 (`###`)  | Subsections               | Teal color       |
+| Tables      | Data (companies, tracker) | Teal headers     |
+| Blockquotes | Callouts, emphasis        | Teal left border |
+| `[[Links]]` | Internal links            | Auto-resolved    |
 
 ---
 
 ## Testing Your Changes
+
 ```bash
 # Build locally before pushing
 npx quartz build --serve
@@ -119,6 +125,7 @@ npx quartz build --serve
 ## Theme Customization
 
 Edit `quartz/styles/custom.scss` for:
+
 - Colors
 - Table styling
 - Blockquote appearance
@@ -128,5 +135,5 @@ Main color variables are in `quartz.config.ts` under `theme.colors`.
 
 ---
 
-*Last updated: January 2025*
-*Theme: Warm Teal v3.0 (Quartz)*
+_Last updated: January 2025_
+_Theme: Warm Teal v3.0 (Quartz)_

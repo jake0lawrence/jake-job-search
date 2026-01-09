@@ -15,6 +15,7 @@ These are my main strengths. If a job needs these, I'm a fit.
 **What it means:** After someone buys software, I make sure they actually get value from it. I check in, solve problems, build relationships, and ensure they renew.
 
 **Evidence:**
+
 - Managed portfolios of ~100 customers/year ([[Pooled Portfolio Model]])
 - Built [[Customer Health Dashboard System|health dashboards]] to spot problems early
 - 13/14 executive escalations resolved successfully ([[Executive Escalation Resolution Program]])
@@ -30,6 +31,7 @@ These are my main strengths. If a job needs these, I'm a fit.
 **What it means:** When an organization buys new software, I set it up for them. Requirements, configuration, data migration, training, go-live—the whole journey.
 
 **Evidence:**
+
 - [[100+ Municipal Court Implementations|100+ implementations delivered]]
 - 92% on-time, 95% on-budget
 - Full lifecycle from kickoff to hypercare
@@ -45,6 +47,7 @@ These are my main strengths. If a job needs these, I'm a fit.
 **What it means:** Teaching people how to use software effectively. Not just "click here"—actually helping them change how they work.
 
 **Evidence:**
+
 - [[Training & Enablement Program|120+ training sessions delivered]]
 - 650+ people trained
 - 4.8/5 satisfaction rating
@@ -61,6 +64,7 @@ These are my main strengths. If a job needs these, I'm a fit.
 **What it means:** Turning raw data into useful insights. Building dashboards, tracking metrics, making decisions based on evidence.
 
 **Evidence:**
+
 - Microsoft [[Power BI]] certified
 - Built [[Customer Health Dashboard System|customer health dashboards]] from scratch
 - Use data to prioritize and spot risks
@@ -77,7 +81,7 @@ These set me apart from other candidates.
 
 ### 🏛️ Government Expertise
 
-I have a Master's in Public Administration and worked *inside* government for 5 years before becoming a consultant. I understand government operations, procurement, and stakeholders in a way most people don't.
+I have a Master's in Public Administration and worked _inside_ government for 5 years before becoming a consultant. I understand government operations, procurement, and stakeholders in a way most people don't.
 
 **Proof:** MPA degree, [[Court Clerk - Administrative Hearings|Court Clerk experience]], [[100+ Municipal Court Implementations|100+ government implementations]]
 
@@ -107,14 +111,14 @@ When things go wrong, I stay calm and fix them. [[Executive Escalation Resolutio
 
 For the tech-savvy in the crowd:
 
-| Skill | Level | Notes |
-|-------|-------|-------|
-| **Power BI** | Certified | Microsoft credential, daily use |
-| **Excel** | Advanced | Pivot tables, VLOOKUP, data analysis |
-| **Salesforce** | Familiar | Used it, not expert |
-| **SQL** | Basic | Can write simple queries |
-| **Data Migration** | Strong | Core part of my job |
-| **API/Integrations** | Conceptual | Understand them, don't code them |
+| Skill                | Level      | Notes                                |
+| -------------------- | ---------- | ------------------------------------ |
+| **Power BI**         | Certified  | Microsoft credential, daily use      |
+| **Excel**            | Advanced   | Pivot tables, VLOOKUP, data analysis |
+| **Salesforce**       | Familiar   | Used it, not expert                  |
+| **SQL**              | Basic      | Can write simple queries             |
+| **Data Migration**   | Strong     | Core part of my job                  |
+| **API/Integrations** | Conceptual | Understand them, don't code them     |
 
 ---
 
@@ -144,6 +148,7 @@ Being honest about gaps:
 ## Go Deeper
 
 Want more detail on specific skills? Check out:
+
 - **[[Skills/|All Skills]]** — The complete inventory
 - **[[what-ive-done]]** — Projects that demonstrate these skills
 - **[[resume-variants]]** — How I present these for different roles
