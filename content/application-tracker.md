@@ -15,24 +15,24 @@ Track all job applications, their status, and next steps.
 ## Active Applications
 
 | Company | Role | Applied Date | Status | Next Step | Notes |
-|---------|------|--------------|--------|-----------|-------|
-| | | | | | |
+| ------- | ---- | ------------ | ------ | --------- | ----- |
+|         |      |              |        |           |       |
 
 ---
 
 ## Interview Pipeline
 
 | Company | Role | Stage | Interview Date | Outcome | Next Action |
-|---------|------|-------|----------------|---------|-------------|
-| | | | | | |
+| ------- | ---- | ----- | -------------- | ------- | ----------- |
+|         |      |       |                |         |             |
 
 ---
 
 ## Archived Applications
 
 | Company | Role | Applied Date | Final Status | Date Closed | Notes |
-|---------|------|--------------|--------------|-------------|-------|
-| | | | | | |
+| ------- | ---- | ------------ | ------------ | ----------- | ----- |
+|         |      |              |              |             |       |
 
 ---
 
@@ -50,13 +50,13 @@ Track all job applications, their status, and next steps.
 
 ## Quick Stats
 
-| Metric | Count |
-|--------|-------|
-| Total Applications | 0 |
-| Active Applications | 0 |
-| Interviews | 0 |
-| Offers | 0 |
+| Metric              | Count |
+| ------------------- | ----- |
+| Total Applications  | 0     |
+| Active Applications | 0     |
+| Interviews          | 0     |
+| Offers              | 0     |
 
 ---
 
-*Last updated: January 2025*
+_Last updated: January 2025_

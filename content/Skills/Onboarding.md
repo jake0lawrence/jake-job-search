@@ -16,18 +16,19 @@ The structured process of bringing new customers from contract signing to initia
 
 ## Proficiency Breakdown
 
-| Dimension | Level | Notes |
-|-----------|-------|-------|
-| Theoretical knowledge | ⭐⭐⭐⭐⭐ | Onboarding best practices |
-| Practical application | ⭐⭐⭐⭐⭐ | Built and scaled programs |
-| Teaching ability | ⭐⭐⭐⭐⭐ | Created playbooks and trained team |
-| Industry currency | ⭐⭐⭐⭐⭐ | Core CS/implementation function |
+| Dimension             | Level      | Notes                              |
+| --------------------- | ---------- | ---------------------------------- |
+| Theoretical knowledge | ⭐⭐⭐⭐⭐ | Onboarding best practices          |
+| Practical application | ⭐⭐⭐⭐⭐ | Built and scaled programs          |
+| Teaching ability      | ⭐⭐⭐⭐⭐ | Created playbooks and trained team |
+| Industry currency     | ⭐⭐⭐⭐⭐ | Core CS/implementation function    |
 
 **Self-assessment:** Expert. Built mutual onboarding plans with clear milestones, driving primary workflow launches within 90 days consistently.
 
 ## Evidence & Proof Points
 
 ### Specific Accomplishments
+
 - Built mutual onboarding plans with clear milestones, owners, and launch criteria
 - Drove primary workflow launches within 90 days consistently
 - Created "First 30 Days" adoption playbook reducing time-to-value
@@ -35,18 +36,20 @@ The structured process of bringing new customers from contract signing to initia
 - Developed 1:many onboarding programs (webinars, playbooks, self-serve guides)
 
 ### Quantifiable Results
-| Metric | Value | Context |
-|--------|-------|---------|
-| Time to launch | 90 days | Primary workflow |
-| Accounts per year | ~100 | In pooled model |
-| Playbook adoption | 87% | Onboarding playbooks |
-| Satisfaction | 4.8/5 | Onboarding experience |
+
+| Metric            | Value   | Context               |
+| ----------------- | ------- | --------------------- |
+| Time to launch    | 90 days | Primary workflow      |
+| Accounts per year | ~100    | In pooled model       |
+| Playbook adoption | 87%     | Onboarding playbooks  |
+| Satisfaction      | 4.8/5   | Onboarding experience |
 
 ## Resume Presence
 
 **Appears in:** 20/25 variants
 
 **How I typically phrase this skill:**
+
 > "Led customer onboarding from discovery to launch, building mutual plans with clear milestones that drove primary workflow launches within 90 days"
 
 **Variations by context:**
@@ -59,9 +62,11 @@ The structured process of bringing new customers from contract signing to initia
 ## Demonstrated in Projects
 
 **Primary evidence:**
+
 - [[First 30 Days Adoption Program]] — Built time-bound onboarding program reducing time-to-value across 87% of portfolio
 
 **Supporting evidence:**
+
 - [[Training & Enablement Program]]
 - [[100+ Municipal Court Implementations]]
 
@@ -70,15 +75,18 @@ The structured process of bringing new customers from contract signing to initia
 ## Related Skills
 
 ### Parent/Umbrella
+
 - [[Customer Success Strategy]]
 - [[Implementation & Deployment]]
 
 ### Sibling Skills (often paired with)
+
 - [[Training & Enablement]]
 - [[Product Adoption]]
 - [[Playbook Development]]
 
 ### Sub-skills/Specializations
+
 - Kickoff facilitation
 - Discovery workshops
 - Success plan creation
@@ -88,11 +96,13 @@ The structured process of bringing new customers from contract signing to initia
 ## Interview Notes
 
 **Common questions about this skill:**
+
 1. "What does your ideal onboarding process look like?"
 2. "How do you handle customers who want to skip steps?"
 3. "How do you measure onboarding success?"
 
 **Your STAR story:**
+
 - **Situation:** New customer with aggressive timeline and complex requirements
 - **Task:** Deliver successful onboarding within compressed timeframe
 - **Action:** Built detailed mutual plan, identified critical path, secured stakeholder commitment, ran parallel workstreams, maintained daily standups

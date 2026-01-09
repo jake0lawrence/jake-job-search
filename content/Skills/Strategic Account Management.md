@@ -5,7 +5,14 @@ proficiency: advanced
 years_experience: 5+
 actively_using: true
 last_used: 2025-01
-aliases: [Strategic Accounts, Enterprise Account Management, Key Account Management, Account Planning, Account Strategy]
+aliases:
+  [
+    Strategic Accounts,
+    Enterprise Account Management,
+    Key Account Management,
+    Account Planning,
+    Account Strategy,
+  ]
 ---
 
 # Strategic Account Management
@@ -16,18 +23,19 @@ Managing high-value enterprise accounts with a strategic, long-term approach. In
 
 ## Proficiency Breakdown
 
-| Dimension | Level | Notes |
-|-----------|-------|-------|
-| Theoretical knowledge | ⭐⭐⭐⭐☆ | Account management frameworks |
-| Practical application | ⭐⭐⭐⭐⭐ | Managed 12-20 strategic accounts |
-| Teaching ability | ⭐⭐⭐⭐☆ | Created account planning templates |
-| Industry currency | ⭐⭐⭐⭐⭐ | Core enterprise CS skill |
+| Dimension             | Level      | Notes                              |
+| --------------------- | ---------- | ---------------------------------- |
+| Theoretical knowledge | ⭐⭐⭐⭐☆  | Account management frameworks      |
+| Practical application | ⭐⭐⭐⭐⭐ | Managed 12-20 strategic accounts   |
+| Teaching ability      | ⭐⭐⭐⭐☆  | Created account planning templates |
+| Industry currency     | ⭐⭐⭐⭐⭐ | Core enterprise CS skill           |
 
 **Self-assessment:** Advanced. Managed portfolios of 12-20 strategic enterprise accounts, developing account plans, building executive relationships, and driving retention and growth.
 
 ## Evidence & Proof Points
 
 ### Specific Accomplishments
+
 - Managed portfolio of 12-20 strategic accounts through full lifecycle
 - Developed tailored account plans and long-term engagement strategies
 - Built relationships across multiple levels of customer organizations
@@ -35,11 +43,12 @@ Managing high-value enterprise accounts with a strategic, long-term approach. In
 - Delivered regular business reviews to executive stakeholders
 
 ### Quantifiable Results
-| Metric | Value | Context |
-|--------|-------|---------|
-| Portfolio size | 12-20 | Strategic accounts |
+
+| Metric                | Value | Context             |
+| --------------------- | ----- | ------------------- |
+| Portfolio size        | 12-20 | Strategic accounts  |
 | Escalation resolution | 13/14 | Without concessions |
-| On-time delivery | 92% | Across portfolio |
+| On-time delivery      | 92%   | Across portfolio    |
 
 ## Resume Presence
 
@@ -48,6 +57,7 @@ Managing high-value enterprise accounts with a strategic, long-term approach. In
 **Variants:** SailPoint, Microsoft Strategic, Microsoft CSAM, Amplo, McKinsey, Grainger, Anthropic, Pluralsight
 
 **How I typically phrase this skill:**
+
 > "Managed portfolio of strategic enterprise accounts, developing tailored account plans and building relationships across multiple organizational levels"
 
 **Variations by context:**
@@ -60,9 +70,11 @@ Managing high-value enterprise accounts with a strategic, long-term approach. In
 ## Demonstrated in Projects
 
 **Primary evidence:**
+
 - Demonstrated across portfolio of 12-20 strategic enterprise accounts
 
 **Supporting evidence:**
+
 - [[Executive Escalation Resolution Program]]
 - [[100+ Municipal Court Implementations]]
 
@@ -71,15 +83,18 @@ Managing high-value enterprise accounts with a strategic, long-term approach. In
 ## Related Skills
 
 ### Parent/Umbrella
+
 - [[Customer Success Strategy]]
 
 ### Sibling Skills (often paired with)
+
 - [[Executive Relationship Management]]
 - [[Business Reviews (QBR/EBR)]]
 - [[Success Planning]]
 - [[Renewals & Expansion]]
 
 ### Sub-skills/Specializations
+
 - Account planning
 - Stakeholder mapping
 - Growth identification
@@ -88,11 +103,13 @@ Managing high-value enterprise accounts with a strategic, long-term approach. In
 ## Interview Notes
 
 **Common questions about this skill:**
+
 1. "How do you develop an account plan for a strategic customer?"
 2. "How do you balance reactive support with proactive account strategy?"
 3. "Tell me about an account you grew significantly."
 
 **Your STAR story:**
+
 - **Situation:** Strategic account with strong initial deployment but no expansion in 18 months
 - **Task:** Identify growth opportunities and drive expansion
 - **Action:** Conducted deep discovery with multiple stakeholders, mapped additional use cases, built business case, coordinated with Sales on proposal

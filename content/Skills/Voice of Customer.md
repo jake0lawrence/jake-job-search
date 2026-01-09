@@ -16,18 +16,19 @@ Capturing, synthesizing, and communicating customer feedback to internal teams�
 
 ## Proficiency Breakdown
 
-| Dimension | Level | Notes |
-|-----------|-------|-------|
-| Theoretical knowledge | ⭐⭐⭐⭐☆ | VoC methodologies |
-| Practical application | ⭐⭐⭐⭐⭐ | Daily customer advocacy |
-| Teaching ability | ⭐⭐⭐⭐☆ | Documented feedback processes |
-| Industry currency | ⭐⭐⭐⭐⭐ | Core CS competency |
+| Dimension             | Level      | Notes                         |
+| --------------------- | ---------- | ----------------------------- |
+| Theoretical knowledge | ⭐⭐⭐⭐☆  | VoC methodologies             |
+| Practical application | ⭐⭐⭐⭐⭐ | Daily customer advocacy       |
+| Teaching ability      | ⭐⭐⭐⭐☆  | Documented feedback processes |
+| Industry currency     | ⭐⭐⭐⭐⭐ | Core CS competency            |
 
 **Self-assessment:** Advanced. Served as primary conduit between customers and internal teams, synthesizing qualitative and quantitative feedback to influence product roadmap and improve customer experience.
 
 ## Evidence & Proof Points
 
 ### Specific Accomplishments
+
 - Acted as voice of customer internally, synthesizing feedback to influence product roadmap
 - Participated in product design reviews advocating for feature improvements based on field feedback
 - Served as primary conduit between customers and internal teams (Product, Engineering, Support)
@@ -35,11 +36,12 @@ Capturing, synthesizing, and communicating customer feedback to internal teams�
 - Fed insights from customer engagements back into product improvements and internal training
 
 ### Quantifiable Results
-| Metric | Value | Context |
-|--------|-------|---------|
-| Customers represented | 50+ | Enterprise accounts |
-| Feedback loops | Daily | With Product/Engineering |
-| Feature influence | Multiple | Roadmap contributions |
+
+| Metric                | Value    | Context                  |
+| --------------------- | -------- | ------------------------ |
+| Customers represented | 50+      | Enterprise accounts      |
+| Feedback loops        | Daily    | With Product/Engineering |
+| Feature influence     | Multiple | Roadmap contributions    |
 
 ## Resume Presence
 
@@ -48,6 +50,7 @@ Capturing, synthesizing, and communicating customer feedback to internal teams�
 **Variants:** Rally, ReMatter, Anthropic, Amplo, Oracle, Intercom, PayPal, BuildingReports, OpenGov IC, McKinsey
 
 **How I typically phrase this skill:**
+
 > "Acted as voice of the customer internally, synthesizing qualitative and quantitative feedback to influence product roadmap and customer experience"
 
 **Variations by context:**
@@ -60,9 +63,11 @@ Capturing, synthesizing, and communicating customer feedback to internal teams�
 ## Demonstrated in Projects
 
 **Primary evidence:**
+
 - [[Customer Success Playbook System]] — Synthesized customer feedback to inform process improvements and internal training
 
 **Supporting evidence:**
+
 - [[Executive Escalation Resolution Program]]
 
 ---
@@ -70,15 +75,18 @@ Capturing, synthesizing, and communicating customer feedback to internal teams�
 ## Related Skills
 
 ### Parent/Umbrella
+
 - [[Customer Advocacy]]
 - [[Customer Success Strategy]]
 
 ### Sibling Skills (often paired with)
+
 - [[Cross-Functional Collaboration]]
 - [[Product Adoption]]
 - [[Escalation Management]]
 
 ### Sub-skills/Specializations
+
 - Feedback synthesis
 - Feature prioritization input
 - Customer storytelling
@@ -87,11 +95,13 @@ Capturing, synthesizing, and communicating customer feedback to internal teams�
 ## Interview Notes
 
 **Common questions about this skill:**
+
 1. "How do you capture and communicate customer feedback?"
 2. "Tell me about a time your feedback influenced the product roadmap."
 3. "How do you prioritize which customer feedback to escalate?"
 
 **Your STAR story:**
+
 - **Situation:** Multiple enterprise customers requesting similar capability not on product roadmap
 - **Task:** Advocate for feature prioritization based on customer impact
 - **Action:** Documented use cases across accounts, quantified business impact, presented to Product leadership, connected Product with key customers

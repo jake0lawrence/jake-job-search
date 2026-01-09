@@ -5,7 +5,15 @@ proficiency: expert
 years_experience: 5+
 actively_using: true
 last_used: 2025-01
-aliases: [Court Operations, Court Administration, Administrative Hearings, Traffic Courts, Court Case Management, Court Systems]
+aliases:
+  [
+    Court Operations,
+    Court Administration,
+    Administrative Hearings,
+    Traffic Courts,
+    Court Case Management,
+    Court Systems,
+  ]
 ---
 
 # Municipal Courts
@@ -16,18 +24,19 @@ Expertise in municipal court operations—including administrative hearings, tra
 
 ## Proficiency Breakdown
 
-| Dimension | Level | Notes |
-|-----------|-------|-------|
+| Dimension             | Level      | Notes                           |
+| --------------------- | ---------- | ------------------------------- |
 | Theoretical knowledge | ⭐⭐⭐⭐⭐ | Court operations and procedures |
-| Practical application | ⭐⭐⭐⭐⭐ | 100+ court implementations |
-| Teaching ability | ⭐⭐⭐⭐⭐ | Trained 650+ court staff |
-| Industry currency | ⭐⭐⭐⭐☆ | Niche but stable market |
+| Practical application | ⭐⭐⭐⭐⭐ | 100+ court implementations      |
+| Teaching ability      | ⭐⭐⭐⭐⭐ | Trained 650+ court staff        |
+| Industry currency     | ⭐⭐⭐⭐☆  | Niche but stable market         |
 
 **Self-assessment:** Expert. Led 100+ administrative hearing court implementations across Illinois and nationally. Served as Court Clerk for Morton Grove's Administrative Hearings Department with hundreds of hours in court proceedings.
 
 ## Evidence & Proof Points
 
 ### Specific Accomplishments
+
 - Led 100+ administrative hearing court implementations from discovery through go-live
 - Served as Court Clerk for Morton Grove Administrative Hearings Department
 - Accumulated hundreds of hours in court proceedings optimizing workflows
@@ -35,14 +44,16 @@ Expertise in municipal court operations—including administrative hearings, tra
 - Implemented Tyler Municipal Justice (court case management system) across 100+ courts
 
 ### Quantifiable Results
-| Metric | Value | Context |
-|--------|-------|---------|
-| Court implementations | 100+ | Illinois and nationally |
-| Court staff trained | 650+ | Administrators, clerks, officers |
-| On-time delivery | 92% | Court go-lives |
-| Satisfaction | 4.8/5 | Court staff training |
+
+| Metric                | Value | Context                          |
+| --------------------- | ----- | -------------------------------- |
+| Court implementations | 100+  | Illinois and nationally          |
+| Court staff trained   | 650+  | Administrators, clerks, officers |
+| On-time delivery      | 92%   | Court go-lives                   |
+| Satisfaction          | 4.8/5 | Court staff training             |
 
 ### Court Stakeholders Engaged
+
 - Court Administrators
 - Hearing Officers
 - Judges
@@ -53,6 +64,7 @@ Expertise in municipal court operations—including administrative hearings, tra
 - City Managers
 
 ### Example Courts (from resume)
+
 - Kenosha, WI
 - Huntsville, AL
 - Tulsa, OK
@@ -65,6 +77,7 @@ Expertise in municipal court operations—including administrative hearings, tra
 **Variants:** IL SOS, PayIt, OpenGov PM, Pluralsight
 
 **How I typically phrase this skill:**
+
 > "Led 100+ administrative hearing court implementations, coordinating with court administrators, hearing officers, judges, prosecutors, and clerks"
 
 **Variations by context:**
@@ -77,9 +90,11 @@ Expertise in municipal court operations—including administrative hearings, tra
 ## Demonstrated in Projects
 
 **Primary evidence:**
+
 - [[100+ Municipal Court Implementations]] — Led court case management implementations across Illinois and nationally
 
 **Supporting evidence:**
+
 - [[Court Clerk - Administrative Hearings]]
 - [[Tyler Municipal Justice Client-Side PM]]
 - [[Illinois Vehicle Code Reconciliation]]
@@ -89,15 +104,18 @@ Expertise in municipal court operations—including administrative hearings, tra
 ## Related Skills
 
 ### Parent/Umbrella
+
 - [[Public Sector & GovTech]]
 
 ### Sibling Skills (often paired with)
+
 - [[Illinois Vehicle Code]]
 - [[Administrative Hearings]]
 - [[Case Management Systems]]
 - [[BAIID/Ignition Interlock Workflows]]
 
 ### Sub-skills/Specializations
+
 - Court case management
 - Docket management
 - Hearing officer coordination
@@ -114,11 +132,13 @@ Expertise in municipal court operations—including administrative hearings, tra
 ## Interview Notes
 
 **Common questions about this skill:**
+
 1. "What's unique about working with courts vs. other government agencies?"
 2. "How do you navigate the different stakeholder interests in court implementations?"
 3. "Tell me about your Court Clerk experience."
 
 **Your STAR story:**
+
 - **Situation:** Complex court implementation with competing priorities between judges, prosecutors, and clerks—each group had different workflow preferences
 - **Task:** Deliver unified system that satisfied all stakeholder groups
 - **Action:** Conducted discovery with each group separately, identified common ground, created stakeholder-specific training, established governance with representation from each group

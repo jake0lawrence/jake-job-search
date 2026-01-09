@@ -20,7 +20,7 @@ table {
   border-collapse: collapse;
   width: 100%;
   margin: 1em 0;
-  
+
   thead {
     th {
       background-color: var(--secondary) !important;
@@ -30,18 +30,18 @@ table {
       text-align: left;
     }
   }
-  
+
   tbody {
     tr {
       &:nth-child(even) {
         background-color: var(--lightgray);
       }
-      
+
       &:hover {
         background-color: var(--highlight);
       }
     }
-    
+
     td {
       padding: 8px 12px;
       border-bottom: 1px solid var(--gray);
@@ -71,8 +71,10 @@ h3 {
 // SMOOTH LINK TRANSITIONS
 // ============================================
 a {
-  transition: color 0.15s ease, opacity 0.15s ease;
-  
+  transition:
+    color 0.15s ease,
+    opacity 0.15s ease;
+
   &:hover {
     opacity: 0.85;
   }
@@ -95,7 +97,7 @@ a {
   .node {
     fill: var(--secondary);
   }
-  
+
   .link {
     stroke: var(--gray);
   }
@@ -111,7 +113,7 @@ a {
   padding: 0.2em 0.6em;
   border-radius: 4px;
   font-size: 0.85em;
-  
+
   &:hover {
     background-color: var(--highlight);
     border-color: var(--secondary);

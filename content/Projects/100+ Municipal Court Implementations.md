@@ -28,12 +28,15 @@ appears_in: 22/25 variants
 ## Full Context
 
 ### The Situation
+
 Tyler Technologies serves municipal courts, administrative hearing departments, and government agencies with case management software. Each implementation involves complex stakeholder dynamics, legacy data migration, integration requirements, and change management across diverse user groups.
 
 ### Your Role
+
 End-to-end implementation ownership from discovery through go-live and post-launch stabilization. Primary point of contact for customers throughout the project lifecycle. Coordinated cross-functional resources across conversion, integrations, product, and support teams.
 
 ### The Approach
+
 - Conducted discovery workshops to understand court workflows and requirements
 - Developed detailed project plans with milestones, owners, and success criteria
 - Managed data conversion including offense code mapping and legacy system migration
@@ -43,39 +46,43 @@ End-to-end implementation ownership from discovery through go-live and post-laun
 - Provided hypercare support and adoption monitoring post-launch
 
 ### The Outcome
+
 Consistently successful deployments across diverse court environments. Built reputation as trusted advisor to court administrators and government officials. Created playbooks adopted across 87% of projects that improved delivery consistency for entire team.
 
 ---
 
 ## Metrics & Impact
 
-| Metric | Value | Context |
-|--------|-------|---------|
-| Implementations led | 100+ | Municipal courts, state agencies |
-| On-time delivery | 92% | Over 24 months |
-| On-budget delivery | 95% | Over 24 months |
-| Concurrent projects | 12-20 | Managed simultaneously |
-| Training satisfaction | 4.8/5 | Court staff |
-| Playbook adoption | 87% | Team-wide |
+| Metric                | Value | Context                          |
+| --------------------- | ----- | -------------------------------- |
+| Implementations led   | 100+  | Municipal courts, state agencies |
+| On-time delivery      | 92%   | Over 24 months                   |
+| On-budget delivery    | 95%   | Over 24 months                   |
+| Concurrent projects   | 12-20 | Managed simultaneously           |
+| Training satisfaction | 4.8/5 | Court staff                      |
+| Playbook adoption     | 87%   | Team-wide                        |
 
 ### Scope Indicators
-| Dimension | Value |
-|-----------|-------|
-| Timeline | 5+ years |
-| Geographic scope | National (IL, WI, AL, OK, etc.) |
+
+| Dimension         | Value                                                            |
+| ----------------- | ---------------------------------------------------------------- |
+| Timeline          | 5+ years                                                         |
+| Geographic scope  | National (IL, WI, AL, OK, etc.)                                  |
 | Stakeholder types | Court admins, judges, prosecutors, clerks, IT, elected officials |
-| System | Tyler Municipal Justice |
+| System            | Tyler Municipal Justice                                          |
 
 ---
 
 ## Skills Demonstrated
 
 ### Primary Skills
+
 - [[Implementation & Deployment]]
 - [[Public Sector & GovTech]]
 - [[Municipal Courts]]
 
 ### Secondary Skills
+
 - [[Training & Enablement]]
 - [[Change Management]]
 - [[Cross-Functional Collaboration]]
@@ -91,15 +98,19 @@ Consistently successful deployments across diverse court environments. Built rep
 ### Bullet Point Versions
 
 **Technical audience (detailed):**
+
 > Led 100+ municipal court implementations from discovery through go-live, managing data conversion, integration configuration (API, SFTP, e-ticketing), and cross-functional coordination with 92% on-time delivery.
 
 **General audience (accessible):**
+
 > Led 100+ successful software implementations for government courts and agencies, consistently delivering on time and on budget while building strong client relationships.
 
 **Leadership focus (strategic):**
+
 > Delivered 100+ implementations maintaining 92% on-time and 95% on-budget performance through process discipline, playbook development, and cross-functional orchestration.
 
 **Abbreviated (space-constrained):**
+
 > Led 100+ municipal court implementations; 92% on-time / 95% on-budget delivery.
 
 ---
@@ -134,6 +145,7 @@ Tyler Technologies needed implementation consultants who could manage complex mu
 Own end-to-end implementation success: discovery, configuration, data migration, training, go-live, and stabilization. Maintain delivery quality while managing 12-20 concurrent projects.
 
 **Action:**
+
 - Built structured project governance with clear milestones and accountability
 - Created stakeholder-specific communication and training approaches
 - Developed playbooks (Cutover, Training, Conversion) that standardized delivery
@@ -144,16 +156,18 @@ Own end-to-end implementation success: discovery, configuration, data migration,
 Delivered 100+ successful implementations with 92% on-time and 95% on-budget performance. Playbooks adopted across 87% of team projects. Multiple accounts became reference customers.
 
 ### Likely Follow-up Questions
+
 1. "What made these implementations complex?"
 2. "How did you handle a project that was going off track?"
 3. "How did you manage so many concurrent projects?"
 4. "Tell me about a stakeholder conflict you navigated."
 
 ### Potential Challenges/Objections
-| Concern | Response |
-|---------|----------|
+
+| Concern                                             | Response                                                                                                                       |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | "100+ sounds like a lot—were these small projects?" | Mix of sizes; some were single departments, others multi-agency. Complexity varied but all required full lifecycle management. |
-| "Were you solo or part of a team?" | Primary owner accountable for each, but coordinated cross-functional resources (data conversion, integrations, support). |
+| "Were you solo or part of a team?"                  | Primary owner accountable for each, but coordinated cross-functional resources (data conversion, integrations, support).       |
 
 ---
 
@@ -168,7 +182,8 @@ Delivered 100+ successful implementations with 92% on-time and 95% on-budget per
 ## Related
 
 **Parent organization:** [[Tyler Technologies]]
-**Similar projects:** 
+**Similar projects:**
+
 - [[CentralSquare EAM Rollout]]
 - [[Tyler Municipal Justice Client-Side PM]]
 
@@ -177,15 +192,18 @@ Delivered 100+ successful implementations with 92% on-time and 95% on-budget per
 ## Reflection
 
 **What went well:**
+
 - Stakeholder relationship building became a differentiator
 - Playbook creation scaled personal impact across team
 - Developed deep court operations expertise
 
 **What you'd do differently:**
+
 - Earlier investment in automation for status reporting
 - More systematic capture of lessons learned per project
 
 **Unexpected lessons:**
+
 - Government stakeholders value transparency and reliability over speed
 - Building relationships with clerks (not just executives) is critical for adoption
 
@@ -194,10 +212,12 @@ Delivered 100+ successful implementations with 92% on-time and 95% on-budget per
 ## Featured In
 
 **Main pages:**
+
 - [[what-ive-done]] — Signature achievement demonstrating implementation excellence at scale
 - [[my-superpowers]] — Primary evidence for implementation & deployment and public sector expertise
 
 **Target roles:**
+
 - [[Targets/Roles/GovTech & Public Sector]] — Primary evidence: 100+ municipal court implementations
 - [[Targets/Roles/Implementation & Professional Services]] — Primary evidence: end-to-end delivery expertise
 - [[Targets/Roles/Enablement & Adoption]] — Supporting evidence: training and change management capabilities

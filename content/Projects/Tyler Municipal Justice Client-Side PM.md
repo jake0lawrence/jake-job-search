@@ -26,12 +26,15 @@ appears_in: 2/25 variants
 ## Full Context
 
 ### The Situation
+
 Village of Morton Grove was implementing Tyler Municipal Justice for its Administrative Hearings Department. As a municipality, Morton Grove needed a project manager to coordinate internal stakeholders, manage vendor relationship, drive requirements, oversee testing, and ensure successful adoption.
 
 ### Your Role
+
 Client-side Project Manager. Owned the municipality's side of the implementation: requirements gathering, stakeholder coordination, UAT, training, and change management. Worked directly with Tyler Technologies consultants.
 
 ### The Approach
+
 - Led internal requirements gathering across court staff and stakeholders
 - Coordinated with Tyler implementation consultants
 - Managed vendor relationship and held Tyler accountable to timeline
@@ -41,37 +44,41 @@ Client-side Project Manager. Owned the municipality's side of the implementation
 - Managed go-live preparation and cutover
 
 ### The Outcome
+
 Successful on-time go-live. Court staff adopted new system. Gained invaluable customer-side perspective that later informed 100+ implementations as a vendor consultant. This experience is what led to joining Tyler Technologies.
 
 ---
 
 ## Metrics & Impact
 
-| Metric | Value | Context |
-|--------|-------|---------|
-| Implementation | Successful | On-time go-live |
-| System | Tyler Municipal Justice | Court case management |
-| Perspective | Customer-side | Later became vendor-side |
+| Metric         | Value                   | Context                  |
+| -------------- | ----------------------- | ------------------------ |
+| Implementation | Successful              | On-time go-live          |
+| System         | Tyler Municipal Justice | Court case management    |
+| Perspective    | Customer-side           | Later became vendor-side |
 
 ### Responsibilities
-| Phase | Activities |
-|-------|------------|
-| Requirements | Internal stakeholder interviews, documentation |
-| Vendor management | Accountability, timeline, deliverables |
-| Testing | UAT coordination, issue tracking |
-| Training | Change management, user adoption |
-| Go-live | Cutover planning, support |
+
+| Phase             | Activities                                     |
+| ----------------- | ---------------------------------------------- |
+| Requirements      | Internal stakeholder interviews, documentation |
+| Vendor management | Accountability, timeline, deliverables         |
+| Testing           | UAT coordination, issue tracking               |
+| Training          | Change management, user adoption               |
+| Go-live           | Cutover planning, support                      |
 
 ---
 
 ## Skills Demonstrated
 
 ### Primary Skills
+
 - [[Municipal Courts]]
 - [[Implementation & Deployment]]
 - [[Public Sector & GovTech]]
 
 ### Secondary Skills
+
 - [[Change Management]]
 - [[Stakeholder Communication]]
 - [[Training & Enablement]]
@@ -83,6 +90,7 @@ Successful on-time go-live. Court staff adopted new system. Gained invaluable cu
 **Appears in:** 2/25 variants
 
 **Strategic Note:** This project tells a unique story—you implemented the same system as both customer and vendor. Use when demonstrating:
+
 - Empathy for customer challenges
 - "Both sides of the table" perspective
 - Why you understand implementation pain points
@@ -90,15 +98,19 @@ Successful on-time go-live. Court staff adopted new system. Gained invaluable cu
 ### Bullet Point Versions
 
 **Technical audience (detailed):**
+
 > Served as client-side PM for Tyler Municipal Justice implementation—led requirements, coordinated UAT, managed vendor relationship, and drove adoption—later implementing the same system across 100+ courts as a vendor consultant.
 
 **General audience (accessible):**
+
 > Led our organization's implementation of new court software as the customer, then later joined the vendor and implemented the same system for 100+ other courts.
 
 **Leadership focus (strategic):**
+
 > Unique "both sides of the table" experience—implemented Tyler Municipal Justice as a customer, then delivered 100+ implementations of the same system as a consultant.
 
 **Abbreviated (space-constrained):**
+
 > Client-side PM for Tyler implementation; later implemented same system 100+ times as vendor.
 
 ---
@@ -133,6 +145,7 @@ Morton Grove was implementing Tyler Municipal Justice for Administrative Hearing
 Serve as client-side PM ensuring successful implementation and adoption.
 
 **Action:**
+
 - Led internal requirements gathering
 - Coordinated with Tyler consultants and held them accountable
 - Managed data migration from legacy systems
@@ -144,13 +157,15 @@ Serve as client-side PM ensuring successful implementation and adoption.
 Successful on-time go-live. Staff adopted system. Gained customer perspective that shaped my approach when I later joined Tyler and implemented the same system 100+ times.
 
 ### Likely Follow-up Questions
+
 1. "What did you learn as a customer that you applied as a vendor?"
 2. "How did this experience influence how you treat your customers?"
 3. "What would you have done differently as the customer?"
 
 ### Potential Challenges/Objections
-| Concern | Response |
-|---------|----------|
+
+| Concern                                     | Response                                                                                                                                              |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | "One implementation as customer isn't much" | Agreed—but it's the perspective that matters. I know what it feels like to be on the receiving end. That empathy shows in every customer interaction. |
 
 ---
@@ -158,6 +173,7 @@ Successful on-time go-live. Staff adopted system. Gained customer perspective th
 ## Strategic Value
 
 **This is a powerful narrative:**
+
 1. Worked IN a court (Court Clerk)
 2. Implemented court software AS the customer
 3. Joined the vendor
@@ -171,11 +187,13 @@ Very few candidates can tell this story. Use it to demonstrate customer empathy 
 
 **Parent organization:** [[Village of Morton Grove]]
 **Part of:** [[Morton Grove Technology Modernization]]
-**Led to:** 
+**Led to:**
+
 - [[Tyler Technologies]] employment
 - [[100+ Municipal Court Implementations]]
 
 **Related projects:**
+
 - [[Court Clerk - Administrative Hearings]]
 
 ---
@@ -183,15 +201,18 @@ Very few candidates can tell this story. Use it to demonstrate customer empathy 
 ## Reflection
 
 **What went well:**
+
 - Learned vendor management from customer side
 - Understood what customers really need
 - Built relationship that led to career opportunity
 
 **What you'd do differently:**
+
 - Pushed harder on certain requirements
 - More involvement in data migration planning
 
 **Unexpected lessons:**
+
 - Customers and vendors have different priorities
 - Timeline pressure feels different from customer side
 - Adoption is the customer's responsibility—but vendor can help or hurt
@@ -201,10 +222,12 @@ Very few candidates can tell this story. Use it to demonstrate customer empathy 
 ## Featured In
 
 **Main pages:**
+
 - [[what-ive-done]] — Demonstrates unique "both sides of the table" perspective: customer to vendor
 - [[my-superpowers]] — Primary evidence for municipal courts expertise and customer empathy
 
 **Target roles:**
+
 - [[Targets/Roles/GovTech & Public Sector]] — Primary evidence: client-side court implementation PM experience
 - [[Targets/Roles/Implementation & Professional Services]] — Supporting evidence: understanding of customer-side challenges
 
