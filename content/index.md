@@ -22,7 +22,7 @@ This is my job search command center. I'm sharing it with close friends and fami
 
 ## How You Can Help
 
-→ **[[How You Can Help|See specific ways to help]]** ←
+→ **[[how-you-can-help|See specific ways to help]]** ←
 
 The biggest thing: if you see a job posting or know someone at a company I'd be good for, send it my way. I've made it easy—check out [[what-im-looking-for]] and [[target-companies]] to see what fits.
 
@@ -38,8 +38,8 @@ This vault contains everything about my job search, organized so I (and you) can
 | **[[target-companies]]** | Specific companies I'm interested in |
 | **[[what-ive-done]]** | My career highlights and key projects |
 | **[[my-superpowers]]** | Skills and expertise, with real examples |
-| **[[Resume Variants]]** | Different versions of my resume for different role types |
-| **[[Application Tracker]]** | Where I've applied and current status |
+| **[[resume-variants]]** | Different versions of my resume for different role types |
+| **[[application-tracker]]** | Where I've applied and current status |
 
 ---
 

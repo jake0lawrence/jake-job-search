@@ -146,4 +146,4 @@ Being honest about gaps:
 Want more detail on specific skills? Check out:
 - **[[Skills/|All Skills]]** — The complete inventory
 - **[[what-ive-done]]** — Projects that demonstrate these skills
-- **[[Resume Variants]]** — How I present these for different roles
+- **[[resume-variants]]** — How I present these for different roles
