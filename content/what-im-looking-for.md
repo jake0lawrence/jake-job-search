@@ -116,3 +116,18 @@ I'm flexible if the opportunity is exceptional, but these are my benchmarks.
 If you see a job posting with words like **"Customer Success," "Implementation," "Onboarding," "Enablement," or "Solutions Consultant"** at a **software company**—send it to me. I'll tell you if it's a fit.
 
 When in doubt, just ask. 📱 815-307-2708
+
+---
+
+## Explore Further
+
+**See specific roles I'm targeting:**
+- [[Targets/Roles/GovTech & Public Sector|GovTech & Public Sector Roles]]
+- [[Targets/Roles/Implementation & Professional Services|Implementation & Professional Services]]
+- [[Targets/Roles/Enablement & Adoption|Enablement & Adoption Roles]]
+- [[Targets/Roles/Scaled & Digital Customer Success|Scaled & Digital CS]]
+- [[Targets/Roles/Enterprise Strategic CS|Enterprise Strategic CS]]
+
+**See companies I'm targeting:** [[target-companies]]
+
+**See what makes me good at these roles:** [[my-superpowers]]

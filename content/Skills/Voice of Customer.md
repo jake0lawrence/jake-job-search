@@ -57,6 +57,16 @@ Capturing, synthesizing, and communicating customer feedback to internal teamsâ€
 | Non-technical audience | "Represented customer needs to internal teams to improve products and services" |
 | Leadership focus | "Served as strategic voice of customer, informing product direction and organizational priorities" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[Customer Success Playbook System]] â€” Synthesized customer feedback to inform process improvements and internal training
+
+**Supporting evidence:**
+- [[Executive Escalation Resolution Program]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

@@ -57,6 +57,18 @@ Moving data from legacy systems to new platforms as part of software implementat
 | Non-technical audience | "Ensured customer data transferred accurately and completely to new systems" |
 | Leadership focus | "Created conversion playbooks improving sign-off time 37% while maintaining <0.1% defect rate" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[Conversion Intake Optimization]] — Streamlined data conversion, 37% improvement in sign-off time
+- [[100+ Municipal Court Implementations]] — Managed data migrations across 100+ courts
+- [[Illinois Vehicle Code Reconciliation]] — Complex data reconciliation project
+
+**Supporting evidence:**
+- [[SAP EAM Implementation Support]] — Data migration support for SAP EAM
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

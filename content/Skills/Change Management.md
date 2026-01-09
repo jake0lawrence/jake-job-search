@@ -55,6 +55,17 @@ Guiding organizations through transitions—whether technology implementations, 
 | Non-technical audience | "Helped organizations successfully navigate change and adopt new ways of working" |
 | Leadership focus | "Led transformation initiatives requiring stakeholder alignment and sustained behavior change" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[Morton Grove Technology Modernization]] — Led organizational change across multiple departments through technology transformation
+- [[CentralSquare EAM Rollout]] — Drove adoption among field and office staff with Train the Trainer programs
+
+**Supporting evidence:**
+- [[100+ Municipal Court Implementations]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

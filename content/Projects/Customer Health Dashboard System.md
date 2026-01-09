@@ -174,3 +174,17 @@ At-risk accounts identified 1-2 weeks earlier. Team adopted proactive interventi
 **Unexpected lessons:**
 - Dashboard adoption requires workflow integration, not just access
 - Health metrics need regular recalibration as business changes
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Technical achievement demonstrating data integration and analytics skills
+- [[my-superpowers]] — Primary evidence for Power BI, customer health monitoring, and data-driven decision making
+
+**Target roles:**
+- [[Targets/Roles/Scaled & Digital Customer Success]] — Primary evidence: proactive health monitoring and intervention
+- [[Targets/Roles/Enterprise Strategic CS]] — Supporting evidence: executive visibility and risk management
+
+**Related:** See [[Status Pack Automation]], [[Customer Success Playbook System]]

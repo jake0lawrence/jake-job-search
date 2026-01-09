@@ -65,6 +65,13 @@ Understanding of payment processing workflows in enterprise software—including
 | Non-technical audience | "Helped organizations set up systems to collect and process payments efficiently" |
 | Leadership focus | "Delivered payment solutions enabling accurate financial operations and reporting" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[100+ Municipal Court Implementations]] — Led technical discovery for payment intake and cashiering solutions in municipal court systems
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

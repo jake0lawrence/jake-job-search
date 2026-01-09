@@ -54,6 +54,17 @@ Microsoft's business intelligence and data visualization platform. Used to build
 | Non-technical audience | "Created visual reports to monitor account health and guide proactive customer outreach" |
 | Leadership focus | "Developed executive-facing dashboards for portfolio visibility and strategic decision-making" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[Customer Health Dashboard System]] — Built Power BI dashboard tracking 100+ accounts
+- [[Status Pack Automation]] — Automated reporting with Power BI
+
+**Supporting evidence:**
+- [[Morton Grove Technology Modernization]] — Analytics for technology adoption tracking
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

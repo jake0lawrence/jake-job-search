@@ -122,3 +122,17 @@ If you know anything about working at these places, I'd love to hear it.
 If you're thinking of a company not on this list, tell me anyway! My list isn't exhaustive—there are thousands of B2B software companies. If you know someone somewhere interesting, I want to hear about it.
 
 📱 **815-307-2708** — Just text me
+
+---
+
+## How I'm Positioned
+
+My background is strongest in [[Public Sector & GovTech]]—see my experience with [[100+ Municipal Court Implementations]] and work on the [[Morton Grove Technology Modernization]] project.
+
+For more on why I'm a fit for government technology, see [[Targets/Roles/GovTech & Public Sector]].
+
+For implementation and professional services roles, check out [[Targets/Roles/Implementation & Professional Services]] to see how my [[Implementation & Deployment]] and [[Data Migration]] experience aligns.
+
+**Learn more:**
+- [[what-im-looking-for|What I'm Looking For]] — Role criteria and preferences
+- [[my-superpowers|My Superpowers]] — Key strengths and capabilities

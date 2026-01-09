@@ -181,3 +181,16 @@ First-time-right SSO on 4 consecutive projects. Eliminated last-mile SSO escalat
 - "First-time-right" is achievable with proper preparation
 - Pre-flight meetings are worth the calendar time
 - Customers appreciate structured security discussions
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Demonstrates process improvement and technical integration expertise
+- [[my-superpowers]] — Primary evidence for API & integrations (SSO/SAML) and playbook development
+
+**Target roles:**
+- [[Targets/Roles/Implementation & Professional Services]] — Primary evidence: eliminated recurring SSO failures, first-time-right on 4 consecutive projects
+
+**Related:** See [[RMS Ingest Integration Fix]], [[Conversion Intake Optimization]], [[Customer Success Playbook System]]

@@ -64,6 +64,16 @@ Deep expertise in the Illinois Vehicle Code (IVC)—the state statutes governing
 | Non-technical audience | "Expert in Illinois traffic and vehicle laws, helping courts standardize how violations are recorded and processed" |
 | Leadership focus | "Deep regulatory knowledge enabling statewide standardization of court offense code systems" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[Illinois Vehicle Code Reconciliation]] — Reconciled offense codes across legacy systems, municipal codes, and IVC sections for dozens of Illinois courts
+
+**Supporting evidence:**
+- [[100+ Municipal Court Implementations]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

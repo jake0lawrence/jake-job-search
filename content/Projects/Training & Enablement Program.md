@@ -174,3 +174,18 @@ Design and deliver training program that would drive adoption across all user ty
 **Unexpected lessons:**
 - Training is change management, not just knowledge transfer
 - Executives need training too—different format but equally important
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Signature achievement demonstrating training excellence and scalable enablement
+- [[my-superpowers]] — Primary evidence for training & enablement expertise
+
+**Target roles:**
+- [[Targets/Roles/Enablement & Adoption]] — Primary evidence: 120+ sessions, 650+ users trained, 4.8/5 satisfaction
+- [[Targets/Roles/Implementation & Professional Services]] — Supporting evidence: role-based training delivery
+- [[Targets/Roles/Scaled & Digital Customer Success]] — Supporting evidence: scalable enablement programs
+
+**Related:** See [[First 30 Days Adoption Program]], [[Customer Success Playbook System]]

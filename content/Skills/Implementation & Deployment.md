@@ -56,6 +56,22 @@ Leading end-to-end software implementations from requirements gathering through 
 | Non-technical audience | "Led software rollouts that helped organizations successfully adopt new technology" |
 | Leadership focus | "Delivered 100+ implementations with consistent on-time/on-budget performance through process discipline and team coordination" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[100+ Municipal Court Implementations]] — Led 100+ successful software deployments
+- [[CentralSquare EAM Rollout]] — Full-scale EAM system implementation
+- [[Morton Grove Technology Modernization]] — Multi-system technology rollout
+
+**Supporting evidence:**
+- [[Tyler Municipal Justice Client-Side PM]] — Client-side implementation coordination
+- [[SAP EAM Implementation Support]] — Supported SAP EAM deployment
+- [[FOIA Platform Launch]] — Statewide platform implementation
+- [[RMS Ingest Integration Fix]] — Technical integration implementation
+- [[SSO First-Time-Right Initiative]] — SSO deployment optimization
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

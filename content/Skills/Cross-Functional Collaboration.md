@@ -55,6 +55,19 @@ Working effectively across organizational boundaries with teams like Sales, Prod
 | Non-technical audience | "Worked across teams to ensure customers received seamless, coordinated support" |
 | Leadership focus | "Served as connective tissue between departments, aligning stakeholders around customer outcomes" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[Executive Escalation Resolution Program]] — Orchestrated resources across Product, Engineering, and Support to resolve 13/14 escalations
+- [[Customer Success Playbook System]] — Collaborated across teams to build and institutionalize standardized processes
+
+**Supporting evidence:**
+- [[100+ Municipal Court Implementations]]
+- [[Morton Grove Technology Modernization]]
+- [[CentralSquare EAM Rollout]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

@@ -74,6 +74,18 @@ Expertise in municipal court operations—including administrative hearings, tra
 | Non-technical audience | "Helped courts modernize their technology to serve residents more efficiently" |
 | Leadership focus | "Court Clerk experience combined with 100+ court implementations—deep operational and technical expertise" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[100+ Municipal Court Implementations]] — Led court case management implementations across Illinois and nationally
+
+**Supporting evidence:**
+- [[Court Clerk - Administrative Hearings]]
+- [[Tyler Municipal Justice Client-Side PM]]
+- [[Illinois Vehicle Code Reconciliation]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

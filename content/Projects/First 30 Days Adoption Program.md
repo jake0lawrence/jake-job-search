@@ -177,3 +177,17 @@ Design a program that would guide users through the first 30 days, build confide
 **Unexpected lessons:**
 - Office hours often surfaced issues that would have become escalations
 - Admins are the key to organizational adoption—invest heavily there
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Demonstrates structured enablement program design and post-go-live support expertise
+- [[my-superpowers]] — Primary evidence for onboarding, training & enablement, and product adoption
+
+**Target roles:**
+- [[Targets/Roles/Enablement & Adoption]] — Primary evidence: structured first 30 days program, 4.8/5 satisfaction
+- [[Targets/Roles/Scaled & Digital Customer Success]] — Supporting evidence: scalable post-launch adoption methodology
+
+**Related:** See [[Training & Enablement Program]], [[Customer Success Playbook System]]

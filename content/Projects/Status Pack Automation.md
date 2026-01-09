@@ -176,3 +176,16 @@ Automate status reporting to save time and improve data freshness.
 **Unexpected lessons:**
 - Automation projects have compounding returns
 - Standardized data model is the hard part—visualization is easy
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Demonstrates automation and efficiency improvement capabilities
+- [[my-superpowers]] — Primary evidence for Power BI expertise and process automation
+
+**Target roles:**
+- [[Targets/Roles/Scaled & Digital Customer Success]] — Primary evidence: automation enabling scaled operations, 8-10 hrs/week saved
+
+**Related:** See [[Customer Health Dashboard System]], [[Pooled Portfolio Model]]

@@ -196,3 +196,17 @@ This project is uniquely valuable because it shows:
 **Unexpected lessons:**
 - Government technology change is political, not just technical
 - Being the customer first made me a better consultant later
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Major project demonstrating government modernization and multi-system delivery
+- [[my-superpowers]] — Primary evidence for public sector & GovTech expertise and implementation capabilities
+
+**Target roles:**
+- [[Targets/Roles/GovTech & Public Sector]] — Primary evidence: municipal technology modernization, $200K value delivered
+- [[Targets/Roles/Implementation & Professional Services]] — Supporting evidence: multi-system rollouts and change management
+
+**Related:** See [[CentralSquare EAM Rollout]], [[Tyler Municipal Justice Client-Side PM]], [[FOIA Platform Launch]]

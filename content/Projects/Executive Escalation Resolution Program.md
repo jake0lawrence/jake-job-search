@@ -175,3 +175,17 @@ All critical issues resolved within 10 business days. No commercial concessions 
 **Unexpected lessons:**
 - Customers often value how you handle problems more than avoiding them
 - Executive communication frequency matters as much as content
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Leadership achievement demonstrating crisis management and executive relationship building
+- [[my-superpowers]] — Primary evidence for escalation management and executive relationship management
+
+**Target roles:**
+- [[Targets/Roles/Enterprise Strategic CS]] — Primary evidence: 13/14 escalations resolved, executive relationship management
+- [[Targets/Roles/Scaled & Digital Customer Success]] — Supporting evidence: systematic escalation handling at scale
+
+**Related:** See [[RMS Ingest Integration Fix]], [[Customer Health Dashboard System]]
