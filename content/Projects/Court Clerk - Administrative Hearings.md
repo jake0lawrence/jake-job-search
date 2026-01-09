@@ -78,7 +78,7 @@ Accumulated hundreds of hours of direct court operations experience. Gained firs
 ### Secondary Skills
 
 - [[Stakeholder Communication]]
-- [[Process Design & Documentation]]
+- [[Playbook Development]]
 
 ---
 

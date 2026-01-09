@@ -71,7 +71,7 @@ Position as an adoption and enablement leader with strong analytics capabilities
 - [[Strategic Account Management]]
 - [[Escalation Management]]
 - [[Cross-Functional Collaboration]]
-- [[Data-Driven Decision Making]]
+- [[Customer Health Monitoring]]
 
 ### Downplayed/Omitted
 

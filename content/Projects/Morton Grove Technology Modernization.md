@@ -10,7 +10,7 @@ skills:
   - "[[Change Management]]"
   - "[[Public Sector & GovTech]]"
   - "[[Training & Enablement]]"
-  - "[[Process Design & Documentation]]"
+  - "[[Playbook Development]]"
 impact: high
 visibility: organizational
 appears_in: 25/25 variants
@@ -83,7 +83,7 @@ $200K annual value through productivity gains, reduced manual processes, and imp
 ### Secondary Skills
 
 - [[Training & Enablement]]
-- [[Process Design & Documentation]]
+- [[Playbook Development]]
 - [[EAM & Asset Management]]
 - [[Power Automate]]
 

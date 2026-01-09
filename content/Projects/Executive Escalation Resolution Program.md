@@ -10,7 +10,7 @@ skills:
   - "[[Cross-Functional Collaboration]]"
   - "[[Executive Relationship Management]]"
   - "[[Customer Advocacy]]"
-  - "[[Risk Mitigation]]"
+  - "[[Escalation Management]]"
 impact: high
 visibility: executive
 appears_in: 25/25 variants
@@ -79,7 +79,7 @@ Primary escalation owner responsible for assessment, action planning, cross-func
 ### Secondary Skills
 
 - [[Customer Advocacy]]
-- [[Risk Mitigation]]
+- [[Escalation Management]]
 - [[Customer Health Monitoring]]
 - [[Voice of Customer]]
 

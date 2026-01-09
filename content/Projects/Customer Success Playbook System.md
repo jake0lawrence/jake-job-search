@@ -7,7 +7,7 @@ organization: "[[Tyler Technologies]]"
 role: Implementation Consultant
 skills:
   - "[[Playbook Development]]"
-  - "[[Process Design & Documentation]]"
+  - "[[Playbook Development]]"
   - "[[Onboarding]]"
   - "[[Escalation Management]]"
   - "[[Training & Enablement]]"
@@ -74,7 +74,7 @@ Identified patterns from successful implementations, documented best practices, 
 ### Primary Skills
 
 - [[Playbook Development]]
-- [[Process Design & Documentation]]
+- [[Playbook Development]]
 
 ### Secondary Skills
 

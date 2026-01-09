@@ -7,7 +7,7 @@ organization: "[[Tyler Technologies]]"
 role: Implementation Consultant
 skills:
   - "[[Power BI]]"
-  - "[[Process Design & Documentation]]"
+  - "[[Playbook Development]]"
   - "[[Customer Health Monitoring]]"
 impact: medium
 visibility: internal
@@ -76,12 +76,12 @@ Eliminated 8-10 hours/week of manual status prep. Risks surfaced 1-2 weeks earli
 ### Primary Skills
 
 - [[Power BI]]
-- [[Process Design & Documentation]]
+- [[Playbook Development]]
 - [[Customer Health Monitoring]]
 
 ### Secondary Skills
 
-- [[Data-Driven Decision Making]]
+- [[Customer Health Monitoring]]
 - [[Continuous Improvement]]
 
 ---

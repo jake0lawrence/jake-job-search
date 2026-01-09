@@ -9,7 +9,7 @@ skills:
   - "[[Implementation & Deployment]]"
   - "[[Public Sector & GovTech]]"
   - "[[FOIA/Records Management]]"
-  - "[[Process Design & Documentation]]"
+  - "[[Playbook Development]]"
 impact: medium
 visibility: organizational
 appears_in: 4/25 variants
@@ -79,7 +79,7 @@ Centralized all FOIA requests into single system. Saved 20 staff hours/week on a
 
 ### Secondary Skills
 
-- [[Process Design & Documentation]]
+- [[Playbook Development]]
 - [[Training & Enablement]]
 - [[Change Management]]
 

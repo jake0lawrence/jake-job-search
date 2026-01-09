@@ -87,7 +87,7 @@ The practice of tracking leading indicators of customer satisfaction, adoption, 
 ### Sibling Skills (often paired with)
 
 - [[Power BI]]
-- [[Risk Mitigation]]
+- [[Escalation Management]]
 - [[Playbook Development]]
 - [[Escalation Management]]
 

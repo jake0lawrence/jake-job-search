@@ -9,7 +9,7 @@ skills:
   - "[[API & Integrations]]"
   - "[[Playbook Development]]"
   - "[[Technical Documentation]]"
-  - "[[Process Design & Documentation]]"
+  - "[[Playbook Development]]"
 impact: medium
 visibility: internal
 appears_in: 1/25 variants
@@ -83,9 +83,9 @@ First-time-right SSO integration on next 4 consecutive projects. Eliminated last
 
 ### Secondary Skills
 
-- [[Process Design & Documentation]]
+- [[Playbook Development]]
 - [[Cross-Functional Collaboration]]
-- [[Risk Mitigation]]
+- [[Escalation Management]]
 
 ---
 

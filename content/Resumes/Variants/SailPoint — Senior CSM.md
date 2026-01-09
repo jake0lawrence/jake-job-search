@@ -68,7 +68,7 @@ Position as a strategic CSM who manages high-value accounts through relationship
 - [[Customer Health Monitoring]]
 - [[Playbook Development]]
 - [[Cross-Functional Collaboration]]
-- [[Risk Mitigation]]
+- [[Escalation Management]]
 
 ### Downplayed/Omitted
 
