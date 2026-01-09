@@ -43,6 +43,26 @@ This vault contains everything about my job search, organized so I (and you) can
 
 ---
 
+## Find What You Need
+
+**If you're trying to help me find a job:**
+- [[how-you-can-help|How You Can Help]] — Specific ways to support my search
+- [[target-companies|Target Companies]] — Companies I'm interested in
+- [[what-im-looking-for|What I'm Looking For]] — Role criteria to match
+
+**If you want to understand my background:**
+- [[my-superpowers|My Superpowers]] — Key strengths and capabilities
+- [[what-ive-done|What I've Done]] — Career highlights and accomplishments
+- [[projects|Projects Portfolio]] — Case studies with measurable results
+
+**If you're evaluating me for a role:**
+- [[Targets/Roles/GovTech & Public Sector|GovTech Experience]]
+- [[Targets/Roles/Implementation & Professional Services|Implementation Background]]
+- [[Targets/Roles/Enablement & Adoption|Enablement Expertise]]
+- [[career-vault-dashboard|Full Dashboard]]
+
+---
+
 ## Quick Stats
 
 | Metric | Value |

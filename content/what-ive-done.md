@@ -110,11 +110,17 @@ This is my unique angle:
 
 ---
 
-## More Detail
+## Explore the Details
 
-Want to go deeper? Check out:
-- **[[my-superpowers]]** — Skills and expertise explained
-- **[[Projects/|All Projects]]** — Full project list with details
-- **[[Resume Variants]]** — Different versions of my resume
+**See specific project case studies:** [[projects|Projects Portfolio]]
 
-Or just ask me! 📱 815-307-2708
+**See skills demonstrated:** [[my-superpowers|My Superpowers]]
+
+**See how these align with roles:**
+- [[Targets/Roles/GovTech & Public Sector|GovTech & Public Sector]]
+- [[Targets/Roles/Implementation & Professional Services|Implementation & Professional Services]]
+- [[Targets/Roles/Enablement & Adoption|Enablement & Adoption]]
+- [[Targets/Roles/Scaled & Digital Customer Success|Scaled & Digital CS]]
+- [[Targets/Roles/Enterprise Strategic CS|Enterprise Strategic CS]]
+
+**Or just ask me!** 📱 815-307-2708
