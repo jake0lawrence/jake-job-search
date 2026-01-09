@@ -57,6 +57,16 @@ Structured meetings with customer stakeholders to review performance, demonstrat
 | Non-technical audience | "Met regularly with customer leadership to review progress and plan for continued success" |
 | Leadership focus | "Conducted executive business reviews that protected renewals and uncovered expansion opportunities" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- Demonstrated across customer portfolio through regular value reviews with executive stakeholders
+
+**Supporting evidence:**
+- [[Executive Escalation Resolution Program]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

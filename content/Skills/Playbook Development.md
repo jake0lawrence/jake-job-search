@@ -55,6 +55,18 @@ Creating standardized, repeatable processes and documentation that codify best p
 | Non-technical audience | "Built repeatable processes that ensured consistent customer experiences at scale" |
 | Leadership focus | "Developed operational playbooks that improved team efficiency and delivery predictability" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[Customer Success Playbook System]] — Created core playbooks (Cutover, Training, Integration/Conversion, Escalation) adopted across 87% of portfolio
+- [[Conversion Intake Optimization]] — Standardized processes reducing rework by 28%
+
+**Supporting evidence:**
+- [[First 30 Days Adoption Program]]
+- [[SSO First-Time-Right Initiative]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

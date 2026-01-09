@@ -201,3 +201,16 @@ Operate effectively within pooled model while contributing to its refinement.
 - Customers often don't need or want high-touch
 - Scalable programs can feel personal if done well
 - Health signals are only as good as the data feeding them
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Demonstrates scaled CS methodology and high-volume portfolio management
+- [[my-superpowers]] — Primary evidence for scaled & digital customer success and health-based prioritization
+
+**Target roles:**
+- [[Targets/Roles/Scaled & Digital Customer Success]] — Primary evidence: ~100 accounts/year, 87% adoption, pooled model expertise
+
+**Related:** See [[Customer Health Dashboard System]], [[First 30 Days Adoption Program]], [[Customer Success Playbook System]]

@@ -58,6 +58,8 @@ If your company uses business software and you like your Customer Success rep or
 - How was the implementation experience?
 - Would you recommend working with their team?
 
+Check out [[my-superpowers]] to see what makes a good CS or Implementation team—you might recognize those qualities in who you work with.
+
 ---
 
 ### 5. Let Me Practice
@@ -67,6 +69,8 @@ If you're willing to do a mock interview or let me explain what I do, that helps
 ---
 
 ## 📋 Quick Reference: What I'm Looking For
+
+For complete details, see [[what-im-looking-for]].
 
 | Dimension | Ideal | Acceptable |
 |-----------|-------|------------|

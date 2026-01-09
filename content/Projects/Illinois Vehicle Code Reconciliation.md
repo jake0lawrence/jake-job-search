@@ -188,3 +188,17 @@ Successful migrations with standardized offense codes. Deep IVC expertise applic
 **Unexpected lessons:**
 - Regulatory knowledge compounds over time
 - Courts appreciate consultants who understand the law
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Demonstrates specialized regulatory compliance expertise for Illinois courts
+- [[my-superpowers]] — Primary evidence for Illinois Vehicle Code expertise and data migration capabilities
+
+**Target roles:**
+- [[Targets/Roles/GovTech & Public Sector]] — Primary evidence: specialized Illinois court regulatory knowledge
+- [[Targets/Roles/Implementation & Professional Services]] — Supporting evidence: offense code reconciliation and data migration
+
+**Related:** See [[100+ Municipal Court Implementations]], [[Court Clerk - Administrative Hearings]]

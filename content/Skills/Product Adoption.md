@@ -55,6 +55,17 @@ Driving customer usage and value realization from software platforms. Involves u
 | Non-technical audience | "Helped customers get full value from their software investment through guided adoption" |
 | Leadership focus | "Accelerated time-to-value and expanded platform usage across customer organizations" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[First 30 Days Adoption Program]] — Drove primary workflow launches within 90 days consistently
+- [[Training & Enablement Program]] — Built adoption tracking and enablement programs across portfolio
+
+**Supporting evidence:**
+- [[Customer Success Playbook System]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

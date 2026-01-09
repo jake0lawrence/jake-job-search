@@ -187,3 +187,16 @@ This project shows:
 **Unexpected lessons:**
 - COA mapping is underestimated in complexity
 - Finance partnership is critical for asset management
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Demonstrates early career implementation experience and cross-functional coordination
+- [[my-superpowers]] — Primary evidence for EAM & asset management and financial integration expertise
+
+**Target roles:**
+- [[Targets/Roles/Implementation & Professional Services]] — Primary evidence: SAP EAM support, chart of accounts mapping, 35% improvement
+
+**Related:** See [[CentralSquare EAM Rollout]], [[Morton Grove Technology Modernization]]

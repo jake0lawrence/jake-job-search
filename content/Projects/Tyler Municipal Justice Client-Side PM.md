@@ -195,3 +195,17 @@ Very few candidates can tell this story. Use it to demonstrate customer empathy 
 - Customers and vendors have different priorities
 - Timeline pressure feels different from customer side
 - Adoption is the customer's responsibility—but vendor can help or hurt
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Demonstrates unique "both sides of the table" perspective: customer to vendor
+- [[my-superpowers]] — Primary evidence for municipal courts expertise and customer empathy
+
+**Target roles:**
+- [[Targets/Roles/GovTech & Public Sector]] — Primary evidence: client-side court implementation PM experience
+- [[Targets/Roles/Implementation & Professional Services]] — Supporting evidence: understanding of customer-side challenges
+
+**Related:** See [[Court Clerk - Administrative Hearings]], [[100+ Municipal Court Implementations]]

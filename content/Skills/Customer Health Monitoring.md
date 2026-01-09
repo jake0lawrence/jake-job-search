@@ -54,6 +54,17 @@ The practice of tracking leading indicators of customer satisfaction, adoption, 
 | Non-technical audience | "Monitored customer satisfaction and engagement to identify and address issues before they escalate" |
 | Leadership focus | "Developed predictive health monitoring to protect revenue and improve retention outcomes" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[Customer Health Dashboard System]] — Built Power BI dashboards surfacing churn risk 1-2 weeks earlier
+- [[Pooled Portfolio Model]] — Operationalized health signals to trigger intervention playbooks
+
+**Supporting evidence:**
+- [[Executive Escalation Resolution Program]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

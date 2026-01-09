@@ -22,7 +22,7 @@ This is my job search command center. I'm sharing it with close friends and fami
 
 ## How You Can Help
 
-→ **[[How You Can Help|See specific ways to help]]** ←
+→ **[[how-you-can-help|See specific ways to help]]** ←
 
 The biggest thing: if you see a job posting or know someone at a company I'd be good for, send it my way. I've made it easy—check out [[what-im-looking-for]] and [[target-companies]] to see what fits.
 
@@ -38,8 +38,28 @@ This vault contains everything about my job search, organized so I (and you) can
 | **[[target-companies]]** | Specific companies I'm interested in |
 | **[[what-ive-done]]** | My career highlights and key projects |
 | **[[my-superpowers]]** | Skills and expertise, with real examples |
-| **[[Resume Variants]]** | Different versions of my resume for different role types |
-| **[[Application Tracker]]** | Where I've applied and current status |
+| **[[resume-variants]]** | Different versions of my resume for different role types |
+| **[[application-tracker]]** | Where I've applied and current status |
+
+---
+
+## Find What You Need
+
+**If you're trying to help me find a job:**
+- [[how-you-can-help|How You Can Help]] — Specific ways to support my search
+- [[target-companies|Target Companies]] — Companies I'm interested in
+- [[what-im-looking-for|What I'm Looking For]] — Role criteria to match
+
+**If you want to understand my background:**
+- [[my-superpowers|My Superpowers]] — Key strengths and capabilities
+- [[what-ive-done|What I've Done]] — Career highlights and accomplishments
+- [[projects|Projects Portfolio]] — Case studies with measurable results
+
+**If you're evaluating me for a role:**
+- [[Targets/Roles/GovTech & Public Sector|GovTech Experience]]
+- [[Targets/Roles/Implementation & Professional Services|Implementation Background]]
+- [[Targets/Roles/Enablement & Adoption|Enablement Expertise]]
+- [[career-vault-dashboard|Full Dashboard]]
 
 ---
 

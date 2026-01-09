@@ -197,3 +197,17 @@ This project shows:
 **Unexpected lessons:**
 - Asset management is as much about culture as technology
 - PM compliance requires ongoing reinforcement
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Demonstrates EAM implementation expertise and public works domain knowledge
+- [[my-superpowers]] — Primary evidence for EAM & asset management and ArcGIS integration capabilities
+
+**Target roles:**
+- [[Targets/Roles/Implementation & Professional Services]] — Primary evidence: end-to-end EAM rollout with GIS integration
+- [[Targets/Roles/GovTech & Public Sector]] — Supporting evidence: municipal public works modernization
+
+**Related:** See [[SAP EAM Implementation Support]], [[Morton Grove Technology Modernization]]

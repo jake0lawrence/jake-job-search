@@ -66,6 +66,16 @@ Building and maintaining relationships with senior stakeholders—CIOs, VPs, Dir
 | Non-technical audience | "Built strong relationships with senior leaders to ensure their organizations succeeded" |
 | Leadership focus | "Developed and maintained executive-level relationships driving strategic alignment and long-term partnership" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[Executive Escalation Resolution Program]] — Built trusted relationships with C-suite stakeholders to resolve 13/14 escalations
+
+**Supporting evidence:**
+- [[Morton Grove Technology Modernization]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

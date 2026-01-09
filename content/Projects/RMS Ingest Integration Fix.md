@@ -185,3 +185,16 @@ Errors reduced ~95%. Go-live delivered on schedule. Customer confidence restored
 - Integration issues are rarely one root cause
 - Vendor coordination requires persistent follow-up
 - Customers appreciate transparency during problems
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Demonstrates technical troubleshooting and crisis management capabilities
+- [[my-superpowers]] — Primary evidence for API & integrations expertise and escalation management
+
+**Target roles:**
+- [[Targets/Roles/Implementation & Professional Services]] — Primary evidence: critical integration fix, 95% error reduction, cross-vendor coordination
+
+**Related:** See [[Executive Escalation Resolution Program]], [[SSO First-Time-Right Initiative]]

@@ -56,6 +56,17 @@ The structured process of bringing new customers from contract signing to initia
 | Non-technical audience | "Guided new customers through setup and launch, ensuring they achieved value quickly" |
 | Leadership focus | "Built scalable onboarding programs supporting 100 accounts/year with consistent time-to-value" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[First 30 Days Adoption Program]] — Built time-bound onboarding program reducing time-to-value across 87% of portfolio
+
+**Supporting evidence:**
+- [[Training & Enablement Program]]
+- [[100+ Municipal Court Implementations]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

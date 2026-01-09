@@ -66,6 +66,17 @@ Configuring and troubleshooting integrations between software systems—includin
 | Non-technical audience | "Connected software systems to ensure data flows smoothly between platforms" |
 | Leadership focus | "Coordinated cross-functional technical resources to deliver complex integration requirements" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[RMS Ingest Integration Fix]] — Resolved critical API integration issue, ~95% reduction in duplicate/failed records
+- [[SSO First-Time-Right Initiative]] — SSO integration optimization
+
+**Supporting evidence:**
+- [[100+ Municipal Court Implementations]] — Managed integrations across court systems (e-ticketing, probation, RMS)
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

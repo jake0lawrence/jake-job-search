@@ -66,6 +66,17 @@ Enterprise Asset Management (EAM) systems for tracking physical assets, managing
 | Non-technical audience | "Implemented systems to help Public Works track assets and manage maintenance more efficiently" |
 | Leadership focus | "Delivered EAM solutions reducing work-order backlog 20% and improving PM compliance to 85%" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[CentralSquare EAM Rollout]] — Reduced work-order backlog ~20% and increased PM compliance to ~85%
+- [[SAP EAM Implementation Support]] — Improved inspection-to-closeout ~35% faster
+
+**Supporting evidence:**
+- [[Morton Grove Technology Modernization]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

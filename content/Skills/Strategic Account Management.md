@@ -57,6 +57,17 @@ Managing high-value enterprise accounts with a strategic, long-term approach. In
 | Non-technical audience | "Built long-term partnerships with key customers to ensure their ongoing success" |
 | Leadership focus | "Developed strategic account plans driving adoption, retention, and growth across enterprise portfolio" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- Demonstrated across portfolio of 12-20 strategic enterprise accounts
+
+**Supporting evidence:**
+- [[Executive Escalation Resolution Program]]
+- [[100+ Municipal Court Implementations]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

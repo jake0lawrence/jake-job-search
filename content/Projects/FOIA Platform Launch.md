@@ -176,3 +176,17 @@ Saved 20 staff hours/week. Improved response time consistency. Created cross-dep
 **Unexpected lessons:**
 - Government transparency is emotionally important to staff
 - Cross-department visibility surfaces process issues
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Demonstrates government modernization and cross-department implementation
+- [[my-superpowers]] — Primary evidence for public sector expertise and process improvement
+
+**Target roles:**
+- [[Targets/Roles/GovTech & Public Sector]] — Primary evidence: municipal FOIA platform, 20 hrs/week saved
+- [[Targets/Roles/Implementation & Professional Services]] — Supporting evidence: workflow design and cross-department coordination
+
+**Related:** See [[Morton Grove Technology Modernization]]

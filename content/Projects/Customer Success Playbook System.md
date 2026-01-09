@@ -176,3 +176,17 @@ Codify best practices into repeatable, adoptable playbooks that would improve co
 **Unexpected lessons:**
 - Playbooks scale your impact even when you're not in the room
 - Documentation is a leadership activity, not just administrative
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Process achievement demonstrating systematic improvement and scaling impact
+- [[my-superpowers]] — Primary evidence for playbook development and process design
+
+**Target roles:**
+- [[Targets/Roles/Scaled & Digital Customer Success]] — Primary evidence: 87% adoption, 28% rework reduction, scalable processes
+- [[Targets/Roles/Enablement & Adoption]] — Supporting evidence: training and onboarding playbook creation
+
+**Related:** See [[Conversion Intake Optimization]], [[First 30 Days Adoption Program]], [[SSO First-Time-Right Initiative]]

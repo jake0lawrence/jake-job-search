@@ -58,6 +58,18 @@ Managing large customer portfolios through scalable, technology-enabled engageme
 | Non-technical audience | "Helped many customers succeed simultaneously through smart use of technology and prioritization" |
 | Leadership focus | "Designed scaled CS model delivering consistent outcomes across 100 accounts/year without proportional headcount" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[Pooled Portfolio Model]] — Managed up to 20 customers concurrently, supporting ~100 accounts/year
+- [[First 30 Days Adoption Program]] — Built 1:many programs achieving 87% adoption with 4.8/5 satisfaction
+
+**Supporting evidence:**
+- [[Training & Enablement Program]]
+- [[Customer Health Dashboard System]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

@@ -194,3 +194,16 @@ Hundreds of hours of court operations experience. Deep understanding of court wo
 - Courts are highly relationship-driven
 - Procedural details matter enormously
 - Staff stress is real and affects technology adoption
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Demonstrates rare frontline court operations experience
+- [[my-superpowers]] — Primary evidence for municipal courts and administrative hearings domain expertise
+
+**Target roles:**
+- [[Targets/Roles/GovTech & Public Sector]] — Primary evidence: hundreds of hours in court proceedings, firsthand operational knowledge
+
+**Related:** See [[Tyler Municipal Justice Client-Side PM]], [[100+ Municipal Court Implementations]], [[Illinois Vehicle Code Reconciliation]]

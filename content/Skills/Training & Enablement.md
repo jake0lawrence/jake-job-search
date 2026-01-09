@@ -57,6 +57,20 @@ Designing and delivering training programs that help customers and users adopt a
 | Non-technical audience | "Led customer education programs that helped teams quickly adopt new technology" |
 | Leadership focus | "Built scalable enablement programs that reduced time-to-value and support burden" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[Training & Enablement Program]] — 120+ sessions, 650+ users, 4.8/5 satisfaction
+- [[First 30 Days Adoption Program]] — Role-based training tracks and office hours
+
+**Supporting evidence:**
+- [[100+ Municipal Court Implementations]] — Trained court staff across 100+ deployments
+- [[Customer Success Playbook System]] — Enablement playbook creation
+- [[CentralSquare EAM Rollout]] — Trained 40+ staff on EAM system
+- [[Morton Grove Technology Modernization]] — Multi-system training program
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

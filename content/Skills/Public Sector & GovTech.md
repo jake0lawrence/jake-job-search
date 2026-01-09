@@ -63,6 +63,21 @@ Deep expertise in serving government clients—municipalities, courts, state age
 | Non-technical audience | "Passionate about helping government agencies deliver better citizen experiences through technology" |
 | Leadership focus | "MPA-trained with hands-on experience in municipal operations and enterprise government technology" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[100+ Municipal Court Implementations]] — Led implementations for courts, municipalities, and state agencies across Illinois and nationally
+- [[Morton Grove Technology Modernization]] — Municipal government technology transformation
+
+**Supporting evidence:**
+- [[Court Clerk - Administrative Hearings]]
+- [[Tyler Municipal Justice Client-Side PM]]
+- [[CentralSquare EAM Rollout]]
+- [[FOIA Platform Launch]]
+- [[Illinois Vehicle Code Reconciliation]]
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

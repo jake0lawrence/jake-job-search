@@ -55,6 +55,17 @@ Handling critical customer issues that have been elevated beyond normal support 
 | Non-technical audience | "Managed critical customer issues, protecting relationships and revenue" |
 | Leadership focus | "Led escalation resolution protecting 93% of at-risk revenue without concessions" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[Executive Escalation Resolution Program]] — Structured escalation framework, 13/14 resolved without concessions
+- [[RMS Ingest Integration Fix]] — Resolved critical escalated technical issue
+
+**Supporting evidence:**
+- [[Customer Success Playbook System]] — Escalation protocols documented in playbooks
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

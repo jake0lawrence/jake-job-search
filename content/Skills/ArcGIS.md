@@ -63,6 +63,13 @@ Esri's geographic information system (GIS) platform for mapping, spatial analysi
 | Non-technical audience | "Set up mobile mapping tools that helped field crews work more efficiently" |
 | Leadership focus | "Leveraged GIS technology to improve field operations and data quality" |
 
+## Demonstrated in Projects
+
+**Primary evidence:**
+- [[Morton Grove Technology Modernization]] — Deployed ArcGIS Collector/Field Maps for mobile inspections and integrated GIS layers with EAM workflows
+
+---
+
 ## Related Skills
 
 ### Parent/Umbrella

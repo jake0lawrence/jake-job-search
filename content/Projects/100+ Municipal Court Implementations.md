@@ -188,3 +188,18 @@ Delivered 100+ successful implementations with 92% on-time and 95% on-budget per
 **Unexpected lessons:**
 - Government stakeholders value transparency and reliability over speed
 - Building relationships with clerks (not just executives) is critical for adoption
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Signature achievement demonstrating implementation excellence at scale
+- [[my-superpowers]] — Primary evidence for implementation & deployment and public sector expertise
+
+**Target roles:**
+- [[Targets/Roles/GovTech & Public Sector]] — Primary evidence: 100+ municipal court implementations
+- [[Targets/Roles/Implementation & Professional Services]] — Primary evidence: end-to-end delivery expertise
+- [[Targets/Roles/Enablement & Adoption]] — Supporting evidence: training and change management capabilities
+
+**Related:** See [[CentralSquare EAM Rollout]], [[Tyler Municipal Justice Client-Side PM]]

@@ -180,3 +180,16 @@ Sign-off time reduced from 24 to 15 business days (37% improvement). Quality mai
 **Unexpected lessons:**
 - Most delays were from waiting, not working
 - Early samples are worth the upfront investment every time
+
+---
+
+## Featured In
+
+**Main pages:**
+- [[what-ive-done]] — Demonstrates process improvement and data migration expertise
+- [[my-superpowers]] — Primary evidence for data migration, playbook development, and process optimization
+
+**Target roles:**
+- [[Targets/Roles/Implementation & Professional Services]] — Primary evidence: 37% reduction in conversion timeline, systematic process improvement
+
+**Related:** See [[Customer Success Playbook System]], [[SSO First-Time-Right Initiative]]
