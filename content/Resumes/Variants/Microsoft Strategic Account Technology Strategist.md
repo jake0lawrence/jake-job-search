@@ -64,7 +64,7 @@ Position as a customer-facing technical consultant who partners with executive, 
 - [[Executive Relationship Management]]
 - [[Training & Enablement]]
 - [[Change Management]]
-- [[Data-Driven Decision Making]]
+- [[Customer Health Monitoring]]
 
 ### Secondary (Mentioned)
 

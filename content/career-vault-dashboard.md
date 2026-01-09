@@ -73,13 +73,13 @@ Your career search organized by role type. Start here when job hunting.
 
 | Variant                                               | Company   | Key Angle                             |
 | ----------------------------------------------------- | --------- | ------------------------------------- |
-| [[SailPoint Sr CSM]]                                  | SailPoint | Strategic accounts, enterprise        |
+| [[SailPoint — Senior CSM]]                            | SailPoint | Strategic accounts, enterprise        |
 | [[Microsoft Strategic Account Technology Strategist]] | Microsoft | Technical consulting, Power BI        |
 | [[Microsoft CSAM]]                                    | Microsoft | Solution delivery, transformation     |
-| [[Amplo Sr CSM]]                                      | Amplo     | Connective tissue, full journey       |
+| [[Amplo Senior CSM]]                                  | Amplo     | Connective tissue, full journey       |
 | [[McKinsey Client Success Specialist]]                | McKinsey  | Executive partnership, transformation |
 | [[Grainger CSM]]                                      | Grainger  | Sales partnership, C-suite            |
-| [[Anthropic CSM]]                                     | Anthropic | AI passion, change management         |
+| [[Anthropic Customer Success Manager]]                | Anthropic | AI passion, change management         |
 
 ---
 
@@ -100,7 +100,7 @@ _Appear in 15+ variants—your core toolkit_
 | [[Change Management]]              | Core      | ⭐⭐⭐⭐                  |
 | [[Onboarding]]                     | Core      | ⭐⭐⭐⭐                  |
 | [[Product Adoption]]               | Core      | ⭐⭐⭐⭐                  |
-| [[Data-Driven Decision Making]]    | Core      | ⭐⭐⭐⭐                  |
+| [[Customer Health Monitoring]]     | Core      | ⭐⭐⭐⭐                  |
 
 ### Priority 2: Differentiator Skills
 
@@ -113,7 +113,7 @@ _Appear in 5-14 variants—set you apart_
 | [[Executive Relationship Management]] | Soft      | Strategic roles  |
 | [[Scaled & Digital Customer Success]] | Core      | Scaled CS roles  |
 | [[API & Integrations]]                | Technical | Technical roles  |
-| [[Business Reviews (QBR/EBR)]]        | Core      | Enterprise CS    |
+| [[Business Reviews (QBR & EBR)]]      | Core      | Enterprise CS    |
 | [[Voice of Customer]]                 | Core      | Product-adjacent |
 | [[Implementation & Deployment]]       | Core      | PS roles         |
 
@@ -168,7 +168,7 @@ _Targeted evidence for specific roles_
 | [[CentralSquare EAM Rollout]]             | 20% backlog reduction  | EAM roles        |
 | [[SAP EAM Implementation Support]]        | 35% faster closeout    | Enterprise ERP   |
 | [[Court Clerk - Administrative Hearings]] | 100s of hours in court | IL SOS, courts   |
-| [[Tyler MJ Client-Side PM]]               | Both-sides-of-table    | Unique narrative |
+| [[Tyler Municipal Justice Client-Side PM]] | Both-sides-of-table    | Unique narrative |
 | [[Illinois Vehicle Code Reconciliation]]  | Dozens of IL courts    | IL state roles   |
 | [[Pooled Portfolio Model]]                | ~100 accounts/year     | Scaled CS        |
 

@@ -8,8 +8,8 @@ role: Implementation Consultant / CSM
 skills:
   - "[[Power BI]]"
   - "[[Customer Health Monitoring]]"
-  - "[[Data-Driven Decision Making]]"
-  - "[[Risk Mitigation]]"
+  - "[[Customer Health Monitoring]]"
+  - "[[Escalation Management]]"
 impact: high
 visibility: internal
 appears_in: 21/25 variants
@@ -74,12 +74,12 @@ At-risk accounts identified 1-2 weeks earlier. Intervention playbooks triggered 
 
 - [[Power BI]]
 - [[Customer Health Monitoring]]
-- [[Data-Driven Decision Making]]
+- [[Customer Health Monitoring]]
 
 ### Secondary Skills
 
-- [[Risk Mitigation]]
-- [[Process Design & Documentation]]
+- [[Escalation Management]]
+- [[Playbook Development]]
 - [[Cross-Functional Collaboration]]
 
 ---

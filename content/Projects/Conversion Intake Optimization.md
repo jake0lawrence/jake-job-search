@@ -8,7 +8,7 @@ role: Implementation Consultant
 skills:
   - "[[Data Migration]]"
   - "[[Playbook Development]]"
-  - "[[Process Design & Documentation]]"
+  - "[[Playbook Development]]"
   - "[[Cross-Functional Collaboration]]"
 impact: high
 visibility: internal
@@ -77,7 +77,7 @@ Sign-off time improved from 24 to 15 business days (37% reduction). Maintained q
 
 - [[Data Migration]]
 - [[Playbook Development]]
-- [[Process Design & Documentation]]
+- [[Playbook Development]]
 
 ### Secondary Skills
 

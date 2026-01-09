@@ -64,7 +64,7 @@ Position as a public sector expert who builds strategic relationships with senio
 - [[Executive Relationship Management]]
 - [[Customer Health Monitoring]]
 - [[Escalation Management]]
-- [[Risk Mitigation]]
+- [[Escalation Management]]
 
 ### Secondary (Mentioned)
 

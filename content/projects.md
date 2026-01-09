@@ -23,7 +23,7 @@ Delivered 120+ sessions to 650+ users with 4.8/5 satisfaction
 ### **[[Customer Success Playbook System]]**
 
 Created standardized playbooks adopted across 87% of portfolio
-**Skills:** [[Playbook Development]], [[Process Design & Documentation]], [[Onboarding]]
+**Skills:** [[Playbook Development]], [[Change Management]], [[Onboarding]]
 
 ### **[[Executive Escalation Resolution Program]]**
 

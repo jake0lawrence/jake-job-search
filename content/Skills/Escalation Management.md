@@ -77,7 +77,7 @@ Handling critical customer issues that have been elevated beyond normal support 
 ### Parent/Umbrella
 
 - [[Customer Success Strategy]]
-- [[Risk Mitigation]]
+- [[Escalation Management]]
 
 ### Sibling Skills (often paired with)
 
