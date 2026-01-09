@@ -163,14 +163,14 @@ _Demonstrates builder mindset_
 
 _Targeted evidence for specific roles_
 
-| Project                                   | Key Metric             | Best For         |
-| ----------------------------------------- | ---------------------- | ---------------- |
-| [[CentralSquare EAM Rollout]]             | 20% backlog reduction  | EAM roles        |
-| [[SAP EAM Implementation Support]]        | 35% faster closeout    | Enterprise ERP   |
-| [[Court Clerk - Administrative Hearings]] | 100s of hours in court | IL SOS, courts   |
+| Project                                    | Key Metric             | Best For         |
+| ------------------------------------------ | ---------------------- | ---------------- |
+| [[CentralSquare EAM Rollout]]              | 20% backlog reduction  | EAM roles        |
+| [[SAP EAM Implementation Support]]         | 35% faster closeout    | Enterprise ERP   |
+| [[Court Clerk - Administrative Hearings]]  | 100s of hours in court | IL SOS, courts   |
 | [[Tyler Municipal Justice Client-Side PM]] | Both-sides-of-table    | Unique narrative |
-| [[Illinois Vehicle Code Reconciliation]]  | Dozens of IL courts    | IL state roles   |
-| [[Pooled Portfolio Model]]                | ~100 accounts/year     | Scaled CS        |
+| [[Illinois Vehicle Code Reconciliation]]   | Dozens of IL courts    | IL state roles   |
+| [[Pooled Portfolio Model]]                 | ~100 accounts/year     | Scaled CS        |
 
 ---
 
