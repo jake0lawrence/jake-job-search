@@ -63,6 +63,20 @@ jake-job-search/
 
 ## For AI Agents (Claude Code, etc.)
 
+### ⚠️ IMPORTANT: Run Prettier Before Committing
+
+**CI will fail if you don't format your files!** This repo uses Prettier for code style enforcement.
+
+```bash
+# ALWAYS run this before committing markdown changes:
+npx prettier --write "content/**/*.md"
+
+# Or for specific files:
+npx prettier --write "content/path/to/file.md"
+```
+
+> **Past Mistake:** CI failed multiple times because Prettier wasn't run before pushing. Don't repeat this error!
+
 ### Making Content Changes
 
 1. **Edit any file in `content/`**
@@ -72,7 +86,13 @@ jake-job-search/
    vim content/application-tracker.md
 ```
 
-2. **Commit and push**
+2. **Run Prettier to format** (required!)
+
+```bash
+   npx prettier --write content/application-tracker.md
+```
+
+3. **Commit and push**
 
 ```bash
    git add content/application-tracker.md
@@ -80,7 +100,7 @@ jake-job-search/
    git push
 ```
 
-3. **Wait ~2 minutes** - site auto-deploys via GitHub Actions
+4. **Wait ~2 minutes** - site auto-deploys via GitHub Actions
 
 ### Frontmatter Schema
 
@@ -135,5 +155,5 @@ Main color variables are in `quartz.config.ts` under `theme.colors`.
 
 ---
 
-_Last updated: January 2025_
+_Last updated: January 17, 2025_
 _Theme: Warm Teal v3.0 (Quartz)_

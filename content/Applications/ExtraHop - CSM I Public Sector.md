@@ -160,9 +160,9 @@ Jacob Lawrence
 
 ## Application Materials
 
-| Document     | Filename                                                        | Download                                                                            |
-| ------------ | --------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| Resume       | `Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf`  | [📄 View Resume](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf)       |
+| Document     | Filename                                                            | Download                                                                                                      |
+| ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Resume       | `Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf`      | [📄 View Resume](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf)            |
 | Cover Letter | `Jake_Lawrence_CoverLetter_ExtraHop_CSM_Public_Sector_01172026.pdf` | [📄 View Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_ExtraHop_CSM_Public_Sector_01172026.pdf) |
 
 > **Application Package Ready** — Resume and cover letter tailored specifically for ExtraHop's Public Sector CSM role, emphasizing government SaaS experience and cross-functional collaboration skills.

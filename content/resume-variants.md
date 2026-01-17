@@ -18,13 +18,13 @@ I maintain tailored resume versions for different role types and specific compan
 
 Resume variants for government technology and public sector roles:
 
-| Variant                                            | Company               | Key Angle                           |
-| -------------------------------------------------- | --------------------- | ----------------------------------- |
-| [[Resumes/Variants/Granicus CSC]]                  | Granicus              | Client advocacy, government native  |
-| [[Resumes/Variants/PayIt CSM]]                     | PayIt                 | Municipal courts, citizen services  |
-| [[Resumes/Variants/Pluralsight CSM Public Sector]] | Pluralsight           | Retention, executive relationships  |
-| [[Resumes/Variants/IL SOS Deputy Director]]        | IL Secretary of State | Court Clerk + IVC expertise         |
-| [ExtraHop CSM Public Sector](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf) | ExtraHop | Cybersecurity NDR, health monitoring |
+| Variant                                                                                                        | Company               | Key Angle                            |
+| -------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------ |
+| [[Resumes/Variants/Granicus CSC]]                                                                              | Granicus              | Client advocacy, government native   |
+| [[Resumes/Variants/PayIt CSM]]                                                                                 | PayIt                 | Municipal courts, citizen services   |
+| [[Resumes/Variants/Pluralsight CSM Public Sector]]                                                             | Pluralsight           | Retention, executive relationships   |
+| [[Resumes/Variants/IL SOS Deputy Director]]                                                                    | IL Secretary of State | Court Clerk + IVC expertise          |
+| [ExtraHop CSM Public Sector](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf) | ExtraHop              | Cybersecurity NDR, health monitoring |
 
 ### Implementation & Professional Services
 
@@ -83,9 +83,9 @@ Resume variants for enterprise customer success roles:
 
 My most recent tailored application materials for a cybersecurity NDR company focusing on public sector customers.
 
-| Document     | Download |
-| ------------ | -------- |
-| Resume       | [📄 Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf) |
+| Document     | Download                                                                                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Resume       | [📄 Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf)           |
 | Cover Letter | [📄 Jake_Lawrence_CoverLetter_ExtraHop_CSM_Public_Sector_01172026.pdf](Applications/Assets/Jake_Lawrence_CoverLetter_ExtraHop_CSM_Public_Sector_01172026.pdf) |
 
 **Key themes:** Public sector SaaS experience • Customer health monitoring • Cross-functional collaboration • GovTech background
