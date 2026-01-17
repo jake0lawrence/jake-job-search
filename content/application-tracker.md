@@ -14,9 +14,9 @@ Track all job applications, their status, and next steps.
 
 ## Active Applications
 
-| Company | Role | Applied Date | Status | Next Step | Notes |
-| ------- | ---- | ------------ | ------ | --------- | ----- |
-|         |      |              |        |           |       |
+| Company                                      | Role                  | Applied Date | Status  | Next Step         | Notes                                     |
+| -------------------------------------------- | --------------------- | ------------ | ------- | ----------------- | ----------------------------------------- |
+| [[ExtraHop - CSM I Public Sector\|ExtraHop]] | CSM I - Public Sector | 2025-01-17   | Applied | Wait for response | NDR/cybersecurity, remote, $90-100K + 10% |
 
 ---
 
@@ -52,11 +52,11 @@ Track all job applications, their status, and next steps.
 
 | Metric              | Count |
 | ------------------- | ----- |
-| Total Applications  | 0     |
-| Active Applications | 0     |
+| Total Applications  | 1     |
+| Active Applications | 1     |
 | Interviews          | 0     |
 | Offers              | 0     |
 
 ---
 
-_Last updated: January 2025_
+_Last updated: January 17, 2025_
