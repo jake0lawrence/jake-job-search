@@ -213,15 +213,15 @@ _Targeted evidence for specific roles_
 
 _Create notes in `/Applications/` using the [[Application Log Entry Template]]_
 
-| Company                      | Role | Status | Resume Used | Applied |
-| ---------------------------- | ---- | ------ | ----------- | ------- |
-| _Add your first application_ |      |        |             |         |
+| Company | Role | Status | Resume Used | Applied |
+| ------- | ---- | ------ | ----------- | ------- |
+| [[ExtraHop - CSM I Public Sector\|ExtraHop]] | CSM I - Public Sector | Applied | Public Sector CSM | 2025-01-17 |
 
 ### Pipeline Summary
 
 | Stage        | Count |
 | ------------ | ----- |
-| Applied      | 27    |
+| Applied      | 1     |
 | Screening    | 0     |
 | Interviewing | 0     |
 | Offer        | 0     |
