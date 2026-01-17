@@ -18,12 +18,13 @@ I maintain tailored resume versions for different role types and specific compan
 
 Resume variants for government technology and public sector roles:
 
-| Variant                                            | Company               | Key Angle                          |
-| -------------------------------------------------- | --------------------- | ---------------------------------- |
-| [[Resumes/Variants/Granicus CSC]]                  | Granicus              | Client advocacy, government native |
-| [[Resumes/Variants/PayIt CSM]]                     | PayIt                 | Municipal courts, citizen services |
-| [[Resumes/Variants/Pluralsight CSM Public Sector]] | Pluralsight           | Retention, executive relationships |
-| [[Resumes/Variants/IL SOS Deputy Director]]        | IL Secretary of State | Court Clerk + IVC expertise        |
+| Variant                                                                                                        | Company               | Key Angle                            |
+| -------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------ |
+| [[Resumes/Variants/Granicus CSC]]                                                                              | Granicus              | Client advocacy, government native   |
+| [[Resumes/Variants/PayIt CSM]]                                                                                 | PayIt                 | Municipal courts, citizen services   |
+| [[Resumes/Variants/Pluralsight CSM Public Sector]]                                                             | Pluralsight           | Retention, executive relationships   |
+| [[Resumes/Variants/IL SOS Deputy Director]]                                                                    | IL Secretary of State | Court Clerk + IVC expertise          |
+| [ExtraHop CSM Public Sector](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf) | ExtraHop              | Cybersecurity NDR, health monitoring |
 
 ### Implementation & Professional Services
 
@@ -76,6 +77,23 @@ Resume variants for enterprise customer success roles:
 
 ---
 
+## Latest Application Package
+
+> **ExtraHop — Customer Success Manager I, Public Sector** _(Applied January 17, 2025)_
+
+My most recent tailored application materials for a cybersecurity NDR company focusing on public sector customers.
+
+| Document     | Download                                                                                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Resume       | [📄 Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf)           |
+| Cover Letter | [📄 Jake_Lawrence_CoverLetter_ExtraHop_CSM_Public_Sector_01172026.pdf](Applications/Assets/Jake_Lawrence_CoverLetter_ExtraHop_CSM_Public_Sector_01172026.pdf) |
+
+**Key themes:** Public sector SaaS experience • Customer health monitoring • Cross-functional collaboration • GovTech background
+
+See the full application details: [[Applications/ExtraHop - CSM I Public Sector|ExtraHop Application Log]]
+
+---
+
 ## How to Use These Variants
 
 1. **Start with the role cluster** — Which type of role are you applying for?
@@ -94,4 +112,4 @@ Resume variants for enterprise customer success roles:
 
 ---
 
-_Last updated: January 2025_
+_Last updated: January 17, 2025_

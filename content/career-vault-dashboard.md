@@ -1,8 +1,8 @@
 # 🎯 Career Vault Dashboard
 
-> **Quick Stats:** 23 Skills | 18 Projects | 5 Target Roles | 25 Resume Variants
+> **Quick Stats:** 23 Skills | 18 Projects | 5 Target Roles | 26 Resume Variants
 >
-> **Last Updated:** January 2025
+> **Last Updated:** January 17, 2025
 
 ---
 
@@ -33,12 +33,13 @@ Your career search organized by role type. Start here when job hunting.
 
 ### GovTech & Public Sector
 
-| Variant                           | Company               | Key Angle                          |
-| --------------------------------- | --------------------- | ---------------------------------- |
-| [[Granicus CSC]]                  | Granicus              | Client advocacy, government native |
-| [[PayIt CSM]]                     | PayIt                 | Municipal courts, citizen services |
-| [[Pluralsight CSM Public Sector]] | Pluralsight           | Retention, executive relationships |
-| [[IL SOS Deputy Director]]        | IL Secretary of State | Court Clerk + IVC expertise        |
+| Variant                           | Company               | Key Angle                            |
+| --------------------------------- | --------------------- | ------------------------------------ |
+| [[Granicus CSC]]                  | Granicus              | Client advocacy, government native   |
+| [[PayIt CSM]]                     | PayIt                 | Municipal courts, citizen services   |
+| [[Pluralsight CSM Public Sector]] | Pluralsight           | Retention, executive relationships   |
+| [[IL SOS Deputy Director]]        | IL Secretary of State | Court Clerk + IVC expertise          |
+| ExtraHop CSM Public Sector        | ExtraHop              | Cybersecurity NDR, health monitoring |
 
 ### Implementation & Professional Services
 
@@ -216,6 +217,10 @@ _Create notes in `/Applications/` using the [[Application Log Entry Template]]_
 | Company                                      | Role                  | Status  | Resume Used       | Applied    |
 | -------------------------------------------- | --------------------- | ------- | ----------------- | ---------- |
 | [[ExtraHop - CSM I Public Sector\|ExtraHop]] | CSM I - Public Sector | Applied | Public Sector CSM | 2025-01-17 |
+
+> **Latest Application Materials:**
+> [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf) |
+> [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_ExtraHop_CSM_Public_Sector_01172026.pdf)
 
 ### Pipeline Summary
 
