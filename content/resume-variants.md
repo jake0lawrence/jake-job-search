@@ -18,27 +18,31 @@ I maintain tailored resume versions for different role types and specific compan
 
 Resume variants for government technology and public sector roles:
 
-| Variant                                                                                                        | Company               | Key Angle                            |
-| -------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------ |
-| [[Resumes/Variants/Granicus CSC]]                                                                              | Granicus              | Client advocacy, government native   |
-| [[Resumes/Variants/PayIt CSM]]                                                                                 | PayIt                 | Municipal courts, citizen services   |
-| [[Resumes/Variants/Pluralsight CSM Public Sector]]                                                             | Pluralsight           | Retention, executive relationships   |
-| [[Resumes/Variants/IL SOS Deputy Director]]                                                                    | IL Secretary of State | Court Clerk + IVC expertise          |
-| [ExtraHop CSM Public Sector](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf) | ExtraHop              | Cybersecurity NDR, health monitoring |
+| Variant                                                                                                        | Company                  | Key Angle                            |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------ |
+| [[Resumes/Variants/Granicus CSC]]                                                                              | Granicus                 | Client advocacy, government native   |
+| [[Resumes/Variants/PayIt CSM]]                                                                                 | PayIt                    | Municipal courts, citizen services   |
+| [[Resumes/Variants/Pluralsight CSM Public Sector]]                                                             | Pluralsight              | Retention, executive relationships   |
+| [[Resumes/Variants/IL SOS Deputy Director]]                                                                    | IL Secretary of State    | Court Clerk + IVC expertise          |
+| [ExtraHop CSM Public Sector](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf) | ExtraHop                 | Cybersecurity NDR, health monitoring |
+| [Buffalo Grove Deputy CDD](Applications/Assets/Jake_Lawrence_Resume_BuffaloGrove_DeputyCDD_01172026.pdf)       | Village of Buffalo Grove | MPA, municipal leadership            |
 
 ### Implementation & Professional Services
 
 Resume variants for implementation and consulting roles:
 
-| Variant                                                        | Company         | Key Angle                            |
-| -------------------------------------------------------------- | --------------- | ------------------------------------ |
-| [[Resumes/Variants/OpenGov Implementation Consultant]]         | OpenGov         | 100+ implementations, MPA            |
-| [[Resumes/Variants/OpenGov Expert Services PM]]                | OpenGov         | EAM expertise, 2-page depth          |
-| [[Resumes/Variants/Veritone Implementation Manager]]           | Veritone        | Technical depth, AI platform         |
-| [[Resumes/Variants/ECP Implementation Team Manager]]           | ECP             | Team management, process builder     |
-| [[Resumes/Variants/TransUnion Customer Engagement Consultant]] | TransUnion      | Data analytics, regulated industries |
-| [[Resumes/Variants/PayPal Solutions Partner]]                  | PayPal          | Payment workflows, C-level           |
-| [[Resumes/Variants/BuildingReports Member Success Manager]]    | BuildingReports | Midwest region, field training       |
+| Variant                                                                                                                          | Company           | Key Angle                            |
+| -------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------ |
+| [[Resumes/Variants/OpenGov Implementation Consultant]]                                                                           | OpenGov           | 100+ implementations, MPA            |
+| [[Resumes/Variants/OpenGov Expert Services PM]]                                                                                  | OpenGov           | EAM expertise, 2-page depth          |
+| [[Resumes/Variants/Veritone Implementation Manager]]                                                                             | Veritone          | Technical depth, AI platform         |
+| [[Resumes/Variants/ECP Implementation Team Manager]]                                                                             | ECP               | Team management, process builder     |
+| [[Resumes/Variants/TransUnion Customer Engagement Consultant]]                                                                   | TransUnion        | Data analytics, regulated industries |
+| [[Resumes/Variants/PayPal Solutions Partner]]                                                                                    | PayPal            | Payment workflows, C-level           |
+| [[Resumes/Variants/BuildingReports Member Success Manager]]                                                                      | BuildingReports   | Midwest region, field training       |
+| [StrataDecision Manager Consulting](Applications/Assets/Jake_Lawrence_Resume_StrataDecision_ManagerConsulting_2025-01172026.pdf) | StrataDecision    | Healthcare analytics, consulting     |
+| [Penguin Solutions Engagement Manager](Applications/Assets/Jake_Lawrence_Resume_PenguinSolutions_EngagementManager_01172026.pdf) | Penguin Solutions | Customer engagement, tech            |
+| [PiP Manager](Applications/Assets/Jake_Lawrence_Resume_PiP_Manager_01172026.pdf)                                                 | PiP               | Manager role                         |
 
 ### Scaled & Digital Customer Success
 
@@ -77,20 +81,17 @@ Resume variants for enterprise customer success roles:
 
 ---
 
-## Latest Application Package
+## Latest Application Packages
 
-> **ExtraHop — Customer Success Manager I, Public Sector** _(Applied January 17, 2025)_
+> **5 Applications Submitted** _(January 17, 2025)_
 
-My most recent tailored application materials for a cybersecurity NDR company focusing on public sector customers.
-
-| Document     | Download                                                                                                                                                      |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Resume       | [📄 Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf)           |
-| Cover Letter | [📄 Jake_Lawrence_CoverLetter_ExtraHop_CSM_Public_Sector_01172026.pdf](Applications/Assets/Jake_Lawrence_CoverLetter_ExtraHop_CSM_Public_Sector_01172026.pdf) |
-
-**Key themes:** Public sector SaaS experience • Customer health monitoring • Cross-functional collaboration • GovTech background
-
-See the full application details: [[Applications/ExtraHop - CSM I Public Sector|ExtraHop Application Log]]
+| Company                                                                    | Role                  | Resume                                                                                                   | Cover Letter                                                                                                        |
+| -------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [[Applications/ExtraHop - CSM I Public Sector\|ExtraHop]]                  | CSM I - Public Sector | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf)            | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_ExtraHop_CSM_Public_Sector_01172026.pdf)            |
+| [[Applications/Buffalo Grove - Deputy CDD\|Buffalo Grove]]                 | Deputy CDD            | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_BuffaloGrove_DeputyCDD_01172026.pdf)                | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_BuffaloGrove_DeputyCDD_01172026.pdf)                |
+| [[Applications/Penguin Solutions - Engagement Manager\|Penguin Solutions]] | Engagement Manager    | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_PenguinSolutions_EngagementManager_01172026.pdf)    | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_PenguinSolutions_EngagementManager01172026.pdf)     |
+| [[Applications/PiP - Manager\|PiP]]                                        | Manager               | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_PiP_Manager_01172026.pdf)                           | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_PiP_Manager_01172026.pdf)                           |
+| [[Applications/StrataDecision - Manager Consulting\|StrataDecision]]       | Manager, Consulting   | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_StrataDecision_ManagerConsulting_2025-01172026.pdf) | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_StrataDecision_ManagerConsulting_2025-01172026.pdf) |
 
 ---
 

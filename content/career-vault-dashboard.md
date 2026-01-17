@@ -1,6 +1,6 @@
 # 🎯 Career Vault Dashboard
 
-> **Quick Stats:** 23 Skills | 18 Projects | 5 Target Roles | 26 Resume Variants
+> **Quick Stats:** 23 Skills | 18 Projects | 5 Target Roles | 30 Resume Variants
 >
 > **Last Updated:** January 17, 2025
 
@@ -33,25 +33,29 @@ Your career search organized by role type. Start here when job hunting.
 
 ### GovTech & Public Sector
 
-| Variant                           | Company               | Key Angle                            |
-| --------------------------------- | --------------------- | ------------------------------------ |
-| [[Granicus CSC]]                  | Granicus              | Client advocacy, government native   |
-| [[PayIt CSM]]                     | PayIt                 | Municipal courts, citizen services   |
-| [[Pluralsight CSM Public Sector]] | Pluralsight           | Retention, executive relationships   |
-| [[IL SOS Deputy Director]]        | IL Secretary of State | Court Clerk + IVC expertise          |
-| ExtraHop CSM Public Sector        | ExtraHop              | Cybersecurity NDR, health monitoring |
+| Variant                           | Company                  | Key Angle                            |
+| --------------------------------- | ------------------------ | ------------------------------------ |
+| [[Granicus CSC]]                  | Granicus                 | Client advocacy, government native   |
+| [[PayIt CSM]]                     | PayIt                    | Municipal courts, citizen services   |
+| [[Pluralsight CSM Public Sector]] | Pluralsight              | Retention, executive relationships   |
+| [[IL SOS Deputy Director]]        | IL Secretary of State    | Court Clerk + IVC expertise          |
+| ExtraHop CSM Public Sector        | ExtraHop                 | Cybersecurity NDR, health monitoring |
+| Buffalo Grove Deputy CDD          | Village of Buffalo Grove | MPA, municipal leadership            |
 
 ### Implementation & Professional Services
 
-| Variant                                       | Company         | Key Angle                            |
-| --------------------------------------------- | --------------- | ------------------------------------ |
-| [[OpenGov Implementation Consultant]]         | OpenGov         | 100+ implementations, MPA            |
-| [[OpenGov Expert Services PM]]                | OpenGov         | EAM expertise, 2-page depth          |
-| [[Veritone Implementation Manager]]           | Veritone        | Technical depth, AI platform         |
-| [[ECP Implementation Team Manager]]           | ECP             | Team management, process builder     |
-| [[TransUnion Customer Engagement Consultant]] | TransUnion      | Data analytics, regulated industries |
-| [[PayPal Solutions Partner]]                  | PayPal          | Payment workflows, C-level           |
-| [[BuildingReports Member Success Manager]]    | BuildingReports | Midwest region, field training       |
+| Variant                                       | Company           | Key Angle                            |
+| --------------------------------------------- | ----------------- | ------------------------------------ |
+| [[OpenGov Implementation Consultant]]         | OpenGov           | 100+ implementations, MPA            |
+| [[OpenGov Expert Services PM]]                | OpenGov           | EAM expertise, 2-page depth          |
+| [[Veritone Implementation Manager]]           | Veritone          | Technical depth, AI platform         |
+| [[ECP Implementation Team Manager]]           | ECP               | Team management, process builder     |
+| [[TransUnion Customer Engagement Consultant]] | TransUnion        | Data analytics, regulated industries |
+| [[PayPal Solutions Partner]]                  | PayPal            | Payment workflows, C-level           |
+| [[BuildingReports Member Success Manager]]    | BuildingReports   | Midwest region, field training       |
+| StrataDecision Manager Consulting             | StrataDecision    | Healthcare analytics, consulting     |
+| Penguin Solutions Engagement Manager          | Penguin Solutions | Customer engagement, tech            |
+| PiP Manager                                   | PiP               | Manager role                         |
 
 ### Scaled & Digital Customer Success
 
@@ -214,19 +218,19 @@ _Targeted evidence for specific roles_
 
 _Create notes in `/Applications/` using the [[Application Log Entry Template]]_
 
-| Company                                      | Role                  | Status  | Resume Used       | Applied    |
-| -------------------------------------------- | --------------------- | ------- | ----------------- | ---------- |
-| [[ExtraHop - CSM I Public Sector\|ExtraHop]] | CSM I - Public Sector | Applied | Public Sector CSM | 2025-01-17 |
-
-> **Latest Application Materials:**
-> [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf) |
-> [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_ExtraHop_CSM_Public_Sector_01172026.pdf)
+| Company                                                                    | Role                  | Status  | Applied    |
+| -------------------------------------------------------------------------- | --------------------- | ------- | ---------- |
+| [[Applications/ExtraHop - CSM I Public Sector\|ExtraHop]]                  | CSM I - Public Sector | Applied | 2025-01-17 |
+| [[Applications/Buffalo Grove - Deputy CDD\|Buffalo Grove]]                 | Deputy CDD            | Applied | 2025-01-17 |
+| [[Applications/Penguin Solutions - Engagement Manager\|Penguin Solutions]] | Engagement Manager    | Applied | 2025-01-17 |
+| [[Applications/PiP - Manager\|PiP]]                                        | Manager               | Applied | 2025-01-17 |
+| [[Applications/StrataDecision - Manager Consulting\|StrataDecision]]       | Manager, Consulting   | Applied | 2025-01-17 |
 
 ### Pipeline Summary
 
 | Stage        | Count |
 | ------------ | ----- |
-| Applied      | 1     |
+| Applied      | 5     |
 | Screening    | 0     |
 | Interviewing | 0     |
 | Offer        | 0     |
