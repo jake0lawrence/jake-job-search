@@ -15,14 +15,14 @@ location: "Remote"
 
 ## Application Overview
 
-| Field | Value |
-| ----- | ----- |
-| Company | ExtraHop |
-| Role | Customer Success Manager I - Public Sector |
-| Applied | 2025-01-17 |
-| Status | Applied |
-| Source | ExtraHop Careers |
-| Resume | Public Sector CSM variant |
+| Field   | Value                                      |
+| ------- | ------------------------------------------ |
+| Company | ExtraHop                                   |
+| Role    | Customer Success Manager I - Public Sector |
+| Applied | 2025-01-17                                 |
+| Status  | Applied                                    |
+| Source  | ExtraHop Careers                           |
+| Resume  | Public Sector CSM variant                  |
 
 ---
 
@@ -90,12 +90,14 @@ COMPENSATION:
 ## Why This Role
 
 ### Company Interest
+
 - ExtraHop is a leader in NDR space (recognized by Gartner, Forrester, IDC)
 - Cybersecurity is mission-critical, especially for public sector
 - Product combines NDR + NPM + IDS + forensics in single platform
 - Strong analyst recognition suggests solid product-market fit
 
 ### Role Fit
+
 - Public sector focus aligns perfectly with my GovTech background
 - CSM responsibilities match my Tyler experience almost exactly:
   - Customer Success Plans (did this)
@@ -107,6 +109,7 @@ COMPENSATION:
 - Entry-level CSM I means room to prove myself and grow
 
 ### Concerns/Questions
+
 - Cybersecurity domain is new - will need to learn NDR concepts
 - "Basic knowledge of networking principles (OSI layers 2-4)" - need to brush up
 - Technical depth may be higher than past roles
@@ -119,6 +122,7 @@ COMPENSATION:
 **Variant:** Public Sector CSM (general variant)
 
 ### Key Points Emphasized
+
 - 5+ years driving product adoption for public sector SaaS customers
 - Deep customer relationships with government stakeholders
 - Customer Success Plans documenting goals and value expectations
@@ -129,6 +133,7 @@ COMPENSATION:
 - Cross-functional collaboration experience
 
 ### Resume Headline
+
 > Customer Success Manager | Public Sector SaaS | Adoption & Retention
 
 ---
@@ -155,9 +160,9 @@ Jacob Lawrence
 
 ## Application Materials
 
-| Document | Filename |
-| -------- | -------- |
-| Resume | `ExtraHop_CSM_PublicSector_Resume_2025-01-17.pdf` |
+| Document     | Filename                                               |
+| ------------ | ------------------------------------------------------ |
+| Resume       | `ExtraHop_CSM_PublicSector_Resume_2025-01-17.pdf`      |
 | Cover Letter | `ExtraHop_CSM_PublicSector_CoverLetter_2025-01-17.pdf` |
 
 ---
@@ -166,13 +171,14 @@ Jacob Lawrence
 
 ### Schedule
 
-| Round | Date | With | Format | Duration | Notes |
-| ----- | ---- | ---- | ------ | -------- | ----- |
-| Phone Screen | TBD | Recruiter | Phone | 30min | Initial screen |
+| Round        | Date | With      | Format | Duration | Notes          |
+| ------------ | ---- | --------- | ------ | -------- | -------------- |
+| Phone Screen | TBD  | Recruiter | Phone  | 30min    | Initial screen |
 
 ### Preparation
 
 #### Key Themes to Hit
+
 - Public sector background (MPA + government employee + 100+ govt implementations)
 - Customer Success fundamentals (CSPs, health monitoring, business reviews)
 - Cross-functional collaboration
@@ -180,6 +186,7 @@ Jacob Lawrence
 - Willingness to learn cybersecurity/NDR domain
 
 #### Questions They Might Ask
+
 - "What experience do you have with public sector customers?"
 - "How do you assess customer health?"
 - "Tell me about a time you resolved an escalation"
@@ -187,6 +194,7 @@ Jacob Lawrence
 - "What do you know about network security/NDR?"
 
 #### Questions to Ask Them
+
 - "What does the public sector customer base look like? Federal, state, local mix?"
 - "How technical do CSMs need to get with the product?"
 - "What does onboarding look like for new CSMs?"
@@ -201,8 +209,8 @@ _(To be updated after interviews)_
 
 ## Status History
 
-| Date | Status | Notes |
-| ---- | ------ | ----- |
+| Date       | Status  | Notes                                                      |
+| ---------- | ------- | ---------------------------------------------------------- |
 | 2025-01-17 | Applied | Initial application submitted with resume and cover letter |
 
 ---
@@ -214,6 +222,7 @@ _(To be updated after interviews)_
 **Date Closed:** —
 
 **Notes:**
+
 - First application logged using new workflow
 - Strong alignment with public sector focus
 - Will need to learn cybersecurity domain

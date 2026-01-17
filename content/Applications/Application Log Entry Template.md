@@ -15,14 +15,14 @@ location: "Remote / City, State"
 
 ## Application Overview
 
-| Field | Value |
-| ----- | ----- |
-| Company | {Company Name} |
-| Role | {Job Title} |
-| Applied | {Date} |
-| Status | Applied |
-| Source | {Where you found it} |
-| Resume | [[{Resume Variant}]] |
+| Field   | Value                |
+| ------- | -------------------- |
+| Company | {Company Name}       |
+| Role    | {Job Title}          |
+| Applied | {Date}               |
+| Status  | Applied              |
+| Source  | {Where you found it} |
+| Resume  | [[{Resume Variant}]] |
 
 ---
 
@@ -39,16 +39,19 @@ location: "Remote / City, State"
 ## Why This Role
 
 ### Company Interest
+
 - Why are you interested in this company?
 - What do they do?
 - Mission/values alignment?
 
 ### Role Fit
+
 - What makes you a good fit?
 - What skills/experience align?
 - What's the stretch opportunity?
 
 ### Concerns/Questions
+
 - Any red flags?
 - What do you need to learn more about?
 
@@ -59,10 +62,12 @@ location: "Remote / City, State"
 **Variant:** [[{Resume Variant Name}]]
 
 ### Customizations Made
+
 - {List any specific customizations for this application}
 - {Keywords added, sections adjusted, etc.}
 
 ### Key Points Emphasized
+
 - {What aspects of your background did you highlight?}
 
 ---
@@ -77,9 +82,9 @@ location: "Remote / City, State"
 
 ## Application Materials
 
-| Document | Filename |
-| -------- | -------- |
-| Resume | `{Company}_{Role}_Resume_{Date}.pdf` |
+| Document     | Filename                                  |
+| ------------ | ----------------------------------------- |
+| Resume       | `{Company}_{Role}_Resume_{Date}.pdf`      |
 | Cover Letter | `{Company}_{Role}_CoverLetter_{Date}.pdf` |
 
 ---
@@ -88,47 +93,46 @@ location: "Remote / City, State"
 
 ### Schedule
 
-| Round | Date | With | Format | Duration | Notes |
-| ----- | ---- | ---- | ------ | -------- | ----- |
-| {Stage} | TBD | {Name/Title} | {Phone/Video/Onsite} | {30min} | |
+| Round   | Date | With         | Format               | Duration | Notes |
+| ------- | ---- | ------------ | -------------------- | -------- | ----- |
+| {Stage} | TBD  | {Name/Title} | {Phone/Video/Onsite} | {30min}  |       |
 
 ### Preparation
 
 #### Key Themes to Hit
+
 - {Based on JD, what should you emphasize?}
 
 #### Questions They Might Ask
+
 - {Anticipate questions based on JD requirements}
 
 #### Questions to Ask Them
+
 - {Your questions about the role, team, company}
 
 ### Interview Notes
 
 #### Round 1: {Type}
+
 **Date:**
 **With:**
 **Key Takeaways:**
--
 
-**Questions Asked:**
--
+- **Questions Asked:**
 
-**My Questions & Answers:**
--
+- **My Questions & Answers:**
 
-**Vibe/Culture Notes:**
--
+- **Vibe/Culture Notes:**
 
-**Next Steps:**
--
+- **Next Steps:**
 
----
+- ***
 
 ## Status History
 
-| Date | Status | Notes |
-| ---- | ------ | ----- |
+| Date           | Status  | Notes                         |
+| -------------- | ------- | ----------------------------- |
 | {Applied Date} | Applied | Initial application submitted |
 
 ---
@@ -139,10 +143,10 @@ location: "Remote / City, State"
 
 **Date Closed:**
 
-**Notes:**
--
+## **Notes:**
 
 **Learnings:**
+
 - What worked?
 - What would you do differently?
 

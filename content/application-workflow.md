@@ -26,6 +26,7 @@ content/Applications/ExtraHop - CSM Public Sector.md
 ```
 
 Use the [[Application Log Entry Template]] and fill in:
+
 - Company details
 - Job description (copy full JD)
 - Resume variant used
@@ -50,13 +51,14 @@ content/Applications/Assets/
 
 Add a row to the Active Applications table in [[Application Tracker]]:
 
-| Company | Role | Applied Date | Status | Next Step | Notes |
-| ------- | ---- | ------------ | ------ | --------- | ----- |
-| ExtraHop | CSM I - Public Sector | 2025-01-17 | Applied | Wait for response | NDR/cybersecurity |
+| Company  | Role                  | Applied Date | Status  | Next Step         | Notes             |
+| -------- | --------------------- | ------------ | ------- | ----------------- | ----------------- |
+| ExtraHop | CSM I - Public Sector | 2025-01-17   | Applied | Wait for response | NDR/cybersecurity |
 
 ### Step 4: Update Quick Stats
 
 Increment the counters in [[Application Tracker]]:
+
 - Total Applications +1
 - Active Applications +1
 
@@ -72,15 +74,15 @@ Each application log should capture:
 
 ### Required Information
 
-| Field | Description |
-| ----- | ----------- |
-| Company | Company name |
-| Role | Job title |
-| Applied Date | YYYY-MM-DD |
-| Status | Applied, Phone Screen, Interview, etc. |
-| Resume Used | Link to variant note |
-| Source | Where you found the job |
-| Job Link | URL to posting (may expire) |
+| Field        | Description                            |
+| ------------ | -------------------------------------- |
+| Company      | Company name                           |
+| Role         | Job title                              |
+| Applied Date | YYYY-MM-DD                             |
+| Status       | Applied, Phone Screen, Interview, etc. |
+| Resume Used  | Link to variant note                   |
+| Source       | Where you found the job                |
+| Job Link     | URL to posting (may expire)            |
 
 ### Job Description (Full Copy)
 
@@ -89,12 +91,14 @@ Always paste the complete job description. Postings get taken down and you'll ne
 ### Resume Variant
 
 Link to or note which resume variant you used. If you created a new one, document:
+
 - What you customized
 - Why those customizations matter for this role
 
 ### Cover Letter
 
 Paste the full cover letter text. This helps you:
+
 - Remember your positioning for interviews
 - Reuse good language for similar roles
 - Track what messaging works
@@ -102,6 +106,7 @@ Paste the full cover letter text. This helps you:
 ### Application Materials
 
 Note the filenames of the PDFs you submitted:
+
 - Resume file
 - Cover letter file
 
@@ -126,15 +131,15 @@ Applied → Phone Screen → Interview → Offer/Rejected/Withdrawn
 
 ### Status Definitions
 
-| Status | Meaning |
-| ------ | ------- |
-| Applied | Submitted application |
+| Status       | Meaning                                    |
+| ------------ | ------------------------------------------ |
+| Applied      | Submitted application                      |
 | Phone Screen | Initial recruiter call scheduled/completed |
-| Interview | In active interview process |
-| Offer | Received offer |
-| Rejected | They declined |
-| Withdrawn | You declined |
-| No Response | 2+ weeks, no reply |
+| Interview    | In active interview process                |
+| Offer        | Received offer                             |
+| Rejected     | They declined                              |
+| Withdrawn    | You declined                               |
+| No Response  | 2+ weeks, no reply                         |
 
 ### When Status Changes
 
@@ -151,9 +156,9 @@ Add these sections to your application log:
 
 ### Interview Schedule
 
-| Round | Date | With | Format | Notes |
-| ----- | ---- | ---- | ------ | ----- |
-| Phone | TBD | Recruiter | 30min | Initial screen |
+| Round | Date | With      | Format | Notes          |
+| ----- | ---- | --------- | ------ | -------------- |
+| Phone | TBD  | Recruiter | 30min  | Initial screen |
 
 ### Questions They Asked
 
@@ -162,6 +167,7 @@ Document questions after each interview for future reference.
 ### Questions to Ask
 
 Prepare role-specific questions based on:
+
 - The job description
 - Company research
 - Your genuine curiosities
@@ -169,6 +175,7 @@ Prepare role-specific questions based on:
 ### Post-Interview Notes
 
 After each round, document:
+
 - How it went
 - What you learned
 - Red/green flags
@@ -206,13 +213,13 @@ content/
 
 Over time, these patterns emerge:
 
-| Metric | What It Tells You |
-| ------ | ----------------- |
-| Response rate | Are you targeting well? |
-| Time to first contact | Market temperature |
-| Interview conversion | Resume effectiveness |
-| Which variants perform | What positioning works |
-| Sources that convert | Where to focus effort |
+| Metric                 | What It Tells You       |
+| ---------------------- | ----------------------- |
+| Response rate          | Are you targeting well? |
+| Time to first contact  | Market temperature      |
+| Interview conversion   | Resume effectiveness    |
+| Which variants perform | What positioning works  |
+| Sources that convert   | Where to focus effort   |
 
 ---
 
