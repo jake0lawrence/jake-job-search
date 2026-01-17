@@ -14,9 +14,13 @@ Track all job applications, their status, and next steps.
 
 ## Active Applications
 
-| Company                                      | Role                  | Applied Date | Status  | Next Step         | Notes                                     |
-| -------------------------------------------- | --------------------- | ------------ | ------- | ----------------- | ----------------------------------------- |
-| [[ExtraHop - CSM I Public Sector\|ExtraHop]] | CSM I - Public Sector | 2025-01-17   | Applied | Wait for response | NDR/cybersecurity, remote, $90-100K + 10% |
+| Company                                                                    | Role                  | Applied Date | Status  | Next Step         | Notes                                     |
+| -------------------------------------------------------------------------- | --------------------- | ------------ | ------- | ----------------- | ----------------------------------------- |
+| [[Applications/ExtraHop - CSM I Public Sector\|ExtraHop]]                  | CSM I - Public Sector | 2025-01-17   | Applied | Wait for response | NDR/cybersecurity, remote, $90-100K + 10% |
+| [[Applications/Buffalo Grove - Deputy CDD\|Buffalo Grove]]                 | Deputy CDD            | 2025-01-17   | Applied | Wait for response | Local government, Buffalo Grove IL        |
+| [[Applications/Penguin Solutions - Engagement Manager\|Penguin Solutions]] | Engagement Manager    | 2025-01-17   | Applied | Wait for response | Tech/semiconductor                        |
+| [[Applications/PiP - Manager\|PiP]]                                        | Manager               | 2025-01-17   | Applied | Wait for response |                                           |
+| [[Applications/StrataDecision - Manager Consulting\|StrataDecision]]       | Manager, Consulting   | 2025-01-17   | Applied | Wait for response | Healthcare analytics                      |
 
 ---
 
@@ -52,8 +56,8 @@ Track all job applications, their status, and next steps.
 
 | Metric              | Count |
 | ------------------- | ----- |
-| Total Applications  | 1     |
-| Active Applications | 1     |
+| Total Applications  | 5     |
+| Active Applications | 5     |
 | Interviews          | 0     |
 | Offers              | 0     |
 
