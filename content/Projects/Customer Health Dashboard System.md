@@ -8,8 +8,8 @@ role: Implementation Consultant / CSM
 skills:
   - "[[Power BI]]"
   - "[[Customer Health Monitoring]]"
-  - "[[Data-Driven Decision Making]]"
-  - "[[Risk Mitigation]]"
+  - "[[Customer Health Monitoring]]"
+  - "[[Escalation Management]]"
 impact: high
 visibility: internal
 appears_in: 21/25 variants
@@ -26,12 +26,15 @@ appears_in: 21/25 variants
 ## Full Context
 
 ### The Situation
+
 Customer risk was being identified reactively—often after issues had already escalated. Data existed across multiple systems (Dynamics CRM, JIRA, PSA) but wasn't consolidated or actionable. Leadership needed visibility into portfolio health; consultants needed early warning signals.
 
 ### Your Role
+
 Designed and built dashboard system that consolidated data across systems, defined health indicators, established thresholds for intervention, and created operational workflows for using insights.
 
 ### The Approach
+
 - Mapped data sources: Dynamics (account data), JIRA (issues, progress), PSA (resource allocation, timeline)
 - Defined health indicators: milestone completion, open issues, stakeholder engagement, risk flags
 - Built Power BI dashboards with drill-down capability
@@ -40,20 +43,22 @@ Designed and built dashboard system that consolidated data across systems, defin
 - Trained team on dashboard usage and interpretation
 
 ### The Outcome
+
 At-risk accounts identified 1-2 weeks earlier. Intervention playbooks triggered automatically based on health signals. Dashboards used in executive communications and steering committees. Contributed to 92% on-time delivery performance.
 
 ---
 
 ## Metrics & Impact
 
-| Metric | Value | Context |
-|--------|-------|---------|
-| Earlier risk detection | 1-2 weeks | Compared to previous methods |
-| Systems integrated | 3 | Dynamics, JIRA, PSA |
-| Dashboard users | Team-wide | Consultants and leadership |
-| Delivery performance | 92% on-time | Enabled by visibility |
+| Metric                 | Value       | Context                      |
+| ---------------------- | ----------- | ---------------------------- |
+| Earlier risk detection | 1-2 weeks   | Compared to previous methods |
+| Systems integrated     | 3           | Dynamics, JIRA, PSA          |
+| Dashboard users        | Team-wide   | Consultants and leadership   |
+| Delivery performance   | 92% on-time | Enabled by visibility        |
 
 ### Dashboard Components
+
 - Account health scores
 - Milestone tracking
 - Open issue trends
@@ -66,13 +71,15 @@ At-risk accounts identified 1-2 weeks earlier. Intervention playbooks triggered 
 ## Skills Demonstrated
 
 ### Primary Skills
+
 - [[Power BI]]
 - [[Customer Health Monitoring]]
-- [[Data-Driven Decision Making]]
+- [[Customer Health Monitoring]]
 
 ### Secondary Skills
-- [[Risk Mitigation]]
-- [[Process Design & Documentation]]
+
+- [[Escalation Management]]
+- [[Playbook Development]]
 - [[Cross-Functional Collaboration]]
 
 ---
@@ -84,15 +91,19 @@ At-risk accounts identified 1-2 weeks earlier. Intervention playbooks triggered 
 ### Bullet Point Versions
 
 **Technical audience (detailed):**
+
 > Built Power BI dashboards integrating Dynamics, JIRA, and PSA data to track implementation health, conversion defects, test pass rates, and risk indicators—enabling earlier intervention and informing executive communications.
 
 **General audience (accessible):**
+
 > Created data dashboards that identified at-risk customers 1-2 weeks earlier, enabling proactive intervention and improving delivery outcomes.
 
 **Leadership focus (strategic):**
+
 > Developed customer health monitoring system providing portfolio visibility to leadership and triggering intervention playbooks that protected delivery performance.
 
 **Abbreviated (space-constrained):**
+
 > Built Power BI health dashboards flagging at-risk accounts 1-2 weeks earlier.
 
 ---
@@ -127,6 +138,7 @@ Customer risk was being identified too late—often after escalation. Data exist
 Build a health monitoring system that would surface risk earlier and enable proactive intervention.
 
 **Action:**
+
 - Mapped data across three source systems
 - Defined health indicators based on implementation experience (milestones, issues, engagement)
 - Built Power BI dashboards with account-level and portfolio-level views
@@ -138,15 +150,17 @@ Build a health monitoring system that would surface risk earlier and enable proa
 At-risk accounts identified 1-2 weeks earlier. Team adopted proactive intervention approach. Dashboards became standard tool for project governance. Contributed to maintaining 92% on-time delivery.
 
 ### Likely Follow-up Questions
+
 1. "What metrics did you include in the health score?"
 2. "How did you handle data quality issues across systems?"
 3. "How did you get the team to actually use the dashboards?"
 4. "What interventions did you trigger based on health signals?"
 
 ### Potential Challenges/Objections
-| Concern | Response |
-|---------|----------|
-| "How do you know it was 1-2 weeks earlier?" | Compared timing of risk identification in dashboard vs. when issues would have surfaced through escalation in pre-dashboard period. |
+
+| Concern                                                     | Response                                                                                                                                       |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| "How do you know it was 1-2 weeks earlier?"                 | Compared timing of risk identification in dashboard vs. when issues would have surfaced through escalation in pre-dashboard period.            |
 | "Power BI dashboards are common—what made yours effective?" | Integration across systems, clear thresholds tied to intervention playbooks, and embedding into team workflows rather than standalone reports. |
 
 ---
@@ -154,7 +168,8 @@ At-risk accounts identified 1-2 weeks earlier. Team adopted proactive interventi
 ## Related
 
 **Parent organization:** [[Tyler Technologies]]
-**Similar projects:** 
+**Similar projects:**
+
 - [[Status Pack Automation]]
 - [[Conversion Intake Optimization]]
 
@@ -163,15 +178,18 @@ At-risk accounts identified 1-2 weeks earlier. Team adopted proactive interventi
 ## Reflection
 
 **What went well:**
+
 - Cross-system integration provided comprehensive view
 - Thresholds tied to playbooks drove action
 - Leadership visibility improved governance
 
 **What you'd do differently:**
+
 - More automated alerting (vs. dashboard checking)
 - Better mobile access for on-the-go monitoring
 
 **Unexpected lessons:**
+
 - Dashboard adoption requires workflow integration, not just access
 - Health metrics need regular recalibration as business changes
 
@@ -180,10 +198,12 @@ At-risk accounts identified 1-2 weeks earlier. Team adopted proactive interventi
 ## Featured In
 
 **Main pages:**
+
 - [[what-ive-done]] — Technical achievement demonstrating data integration and analytics skills
 - [[my-superpowers]] — Primary evidence for Power BI, customer health monitoring, and data-driven decision making
 
 **Target roles:**
+
 - [[Targets/Roles/Scaled & Digital Customer Success]] — Primary evidence: proactive health monitoring and intervention
 - [[Targets/Roles/Enterprise Strategic CS]] — Supporting evidence: executive visibility and risk management
 

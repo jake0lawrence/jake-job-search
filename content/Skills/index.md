@@ -88,6 +88,7 @@ Critical interpersonal and organizational capabilities:
 ## Skills by Proficiency Level
 
 **Expert (5+ years, daily use):**
+
 - Implementation & Deployment
 - Training & Enablement
 - Public Sector & GovTech
@@ -96,6 +97,7 @@ Critical interpersonal and organizational capabilities:
 - Customer Health Monitoring
 
 **Advanced (3-5 years, regular use):**
+
 - Data Migration
 - API & Integrations
 - Power BI
@@ -103,6 +105,7 @@ Critical interpersonal and organizational capabilities:
 - Playbook Development
 
 **Proficient (2-3 years, demonstrated capability):**
+
 - EAM & Asset Management
 - ArcGIS
 - Strategic Account Management
@@ -137,4 +140,4 @@ Start with [[Training & Enablement]], then explore [[Playbook Development]] and 
 
 ---
 
-*Each skill page includes experience details, proficiency breakdown, project evidence, and related skills.*
+_Each skill page includes experience details, proficiency breakdown, project evidence, and related skills._

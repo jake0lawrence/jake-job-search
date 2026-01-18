@@ -16,18 +16,19 @@ Leading end-to-end software implementations from requirements gathering through 
 
 ## Proficiency Breakdown
 
-| Dimension | Level | Notes |
-|-----------|-------|-------|
-| Theoretical knowledge | ⭐⭐⭐⭐⭐ | Implementation methodology |
-| Practical application | ⭐⭐⭐⭐⭐ | 100+ implementations |
-| Teaching ability | ⭐⭐⭐⭐⭐ | Mentored consultants |
-| Industry currency | ⭐⭐⭐⭐⭐ | Core professional services skill |
+| Dimension             | Level      | Notes                            |
+| --------------------- | ---------- | -------------------------------- |
+| Theoretical knowledge | ⭐⭐⭐⭐⭐ | Implementation methodology       |
+| Practical application | ⭐⭐⭐⭐⭐ | 100+ implementations             |
+| Teaching ability      | ⭐⭐⭐⭐⭐ | Mentored consultants             |
+| Industry currency     | ⭐⭐⭐⭐⭐ | Core professional services skill |
 
 **Self-assessment:** Expert. Led 100+ implementations for public sector and enterprise customers with 92% on-time and 95% on-budget delivery.
 
 ## Evidence & Proof Points
 
 ### Specific Accomplishments
+
 - Led 100+ successful implementations for municipal and enterprise clients
 - Maintained 92% on-time and 95% on-budget delivery over 24 months
 - Managed 12-20 concurrent implementations while maintaining quality
@@ -35,18 +36,20 @@ Leading end-to-end software implementations from requirements gathering through 
 - Reduced post-go-live conversion defects to ≤0.7 per 1,000 migrated records
 
 ### Quantifiable Results
-| Metric | Value | Context |
-|--------|-------|---------|
-| Implementations led | 100+ | Municipal and enterprise |
-| On-time delivery | 92% | Over 24 months |
-| On-budget delivery | 95% | Over 24 months |
-| Concurrent projects | 12-20 | Managed simultaneously |
+
+| Metric              | Value | Context                  |
+| ------------------- | ----- | ------------------------ |
+| Implementations led | 100+  | Municipal and enterprise |
+| On-time delivery    | 92%   | Over 24 months           |
+| On-budget delivery  | 95%   | Over 24 months           |
+| Concurrent projects | 12-20 | Managed simultaneously   |
 
 ## Resume Presence
 
 **Appears in:** 25/25 variants (universal)
 
 **How I typically phrase this skill:**
+
 > "Led end-to-end implementations from discovery through go-live, maintaining 92% on-time and 95% on-budget delivery"
 
 **Variations by context:**
@@ -59,11 +62,13 @@ Leading end-to-end software implementations from requirements gathering through 
 ## Demonstrated in Projects
 
 **Primary evidence:**
+
 - [[100+ Municipal Court Implementations]] — Led 100+ successful software deployments
 - [[CentralSquare EAM Rollout]] — Full-scale EAM system implementation
 - [[Morton Grove Technology Modernization]] — Multi-system technology rollout
 
 **Supporting evidence:**
+
 - [[Tyler Municipal Justice Client-Side PM]] — Client-side implementation coordination
 - [[SAP EAM Implementation Support]] — Supported SAP EAM deployment
 - [[FOIA Platform Launch]] — Statewide platform implementation
@@ -75,16 +80,19 @@ Leading end-to-end software implementations from requirements gathering through 
 ## Related Skills
 
 ### Parent/Umbrella
+
 - [[Professional Services]]
 - [[Project Management]]
 
 ### Sibling Skills (often paired with)
+
 - [[Onboarding]]
 - [[Data Migration]]
 - [[Training & Enablement]]
 - [[Change Management]]
 
 ### Sub-skills/Specializations
+
 - Requirements gathering
 - Solution configuration
 - Cutover planning
@@ -94,11 +102,13 @@ Leading end-to-end software implementations from requirements gathering through 
 ## Interview Notes
 
 **Common questions about this skill:**
+
 1. "Walk me through your implementation methodology."
 2. "How do you handle scope creep during implementations?"
 3. "Tell me about a challenging implementation you turned around."
 
 **Your STAR story:**
+
 - **Situation:** Complex multi-department implementation with aggressive timeline and skeptical stakeholders
 - **Task:** Deliver on-time while building trust and ensuring adoption
 - **Action:** Established clear governance, created detailed project plan, over-communicated with stakeholders, ran parallel testing, prepared comprehensive training

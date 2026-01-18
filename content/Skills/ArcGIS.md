@@ -5,7 +5,8 @@ proficiency: intermediate
 years_experience: 4+
 actively_using: false
 last_used: 2024
-aliases: [Esri, GIS, Geographic Information Systems, ArcGIS Collector, ArcGIS Field Maps, Spatial Data]
+aliases:
+  [Esri, GIS, Geographic Information Systems, ArcGIS Collector, ArcGIS Field Maps, Spatial Data]
 ---
 
 # ArcGIS
@@ -16,18 +17,19 @@ Esri's geographic information system (GIS) platform for mapping, spatial analysi
 
 ## Proficiency Breakdown
 
-| Dimension | Level | Notes |
-|-----------|-------|-------|
-| Theoretical knowledge | ⭐⭐⭐⭐☆ | GIS concepts and applications |
-| Practical application | ⭐⭐⭐☆☆ | Implementation and configuration |
-| Teaching ability | ⭐⭐⭐☆☆ | Trained field staff on mobile apps |
-| Industry currency | ⭐⭐⭐⭐⭐ | Standard GIS platform |
+| Dimension             | Level      | Notes                              |
+| --------------------- | ---------- | ---------------------------------- |
+| Theoretical knowledge | ⭐⭐⭐⭐☆  | GIS concepts and applications      |
+| Practical application | ⭐⭐⭐☆☆   | Implementation and configuration   |
+| Teaching ability      | ⭐⭐⭐☆☆   | Trained field staff on mobile apps |
+| Industry currency     | ⭐⭐⭐⭐⭐ | Standard GIS platform              |
 
 **Self-assessment:** Intermediate. Hands-on experience deploying ArcGIS solutions for local government—including Collector/Field Maps for mobile inspections and publishing layers for asset management workflows. Not a GIS analyst, but understand how to leverage GIS in operational systems.
 
 ## Evidence & Proof Points
 
 ### Specific Accomplishments
+
 - Deployed ArcGIS Collector/Field Maps for mobile inspections in Community Development
 - Partnered with GIS to publish ArcGIS layers (assets, service lines, work zones)
 - Embedded maps into EAM workflows for location-aware dispatch
@@ -35,13 +37,15 @@ Esri's geographic information system (GIS) platform for mapping, spatial analysi
 - Integrated GIS layers with enterprise asset management systems
 
 ### Quantifiable Results
-| Metric | Value | Context |
-|--------|-------|---------|
-| Field data quality | Improved | Mobile inspections |
-| Turnaround time | Faster | Field-to-office data flow |
-| Workflow integration | Multiple | EAM + GIS layers |
+
+| Metric               | Value    | Context                   |
+| -------------------- | -------- | ------------------------- |
+| Field data quality   | Improved | Mobile inspections        |
+| Turnaround time      | Faster   | Field-to-office data flow |
+| Workflow integration | Multiple | EAM + GIS layers          |
 
 ### ArcGIS Products Used
+
 - ArcGIS Collector (mobile data collection)
 - ArcGIS Field Maps (field operations)
 - ArcGIS layer publishing
@@ -54,6 +58,7 @@ Esri's geographic information system (GIS) platform for mapping, spatial analysi
 **Variants:** IL SOS, OpenGov PM, OpenGov IC, Veritone
 
 **How I typically phrase this skill:**
+
 > "Deployed ArcGIS Collector/Field Maps for mobile inspections; partnered with GIS to publish layers and embed location-aware workflows into operational systems"
 
 **Variations by context:**
@@ -66,6 +71,7 @@ Esri's geographic information system (GIS) platform for mapping, spatial analysi
 ## Demonstrated in Projects
 
 **Primary evidence:**
+
 - [[Morton Grove Technology Modernization]] — Deployed ArcGIS Collector/Field Maps for mobile inspections and integrated GIS layers with EAM workflows
 
 ---
@@ -73,15 +79,18 @@ Esri's geographic information system (GIS) platform for mapping, spatial analysi
 ## Related Skills
 
 ### Parent/Umbrella
+
 - [[Technical Skills]]
 - [[Public Sector & GovTech]]
 
 ### Sibling Skills (often paired with)
+
 - [[EAM/Asset Management]]
 - [[Implementation & Deployment]]
 - [[Mobile Solutions]]
 
 ### Sub-skills/Specializations
+
 - Mobile data collection
 - Layer publishing
 - Web map configuration
@@ -90,6 +99,7 @@ Esri's geographic information system (GIS) platform for mapping, spatial analysi
 ## Strategic Value
 
 **When to emphasize:**
+
 - Roles involving field operations technology
 - Asset management positions
 - Public Works / utilities technology
@@ -101,11 +111,13 @@ Esri's geographic information system (GIS) platform for mapping, spatial analysi
 ## Interview Notes
 
 **Common questions about this skill:**
+
 1. "How have you used GIS in your work?"
 2. "Describe a project where you deployed mobile GIS tools."
 3. "How do you integrate GIS with other enterprise systems?"
 
 **Your STAR story:**
+
 - **Situation:** Public Works department using paper-based field inspections; data quality issues and slow turnaround
 - **Task:** Implement mobile solution to improve field data collection
 - **Action:** Deployed ArcGIS Collector for field staff, configured inspection forms, published GIS layers for asset locations, trained crews on mobile workflow

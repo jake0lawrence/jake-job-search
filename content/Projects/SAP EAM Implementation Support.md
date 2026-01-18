@@ -26,12 +26,15 @@ appears_in: 3/25 variants
 ## Full Context
 
 ### The Situation
+
 Village of Itasca was implementing SAP EAM for Public Works asset and work order management. Project required coordination across IT, Finance, and Public Works. Chart of accounts mapping was critical for cost tracking and financial reporting.
 
 ### Your Role
+
 Project team member responsible for coordinating requirements between departments. Led chart of accounts mapping effort. Supported data migration and user training.
 
 ### The Approach
+
 - Served as liaison between IT, Finance, and Public Works
 - Led chart of accounts (COA) mapping:
   - Aligned asset categories with GL structure
@@ -42,36 +45,40 @@ Project team member responsible for coordinating requirements between department
 - Monitored adoption and addressed issues
 
 ### The Outcome
+
 Successful SAP EAM go-live. Inspection-to-closeout time reduced by ~35%. Cost tracking properly integrated with Finance. Early career implementation experience that built foundation for later expertise.
 
 ---
 
 ## Metrics & Impact
 
-| Metric | Value | Context |
-|--------|-------|---------|
-| Inspection-to-closeout | ~35% faster | Time reduction |
-| COA mapping | Complete | Finance integration |
-| Cost capture | Validated | Accurate departmental tracking |
+| Metric                 | Value       | Context                        |
+| ---------------------- | ----------- | ------------------------------ |
+| Inspection-to-closeout | ~35% faster | Time reduction                 |
+| COA mapping            | Complete    | Finance integration            |
+| Cost capture           | Validated   | Accurate departmental tracking |
 
 ### Role in Project
-| Responsibility | Contribution |
-|----------------|--------------|
-| COA mapping | Led effort with Finance |
+
+| Responsibility                | Contribution              |
+| ----------------------------- | ------------------------- |
+| COA mapping                   | Led effort with Finance   |
 | Cross-department coordination | IT, Finance, Public Works |
-| Data migration | Supported validation |
-| Training | Contributed to delivery |
+| Data migration                | Supported validation      |
+| Training                      | Contributed to delivery   |
 
 ---
 
 ## Skills Demonstrated
 
 ### Primary Skills
+
 - [[EAM & Asset Management]]
 - [[Data Migration]]
 - [[Cross-Functional Collaboration]]
 
 ### Secondary Skills
+
 - [[Implementation & Deployment]]
 - [[Public Sector & GovTech]]
 
@@ -84,15 +91,19 @@ Successful SAP EAM go-live. Inspection-to-closeout time reduced by ~35%. Cost tr
 ### Bullet Point Versions
 
 **Technical audience (detailed):**
+
 > Supported SAP EAM implementation—led chart of accounts mapping with Finance, coordinated cross-departmental requirements, and contributed to data migration—reducing inspection-to-closeout by 35%.
 
 **General audience (accessible):**
+
 > Contributed to enterprise asset management implementation, coordinating across departments and helping reduce work completion time by 35%.
 
 **Leadership focus (strategic):**
+
 > Early career implementation experience bridging IT, Finance, and Operations that built foundation for 100+ later implementations.
 
 **Abbreviated (space-constrained):**
+
 > Supported SAP EAM rollout; 35% faster inspection-to-closeout.
 
 ---
@@ -127,6 +138,7 @@ Village of Itasca implementing SAP EAM for Public Works. Complex project requiri
 Coordinate cross-departmental requirements and lead COA mapping effort.
 
 **Action:**
+
 - Served as liaison between three departments
 - Led chart of accounts mapping sessions with Finance
 - Ensured asset categories aligned with GL structure
@@ -137,13 +149,15 @@ Coordinate cross-departmental requirements and lead COA mapping effort.
 Successful go-live. Inspection-to-closeout reduced 35%. Accurate cost tracking. Built implementation skills for future career.
 
 ### Likely Follow-up Questions
+
 1. "What was your specific role vs. the overall project?"
 2. "What made COA mapping challenging?"
 3. "How did this experience influence your later career?"
 
 ### Potential Challenges/Objections
-| Concern | Response |
-|---------|----------|
+
+| Concern                              | Response                                                                                                                               |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | "This sounds like a supporting role" | It was—early in career. But I owned COA mapping end-to-end and learned implementation fundamentals that scaled to 100+ later projects. |
 
 ---
@@ -151,6 +165,7 @@ Successful go-live. Inspection-to-closeout reduced 35%. Accurate cost tracking. 
 ## Strategic Value
 
 This project shows:
+
 - **Career progression** from support role to implementation leader
 - **SAP experience** (enterprise ERP/EAM)
 - **Financial integration knowledge** (COA mapping)
@@ -163,11 +178,13 @@ This project shows:
 ## Related
 
 **Parent organization:** [[Village of Itasca]]
-**Similar projects:** 
+**Similar projects:**
+
 - [[CentralSquare EAM Rollout]]
 - [[ArcGIS Mobile Inspection Deployment]]
 
 **Led to:**
+
 - Deeper implementation expertise
 - [[CentralSquare EAM Rollout]] leadership role
 
@@ -176,15 +193,18 @@ This project shows:
 ## Reflection
 
 **What went well:**
+
 - Cross-departmental coordination experience
 - Financial integration knowledge
 - Foundation for implementation career
 
 **What you'd do differently:**
+
 - More documentation of lessons learned
 - Sought broader project responsibilities
 
 **Unexpected lessons:**
+
 - COA mapping is underestimated in complexity
 - Finance partnership is critical for asset management
 
@@ -193,10 +213,12 @@ This project shows:
 ## Featured In
 
 **Main pages:**
+
 - [[what-ive-done]] — Demonstrates early career implementation experience and cross-functional coordination
 - [[my-superpowers]] — Primary evidence for EAM & asset management and financial integration expertise
 
 **Target roles:**
+
 - [[Targets/Roles/Implementation & Professional Services]] — Primary evidence: SAP EAM support, chart of accounts mapping, 35% improvement
 
 **Related:** See [[CentralSquare EAM Rollout]], [[Morton Grove Technology Modernization]]

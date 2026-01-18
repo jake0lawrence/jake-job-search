@@ -18,12 +18,14 @@ application_status: ready
 **Role Cluster:** [[Enablement & Adoption]]
 
 ### Why This Company
+
 - UX research platform (product adoption critical)
 - Enablement-focused role
 - Growing company with CS investment
 - Builder opportunity to create programs
 
 ### What They're Looking For
+
 - Training and enablement experience
 - Program design and content creation
 - Customer adoption focus
@@ -35,12 +37,15 @@ application_status: ready
 ## Positioning Strategy
 
 ### Headline/Branding
+
 > Customer Enablement Manager | Adoption Programs & Training | Technical SaaS
 
 ### Core Narrative
+
 Position as an enablement builder who creates programs from scratch. Emphasize training delivery metrics and systematic program design.
 
 ### Key Differentiators for This Role
+
 1. Training delivery (120+ sessions, 4.8/5)
 2. Playbook and program creation (87% adoption)
 3. Builder mindset
@@ -51,6 +56,7 @@ Position as an enablement builder who creates programs from scratch. Emphasize t
 ## Skills Emphasized
 
 ### Primary (Featured Prominently)
+
 - [[Training & Enablement]]
 - [[Product Adoption]]
 - [[Playbook Development]]
@@ -58,11 +64,13 @@ Position as an enablement builder who creates programs from scratch. Emphasize t
 - [[Voice of Customer]]
 
 ### Secondary (Mentioned)
+
 - [[Onboarding]]
 - [[Customer Health Monitoring]]
 - [[Cross-Functional Collaboration]]
 
 ### Downplayed/Omitted
+
 - Implementation-heavy language
 - Government-specific experience
 - Strategic account management
@@ -72,11 +80,13 @@ Position as an enablement builder who creates programs from scratch. Emphasize t
 ## Projects Emphasized
 
 ### Lead Projects
+
 1. [[Training & Enablement Program]] — 120+ sessions, 4.8/5
 2. [[Customer Success Playbook System]] — Content creation at scale
 3. [[First 30 Days Adoption Program]] — Structured enablement
 
 ### Supporting Projects
+
 4. [[Pooled Portfolio Model]] — Scalable programs
 5. [[Customer Health Dashboard System]] — Adoption measurement
 
@@ -85,9 +95,11 @@ Position as an enablement builder who creates programs from scratch. Emphasize t
 ## Key Bullet Points Used
 
 ### Summary Section
+
 > Customer Enablement professional with 5+ years building and delivering programs that drive product adoption and customer success. Track record of creating playbooks, training curricula, and scalable content from scratch. Strong builder mindset with experience defining what good looks like and measuring outcomes.
 
 ### Key Results
+
 - Built and delivered 120+ enablement sessions to 650+ users with 4.8/5 satisfaction
 - Created adoption playbooks and self-serve content adopted across 87% of customer base
 - Designed "First 30 Days" onboarding program reducing time-to-value
@@ -99,6 +111,7 @@ Position as an enablement builder who creates programs from scratch. Emphasize t
 ## Interview Preparation
 
 ### Key Themes to Hit
+
 1. **Builder:** "I create programs from scratch—playbooks, curricula, content"
 2. **Quantified impact:** "120+ sessions, 4.8/5 satisfaction, 87% adoption"
 3. **Voice of Customer:** "Enablement is where I hear what customers actually need"

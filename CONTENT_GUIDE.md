@@ -28,17 +28,17 @@ tags:
 
 ### Required Fields
 
-| Field | Type | Description | Example |
-|-------|------|-------------|---------|
-| `title` | string | Human-readable page title | `"What I'm Looking For"` |
-| `date` | date | Last modification (YYYY-MM-DD) | `2025-01-08` |
+| Field   | Type   | Description                    | Example                  |
+| ------- | ------ | ------------------------------ | ------------------------ |
+| `title` | string | Human-readable page title      | `"What I'm Looking For"` |
+| `date`  | date   | Last modification (YYYY-MM-DD) | `2025-01-08`             |
 
 ### Optional Fields
 
-| Field | Type | Description | Example |
-|-------|------|-------------|---------|
-| `tags` | array | Topic tags for organization | `[job-search, priorities]` |
-| `aliases` | array | Alternative titles for linking | `[WILF, Criteria]` |
+| Field     | Type  | Description                    | Example                    |
+| --------- | ----- | ------------------------------ | -------------------------- |
+| `tags`    | array | Topic tags for organization    | `[job-search, priorities]` |
+| `aliases` | array | Alternative titles for linking | `[WILF, Criteria]`         |
 
 ---
 
@@ -48,25 +48,30 @@ tags:
 
 ```markdown
 # Page Title
+
 Only one H1 per page. Should match frontmatter `title`.
 Receives teal underline accent in theme.
 
 ## Major Section
+
 Use for top-level content divisions.
 Examples: "Role Preferences", "Location", "Compensation"
 
 ### Subsection
+
 Use for breakdowns within sections.
 Styled with teal accent color.
 Examples: "Remote Work", "Bay Area", "Startup vs Enterprise"
 
 #### Minor Heading
+
 Rarely needed. Use for detailed breakdowns.
 ```
 
 ### Tables
 
 Tables are well-styled in this theme (teal headers). Use them for:
+
 - Company lists
 - Skill inventories
 - Application tracking
@@ -74,12 +79,13 @@ Tables are well-styled in this theme (teal headers). Use them for:
 
 ```markdown
 | Column A | Column B | Column C |
-|----------|----------|----------|
+| -------- | -------- | -------- |
 | Data 1   | Data 2   | Data 3   |
 | Data 4   | Data 5   | Data 6   |
 ```
 
 **Table guidelines:**
+
 - Keep columns to 3-5 for readability
 - Use concise cell content
 - Align data logically (status columns together, dates together)
@@ -88,6 +94,7 @@ Tables are well-styled in this theme (teal headers). Use them for:
 ### Blockquotes
 
 Styled with teal left border and subtle background. Use for:
+
 - Key quotes or testimonials
 - Important callouts
 - Emphasized takeaways
@@ -150,7 +157,7 @@ Use lists for actual lists, not as a substitute for prose.
 
 ```markdown
 **Bold** — Use sparingly for key terms or critical info
-*Italic* — Use for titles, emphasis, or introducing terms
+_Italic_ — Use for titles, emphasis, or introducing terms
 `Code` — Use for technical terms, filenames, commands
 ```
 
@@ -172,9 +179,11 @@ Use lists for actual lists, not as a substitute for prose.
 Brief, warm introduction (2-3 sentences)
 
 ## The Short Version
+
 What Jake is looking for in 3-4 bullet points
 
 ## Quick Links
+
 - [[what-im-looking-for]]
 - [[target-companies]]
 - [[how-you-can-help]]
@@ -194,15 +203,19 @@ What Jake is looking for in 3-4 bullet points
 # What I'm Looking For
 
 ## Role Type
+
 What kind of work, level, function
 
 ## Company Criteria
+
 Size, stage, industry, culture
 
 ## Location
+
 Geographic preferences, remote policy
 
 ## Compensation
+
 Salary range, equity considerations
 ```
 
@@ -219,10 +232,10 @@ Salary range, equity considerations
 ```markdown
 # Target Companies
 
-| Company | Why Interested | Status | Notes |
-|---------|----------------|--------|-------|
-| Company A | Reason | Researching | Any notes |
-| Company B | Reason | Applied | Date |
+| Company   | Why Interested | Status      | Notes     |
+| --------- | -------------- | ----------- | --------- |
+| Company A | Reason         | Researching | Any notes |
+| Company B | Reason         | Applied     | Date      |
 ```
 
 **Status values:** Researching, Applied, Interviewing, Offer, Rejected, Passed
@@ -239,14 +252,17 @@ Salary range, equity considerations
 # How You Can Help
 
 ## Quick Wins (5 minutes)
+
 - Share this site
 - Forward to recruiters
 - Connect on LinkedIn
 
 ## Warm Introductions
+
 If you know someone at [[target-companies]]...
 
 ## Job Leads
+
 Know of a role? Here's [[what-im-looking-for]]
 ```
 
@@ -264,17 +280,21 @@ Know of a role? Here's [[what-im-looking-for]]
 # My Superpowers
 
 ## [Skill Category 1]
+
 Narrative explanation with specific examples.
 Link to relevant [[projects]] or case studies.
 
 ## [Skill Category 2]
+
 ...
 
 ## Tools & Technologies
+
 List or table of specific tools
 ```
 
 **Guidelines:**
+
 - Show, don't just tell — include metrics, outcomes, examples
 - Link to Projects/ for evidence
 - 3-5 superpowers is ideal
@@ -297,21 +317,26 @@ tags:
 # Project Name
 
 ## Context
+
 What was the situation, challenge, or need
 
 ## Action
+
 What I specifically did (my role, approach, methods)
 
 ## Result
+
 Measurable outcomes, impact, what was achieved
 
 ## Skills Demonstrated
+
 - [[Customer Success]]
 - [[Implementation]]
 - [[Change Management]]
 ```
 
 **Guidelines:**
+
 - Use CAR (Context, Action, Result) format
 - Lead with most impressive/relevant details
 - Include metrics wherever possible
@@ -337,18 +362,22 @@ tags:
 Brief description of the skill and why it matters.
 
 ## Experience Level
+
 Years of experience, contexts where used
 
 ## Key Capabilities
+
 - Specific thing 1
 - Specific thing 2
 - Specific thing 3
 
 ## Projects & Examples
+
 - [[Project Name 1]]
 - [[Project Name 2]]
 
 ## Related Skills
+
 - [[Related Skill 1]]
 - [[Related Skill 2]]
 ```
@@ -367,12 +396,12 @@ Years of experience, contexts where used
 
 ### Word Choice
 
-| Instead of... | Use... |
-|---------------|--------|
-| "I need a job" | "I'm looking for my next role" |
-| "Please help me" | "Here's how you can help" |
-| "I'm good at..." | "I've delivered..." |
-| "Responsibilities included..." | "I led/built/delivered..." |
+| Instead of...                  | Use...                         |
+| ------------------------------ | ------------------------------ |
+| "I need a job"                 | "I'm looking for my next role" |
+| "Please help me"               | "Here's how you can help"      |
+| "I'm good at..."               | "I've delivered..."            |
+| "Responsibilities included..." | "I led/built/delivered..."     |
 
 ### Sentence Structure
 
@@ -385,11 +414,11 @@ Years of experience, contexts where used
 
 ## File Naming Conventions
 
-| Pattern | Example | Notes |
-|---------|---------|-------|
-| Lowercase with hyphens | `what-im-looking-for.md` | Main pages |
-| Spaces allowed | `Customer Success.md` | Skills/ and Projects/ folders |
-| Descriptive names | `application-tracker.md` | Not `tracker.md` |
+| Pattern                | Example                  | Notes                         |
+| ---------------------- | ------------------------ | ----------------------------- |
+| Lowercase with hyphens | `what-im-looking-for.md` | Main pages                    |
+| Spaces allowed         | `Customer Success.md`    | Skills/ and Projects/ folders |
+| Descriptive names      | `application-tracker.md` | Not `tracker.md`              |
 
 ---
 
@@ -440,4 +469,4 @@ tags: []
 
 ---
 
-*Last updated: January 2025*
+_Last updated: January 2025_
