@@ -21,7 +21,7 @@ Track all job applications, their status, and next steps.
 | [[Applications/Penguin Solutions - Engagement Manager\|Penguin Solutions]] | Engagement Manager      | 2025-01-17   | Applied | Wait for response | Tech/semiconductor                        |
 | [[Applications/PiP - Manager\|PiP]]                                        | Manager                 | 2025-01-17   | Applied | Wait for response |                                           |
 | [[Applications/StrataDecision - Manager Consulting\|StrataDecision]]       | Manager, Consulting     | 2025-01-17   | Applied | Wait for response | Healthcare analytics                      |
-| [[Applications/Alkami - Implementations Manager\|Alkami]]                  | Implementations Manager | 2025-01-20   | Applied | Wait for response | Digital banking, remote, $100-120K        |
+| [[Applications/Alkami - Implementations Manager\|Alkami]]                  | Implementations Manager | 2025-01-20   | Applied | Wait for response | Digital banking, remote, $100-140K        |
 
 ---
 

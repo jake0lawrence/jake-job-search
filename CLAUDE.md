@@ -129,6 +129,86 @@ tags:
 
 ---
 
+## SOP: Adding a New Job Application
+
+When the user provides new resume/cover letter files and wants to update the site:
+
+### Step 1: Gather Required Information
+
+Ask the user for:
+
+- **Job source** (LinkedIn, company website, referral, etc.)
+- **Job URL** (if available)
+- **Salary range** (if known)
+- **Location** (Remote/Hybrid/On-site)
+- **Job description** (can be provided later)
+
+### Step 2: Verify File Naming
+
+Check PDF filenames follow the convention:
+
+```
+Jake_Lawrence_Resume_{Company}_{Role}_{MMDDYYYY}.pdf
+Jake_Lawrence_CoverLetter_{Company}_{Role}_{MMDDYYYY}.pdf
+```
+
+Fix any typos (e.g., wrong dates) by renaming files.
+
+### Step 3: Create Application Log Entry
+
+Create `content/Applications/{Company} - {Role}.md` with:
+
+- YAML frontmatter (type, company, role, applied_date, status, source, job_link, salary_range, location)
+- Application Overview table
+- Job Description section (with links to posting)
+- Why This Role section
+- Resume Used section
+- Cover Letter section (placeholder or full text)
+- Application Materials table with PDF links
+- Interview Tracking section
+- Status History table
+- Outcome section
+
+Use existing application logs as reference (e.g., `ExtraHop - CSM I Public Sector.md`).
+
+### Step 4: Update resume-variants.md
+
+1. Add variant to the appropriate **Role Cluster** table (e.g., Implementation & Professional Services)
+2. Add to **Latest Application Packages** table
+3. Update the application count and date
+4. Update "Last updated" date
+
+### Step 5: Update application-tracker.md
+
+1. Add row to **Active Applications** table
+2. Update **Quick Stats** counts (Total Applications, Active Applications)
+3. Update "Last updated" date
+
+### Step 6: Finalize
+
+```bash
+# Run Prettier on all modified files
+npx prettier --write "content/Applications/{Company} - {Role}.md" \
+  "content/resume-variants.md" \
+  "content/application-tracker.md"
+
+# Commit and push
+git add .
+git commit -m "Add {Company} {Role} application"
+git push
+```
+
+### PDF Asset Location
+
+All resume/cover letter PDFs go in: `content/Applications/Assets/`
+
+### Link Formats
+
+- **Wiki links** for navigation: `[[Applications/Company - Role|Company]]`
+- **Markdown links** for PDFs: `[📄 Resume](Applications/Assets/filename.pdf)`
+
+---
+
 ## Testing Your Changes
 
 ```bash
@@ -155,5 +235,5 @@ Main color variables are in `quartz.config.ts` under `theme.colors`.
 
 ---
 
-_Last updated: January 17, 2025_
+_Last updated: January 20, 2025_
 _Theme: Warm Teal v3.0 (Quartz)_
