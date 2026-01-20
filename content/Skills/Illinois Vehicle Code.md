@@ -16,18 +16,19 @@ Deep expertise in the Illinois Vehicle Code (IVC)—the state statutes governing
 
 ## Proficiency Breakdown
 
-| Dimension | Level | Notes |
-|-----------|-------|-------|
-| Theoretical knowledge | ⭐⭐⭐⭐☆ | IVC structure and sections |
+| Dimension             | Level      | Notes                                    |
+| --------------------- | ---------- | ---------------------------------------- |
+| Theoretical knowledge | ⭐⭐⭐⭐☆  | IVC structure and sections               |
 | Practical application | ⭐⭐⭐⭐⭐ | Reconciled codes across dozens of courts |
-| Teaching ability | ⭐⭐⭐⭐☆ | Trained court staff on code mapping |
-| Industry currency | ⭐⭐⭐☆☆ | Illinois-specific; niche |
+| Teaching ability      | ⭐⭐⭐⭐☆  | Trained court staff on code mapping      |
+| Industry currency     | ⭐⭐⭐☆☆   | Illinois-specific; niche                 |
 
 **Self-assessment:** Advanced. Developed deep IVC expertise through offense code reconciliation work—translating legacy codes, municipal ordinances, and IVC sections across dozens of Illinois administrative hearing courts.
 
 ## Evidence & Proof Points
 
 ### Specific Accomplishments
+
 - Reconciled offense codes across legacy systems, municipal codes, and IVC sections for dozens of Illinois courts
 - Mapped traffic, vehicle, and compliance matters to standardized code structures
 - Translated legacy system codes to municipal ordinances and IVC sections
@@ -35,13 +36,15 @@ Deep expertise in the Illinois Vehicle Code (IVC)—the state statutes governing
 - Worked with offense code mapping for administrative hearing courts statewide
 
 ### Quantifiable Results
-| Metric | Value | Context |
-|--------|-------|---------|
-| Illinois courts served | Dozens | Offense code reconciliation |
-| Code systems mapped | Multiple | Legacy → IVC → Municipal |
-| Implementation success | 92% | On-time delivery |
+
+| Metric                 | Value    | Context                     |
+| ---------------------- | -------- | --------------------------- |
+| Illinois courts served | Dozens   | Offense code reconciliation |
+| Code systems mapped    | Multiple | Legacy → IVC → Municipal    |
+| Implementation success | 92%      | On-time delivery            |
 
 ### Specific IVC Knowledge Areas
+
 - Traffic violations and offense classifications
 - Municipal ordinance to IVC mapping
 - Administrative hearing procedures
@@ -55,6 +58,7 @@ Deep expertise in the Illinois Vehicle Code (IVC)—the state statutes governing
 **Variants:** IL SOS (Deputy Director application)
 
 **How I typically phrase this skill:**
+
 > "Deep fluency in the Illinois Vehicle Code from offense code reconciliation work—translating legacy codes, municipal ordinances, and IVC sections across dozens of Illinois courts"
 
 **Variations by context:**
@@ -67,9 +71,11 @@ Deep expertise in the Illinois Vehicle Code (IVC)—the state statutes governing
 ## Demonstrated in Projects
 
 **Primary evidence:**
+
 - [[Illinois Vehicle Code Reconciliation]] — Reconciled offense codes across legacy systems, municipal codes, and IVC sections for dozens of Illinois courts
 
 **Supporting evidence:**
+
 - [[100+ Municipal Court Implementations]]
 
 ---
@@ -77,15 +83,18 @@ Deep expertise in the Illinois Vehicle Code (IVC)—the state statutes governing
 ## Related Skills
 
 ### Parent/Umbrella
+
 - [[Public Sector & GovTech]]
 - [[Administrative Hearings]]
 
 ### Sibling Skills (often paired with)
+
 - [[Municipal Courts]]
 - [[BAIID/Ignition Interlock Workflows]]
 - [[Case Management Systems]]
 
 ### Sub-skills/Specializations
+
 - Offense code mapping
 - Municipal ordinance interpretation
 - Traffic violation classification
@@ -94,6 +103,7 @@ Deep expertise in the Illinois Vehicle Code (IVC)—the state statutes governing
 ## Strategic Value
 
 **When to emphasize:**
+
 - Illinois state government roles
 - Secretary of State positions
 - Court administration roles
@@ -105,11 +115,13 @@ Deep expertise in the Illinois Vehicle Code (IVC)—the state statutes governing
 ## Interview Notes
 
 **Common questions about this skill:**
+
 1. "How did you develop expertise in the Illinois Vehicle Code?"
 2. "Describe the offense code reconciliation process."
 3. "How do you handle discrepancies between municipal codes and IVC?"
 
 **Your STAR story:**
+
 - **Situation:** Illinois court implementing new case management system with decades of legacy offense codes that didn't align with current IVC
 - **Task:** Map legacy codes to standardized IVC sections while preserving historical data integrity
 - **Action:** Analyzed legacy code structures, created mapping tables to IVC sections, worked with court staff to validate translations, configured system with standardized codes

@@ -11,6 +11,7 @@ Seriously, thank you for even reading this. Here are concrete ways you can help,
 If you know someone at a company I'm targeting (or any B2B software company), a warm intro is worth 100 cold applications.
 
 **What to say:**
+
 > "Hey [Name], my [friend/cousin/etc] Jacob is looking for Customer Success or Implementation roles. He's got 8+ years of experience helping companies adopt software—100+ implementations, really strong track record. Would you be open to a quick chat with him?"
 
 That's it. You don't need to sell me—just open the door.
@@ -24,6 +25,7 @@ That's it. You don't need to sell me—just open the door.
 If you see a job posting that looks like a fit, send it to me. Even if you're not sure. I'd rather get 10 "maybes" than miss one good one.
 
 **What to look for:**
+
 - "Customer Success Manager"
 - "Implementation Consultant"
 - "Solutions Consultant"
@@ -32,6 +34,7 @@ If you see a job posting that looks like a fit, send it to me. Even if you're no
 - "Professional Services"
 
 **At companies that:**
+
 - Sell software to businesses (B2B)
 - Are based in Chicago or remote-friendly
 - Seem like decent places to work
@@ -72,19 +75,19 @@ If you're willing to do a mock interview or let me explain what I do, that helps
 
 For complete details, see [[what-im-looking-for]].
 
-| Dimension | Ideal | Acceptable |
-|-----------|-------|------------|
-| **Role** | Customer Success Manager, Implementation Consultant | Solutions Consultant, Enablement Manager, Onboarding |
-| **Company type** | B2B SaaS, GovTech | Enterprise software, Tech-enabled services |
-| **Company size** | 100-5,000 employees | 50-10,000 |
-| **Location** | Chicago or Remote | Midwest, Hybrid |
-| **Salary** | $100-140K base | $90K+ depending on role |
+| Dimension        | Ideal                                               | Acceptable                                           |
+| ---------------- | --------------------------------------------------- | ---------------------------------------------------- |
+| **Role**         | Customer Success Manager, Implementation Consultant | Solutions Consultant, Enablement Manager, Onboarding |
+| **Company type** | B2B SaaS, GovTech                                   | Enterprise software, Tech-enabled services           |
+| **Company size** | 100-5,000 employees                                 | 50-10,000                                            |
+| **Location**     | Chicago or Remote                                   | Midwest, Hybrid                                      |
+| **Salary**       | $100-140K base                                      | $90K+ depending on role                              |
 
 ---
 
 ## 🚫 Probably Not a Fit
 
-To save you time, here's what I'm *not* looking for:
+To save you time, here's what I'm _not_ looking for:
 
 - **Sales roles** (Account Executive, SDR, BDR) — Not my thing
 - **Pure support roles** (Help desk, Tier 1 support) — I've moved past this

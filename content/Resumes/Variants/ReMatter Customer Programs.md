@@ -18,12 +18,14 @@ application_status: ready
 **Role Cluster:** [[Enablement & Adoption]]
 
 ### Why This Company
+
 - Sustainability/circular economy platform
 - Startup environment (builder opportunity)
 - Customer programs role (design + execution)
 - Mission-driven company
 
 ### What They're Looking For
+
 - Program design and execution
 - Customer onboarding and adoption
 - Startup comfort (ambiguity, building from scratch)
@@ -35,12 +37,15 @@ application_status: ready
 ## Positioning Strategy
 
 ### Headline/Branding
+
 > Customer Programs Manager | Onboarding & Adoption | Process Builder
 
 ### Core Narrative
+
 Position as a builder who can design and execute customer programs from scratch. Emphasize startup-relevant traits: comfort with ambiguity, process creation, rapid iteration.
 
 ### Key Differentiators for This Role
+
 1. Program creation (playbooks adopted 87%)
 2. Training delivery at scale (120+, 4.8/5)
 3. Builder mindset for process creation
@@ -51,6 +56,7 @@ Position as a builder who can design and execute customer programs from scratch.
 ## Skills Emphasized
 
 ### Primary (Featured Prominently)
+
 - [[Playbook Development]]
 - [[Training & Enablement]]
 - [[Onboarding]]
@@ -58,11 +64,13 @@ Position as a builder who can design and execute customer programs from scratch.
 - [[Cross-Functional Collaboration]]
 
 ### Secondary (Mentioned)
+
 - [[Voice of Customer]]
 - [[Change Management]]
 - [[Customer Health Monitoring]]
 
 ### Downplayed/Omitted
+
 - Enterprise language
 - Government experience (unless relevant)
 - Heavy implementation focus
@@ -72,11 +80,13 @@ Position as a builder who can design and execute customer programs from scratch.
 ## Projects Emphasized
 
 ### Lead Projects
+
 1. [[Customer Success Playbook System]] — Program creation
 2. [[Training & Enablement Program]] — Execution at scale
 3. [[First 30 Days Adoption Program]] — Onboarding design
 
 ### Supporting Projects
+
 4. [[Pooled Portfolio Model]] — Scalable programs
 5. [[Morton Grove Technology Modernization]] — Cross-functional leadership
 
@@ -85,9 +95,11 @@ Position as a builder who can design and execute customer programs from scratch.
 ## Key Bullet Points Used
 
 ### Summary Section
+
 > Customer Programs professional with 5+ years designing and executing onboarding, enablement, and adoption programs. Builder mindset with experience creating processes, playbooks, and scalable content from scratch. Comfortable with ambiguity and cross-functional collaboration in fast-paced environments.
 
 ### Key Results
+
 - Designed and implemented customer programs (onboarding, enablement, adoption) achieving 87% adoption across portfolio
 - Delivered 120+ customer sessions with 4.8/5 satisfaction
 - Created playbooks and self-serve content that scaled customer success without proportional headcount
@@ -99,6 +111,7 @@ Position as a builder who can design and execute customer programs from scratch.
 ## Interview Preparation
 
 ### Key Themes to Hit
+
 1. **Builder:** "I love creating things from scratch—give me a blank slate"
 2. **Startup fit:** "I'm comfortable with ambiguity and rapid iteration"
 3. **Programs mindset:** "I think about systems, not just individual interactions"

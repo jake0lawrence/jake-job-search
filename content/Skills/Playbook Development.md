@@ -16,18 +16,19 @@ Creating standardized, repeatable processes and documentation that codify best p
 
 ## Proficiency Breakdown
 
-| Dimension | Level | Notes |
-|-----------|-------|-------|
-| Theoretical knowledge | ⭐⭐⭐⭐⭐ | Process design principles |
+| Dimension             | Level      | Notes                            |
+| --------------------- | ---------- | -------------------------------- |
+| Theoretical knowledge | ⭐⭐⭐⭐⭐ | Process design principles        |
 | Practical application | ⭐⭐⭐⭐⭐ | Built playbooks adopted org-wide |
-| Teaching ability | ⭐⭐⭐⭐⭐ | Trained teams on playbook usage |
-| Industry currency | ⭐⭐⭐⭐⭐ | CS operations standard |
+| Teaching ability      | ⭐⭐⭐⭐⭐ | Trained teams on playbook usage  |
+| Industry currency     | ⭐⭐⭐⭐⭐ | CS operations standard           |
 
 **Self-assessment:** Expert. Built core playbooks (Cutover, Training, Integration/Conversion, Escalation) adopted across 87% of projects. Reduced rework and improved delivery consistency.
 
 ## Evidence & Proof Points
 
 ### Specific Accomplishments
+
 - Created onboarding, training, and escalation playbooks adopted across 87% of customer portfolio
 - Built Cutover, Training/Enablement, and Integration/Conversion Intake playbooks
 - Reduced rework by 28% through standardized processes
@@ -35,10 +36,11 @@ Creating standardized, repeatable processes and documentation that codify best p
 - Documented best practices that improved delivery consistency across teams
 
 ### Quantifiable Results
-| Metric | Value | Context |
-|--------|-------|---------|
-| Playbook adoption | 87% | Across portfolio/projects |
-| Rework reduction | 28% | From standardization |
+
+| Metric              | Value    | Context                    |
+| ------------------- | -------- | -------------------------- |
+| Playbook adoption   | 87%      | Across portfolio/projects  |
+| Rework reduction    | 28%      | From standardization       |
 | Hypercare reduction | 5.5 days | Post-go-live stabilization |
 
 ## Resume Presence
@@ -46,6 +48,7 @@ Creating standardized, repeatable processes and documentation that codify best p
 **Appears in:** 25/25 variants (universal)
 
 **How I typically phrase this skill:**
+
 > "Created standardized playbooks for onboarding, training, and escalation—adopted across 87% of accounts"
 
 **Variations by context:**
@@ -58,10 +61,12 @@ Creating standardized, repeatable processes and documentation that codify best p
 ## Demonstrated in Projects
 
 **Primary evidence:**
+
 - [[Customer Success Playbook System]] — Created core playbooks (Cutover, Training, Integration/Conversion, Escalation) adopted across 87% of portfolio
 - [[Conversion Intake Optimization]] — Standardized processes reducing rework by 28%
 
 **Supporting evidence:**
+
 - [[First 30 Days Adoption Program]]
 - [[SSO First-Time-Right Initiative]]
 
@@ -70,15 +75,18 @@ Creating standardized, repeatable processes and documentation that codify best p
 ## Related Skills
 
 ### Parent/Umbrella
-- [[Process Design & Documentation]]
+
+- [[Playbook Development]]
 - [[Customer Success Strategy]]
 
 ### Sibling Skills (often paired with)
+
 - [[Onboarding]]
 - [[Escalation Management]]
 - [[Training & Enablement]]
 
 ### Sub-skills/Specializations
+
 - Process mapping
 - Template creation
 - Knowledge base management
@@ -87,11 +95,13 @@ Creating standardized, repeatable processes and documentation that codify best p
 ## Interview Notes
 
 **Common questions about this skill:**
+
 1. "Walk me through a playbook you created and its impact."
 2. "How do you get teams to actually adopt standardized processes?"
 3. "How do you balance standardization with customization for individual customers?"
 
 **Your STAR story:**
+
 - **Situation:** Implementation quality varied across consultants; rework was common
 - **Task:** Create standardized processes to improve consistency
 - **Action:** Documented best practices into Cutover, Training, and Integration playbooks; trained team; tracked adoption
