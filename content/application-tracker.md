@@ -14,14 +14,15 @@ Track all job applications, their status, and next steps.
 
 ## Active Applications
 
-| Company                                                                    | Role                    | Applied Date | Status  | Next Step         | Notes                                     |
-| -------------------------------------------------------------------------- | ----------------------- | ------------ | ------- | ----------------- | ----------------------------------------- |
-| [[Applications/ExtraHop - CSM I Public Sector\|ExtraHop]]                  | CSM I - Public Sector   | 2025-01-17   | Applied | Wait for response | NDR/cybersecurity, remote, $90-100K + 10% |
-| [[Applications/Buffalo Grove - Deputy CDD\|Buffalo Grove]]                 | Deputy CDD              | 2025-01-17   | Applied | Wait for response | Local government, Buffalo Grove IL        |
-| [[Applications/Penguin Solutions - Engagement Manager\|Penguin Solutions]] | Engagement Manager      | 2025-01-17   | Applied | Wait for response | Tech/semiconductor                        |
-| [[Applications/PiP - Manager\|PiP]]                                        | Manager                 | 2025-01-17   | Applied | Wait for response |                                           |
-| [[Applications/StrataDecision - Manager Consulting\|StrataDecision]]       | Manager, Consulting     | 2025-01-17   | Applied | Wait for response | Healthcare analytics                      |
-| [[Applications/Alkami - Implementations Manager\|Alkami]]                  | Implementations Manager | 2025-01-20   | Applied | Wait for response | Digital banking, remote, $100-120K        |
+| Company                                                                    | Role                         | Applied Date | Status  | Next Step         | Notes                                      |
+| -------------------------------------------------------------------------- | ---------------------------- | ------------ | ------- | ----------------- | ------------------------------------------ |
+| [[Applications/ExtraHop - CSM I Public Sector\|ExtraHop]]                  | CSM I - Public Sector        | 2025-01-17   | Applied | Wait for response | NDR/cybersecurity, remote, $90-100K + 10%  |
+| [[Applications/Buffalo Grove - Deputy CDD\|Buffalo Grove]]                 | Deputy CDD                   | 2025-01-17   | Applied | Wait for response | Local government, Buffalo Grove IL         |
+| [[Applications/Penguin Solutions - Engagement Manager\|Penguin Solutions]] | Engagement Manager           | 2025-01-17   | Applied | Wait for response | Tech/semiconductor                         |
+| [[Applications/PiP - Manager\|PiP]]                                        | Manager                      | 2025-01-17   | Applied | Wait for response |                                            |
+| [[Applications/StrataDecision - Manager Consulting\|StrataDecision]]       | Manager, Consulting          | 2025-01-17   | Applied | Wait for response | Healthcare analytics                       |
+| [[Applications/Alkami - Implementations Manager\|Alkami]]                  | Implementations Manager      | 2025-01-20   | Applied | Wait for response | Digital banking, remote, $100-120K         |
+| [[Applications/Braintrust - Customer Solutions Architect\|Braintrust]]     | Customer Solutions Architect | 2025-01-20   | Applied | Wait for response | AI observability platform, remote, startup |
 
 ---
 
@@ -57,11 +58,11 @@ Track all job applications, their status, and next steps.
 
 | Metric              | Count |
 | ------------------- | ----- |
-| Total Applications  | 6     |
-| Active Applications | 6     |
+| Total Applications  | 7     |
+| Active Applications | 7     |
 | Interviews          | 0     |
 | Offers              | 0     |
 
 ---
 
-_Last updated: January 20, 2025_
+_Last updated: January 20, 2026_
