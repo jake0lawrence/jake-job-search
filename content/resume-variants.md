@@ -43,6 +43,7 @@ Resume variants for implementation and consulting roles:
 | [StrataDecision Manager Consulting](Applications/Assets/Jake_Lawrence_Resume_StrataDecision_ManagerConsulting_2025-01172026.pdf) | StrataDecision    | Healthcare analytics, consulting     |
 | [Penguin Solutions Engagement Manager](Applications/Assets/Jake_Lawrence_Resume_PenguinSolutions_EngagementManager_01172026.pdf) | Penguin Solutions | Customer engagement, tech            |
 | [PiP Manager](Applications/Assets/Jake_Lawrence_Resume_PiP_Manager_01172026.pdf)                                                 | PiP               | Manager role                         |
+| [Alkami Implementations Manager](Applications/Assets/Jake_Lawrence_Resume_Alkami_Implementations_Manager_01202026.pdf)           | Alkami            | Digital banking implementations      |
 
 ### Scaled & Digital Customer Success
 
@@ -83,15 +84,16 @@ Resume variants for enterprise customer success roles:
 
 ## Latest Application Packages
 
-> **5 Applications Submitted** _(January 17, 2025)_
+> **6 Applications Submitted** _(January 20, 2025)_
 
-| Company                                                                    | Role                  | Resume                                                                                                   | Cover Letter                                                                                                        |
-| -------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [[Applications/ExtraHop - CSM I Public Sector\|ExtraHop]]                  | CSM I - Public Sector | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf)            | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_ExtraHop_CSM_Public_Sector_01172026.pdf)            |
-| [[Applications/Buffalo Grove - Deputy CDD\|Buffalo Grove]]                 | Deputy CDD            | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_BuffaloGrove_DeputyCDD_01172026.pdf)                | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_BuffaloGrove_DeputyCDD_01172026.pdf)                |
-| [[Applications/Penguin Solutions - Engagement Manager\|Penguin Solutions]] | Engagement Manager    | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_PenguinSolutions_EngagementManager_01172026.pdf)    | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_PenguinSolutions_EngagementManager01172026.pdf)     |
-| [[Applications/PiP - Manager\|PiP]]                                        | Manager               | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_PiP_Manager_01172026.pdf)                           | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_PiP_Manager_01172026.pdf)                           |
-| [[Applications/StrataDecision - Manager Consulting\|StrataDecision]]       | Manager, Consulting   | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_StrataDecision_ManagerConsulting_2025-01172026.pdf) | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_StrataDecision_ManagerConsulting_2025-01172026.pdf) |
+| Company                                                                    | Role                    | Resume                                                                                                   | Cover Letter                                                                                                        |
+| -------------------------------------------------------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [[Applications/ExtraHop - CSM I Public Sector\|ExtraHop]]                  | CSM I - Public Sector   | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_ExtraHop_CSM_Public_Sector_01172026.pdf)            | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_ExtraHop_CSM_Public_Sector_01172026.pdf)            |
+| [[Applications/Buffalo Grove - Deputy CDD\|Buffalo Grove]]                 | Deputy CDD              | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_BuffaloGrove_DeputyCDD_01172026.pdf)                | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_BuffaloGrove_DeputyCDD_01172026.pdf)                |
+| [[Applications/Penguin Solutions - Engagement Manager\|Penguin Solutions]] | Engagement Manager      | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_PenguinSolutions_EngagementManager_01172026.pdf)    | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_PenguinSolutions_EngagementManager01172026.pdf)     |
+| [[Applications/PiP - Manager\|PiP]]                                        | Manager                 | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_PiP_Manager_01172026.pdf)                           | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_PiP_Manager_01172026.pdf)                           |
+| [[Applications/StrataDecision - Manager Consulting\|StrataDecision]]       | Manager, Consulting     | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_StrataDecision_ManagerConsulting_2025-01172026.pdf) | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_StrataDecision_ManagerConsulting_2025-01172026.pdf) |
+| [[Applications/Alkami - Implementations Manager\|Alkami]]                  | Implementations Manager | [📄 Resume](Applications/Assets/Jake_Lawrence_Resume_Alkami_Implementations_Manager_01202026.pdf)        | [📄 Cover Letter](Applications/Assets/Jake_Lawrence_CoverLetter_Alkami_Implementations_Manager_01202026.pdf)        |
 
 ---
 
@@ -113,4 +115,4 @@ Resume variants for enterprise customer success roles:
 
 ---
 
-_Last updated: January 17, 2025_
+_Last updated: January 20, 2025_
